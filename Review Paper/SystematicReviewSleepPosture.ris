@@ -1,0 +1,2174 @@
+TY  - CONF
+AB  - Sleep plays a pivotal role in the quality of life, and sleep posture is related to many medical conditions such as sleep apnea. In this paper, we design a dense pressure-sensitive bedsheet for sleep posture monitoring. In contrast to existing techniques, our bedsheet system offers a completely unobtrusive method using comfortable textile sensors. Based on high-resolution pressure distributions from the bedsheet, we develop a novel framework for pressure image analysis to monitor sleep postures, including a set of geometrical features for sleep posture characterization and three sparse classifiers for posture recognition. We run a pilot study and evaluate the performance of our methods with 14 subjects to analyze 6 common postures. The experimental results show that our proposed method enables reliable sleep posture recognition and offers better overall performance than state-of-the-art methods, achieving up to 83.0% precision and 83.2% recall on average.
+AU  - Liu, J. J.
+AU  - Wenyao Xu
+AU  - Ming-Chun Huang
+AU  - Alshurafa, N.
+AU  - Sarrafzadeh, M.
+AU  - Raut, N.
+AU  - Yadegar, B.
+DA  - 2013/3//
+DO  - 10.1109/PerCom.2013.6526734
+KW  - Sleep apnea;Sensors;Hip;Feature extraction;Shoulder;Monitoring;Training;Sleep Posture;Bedsheet;Sparse Classifier;Pressure Image Analysis
+PB  - IEEE
+PY  - 2013
+SN  - 978-1-4673-4575-0
+SP  - 207
+EP  - 215
+TI  - A dense pressure sensitive bedsheet design for unobtrusive sleep posture monitoring
+T2  - 2013 IEEE International Conference on Pervasive Computing and Communications (PerCom)
+UR  - http://ieeexplore.ieee.org/document/6526734/
+ER  -
+TY  - CONF
+AB  - The monitoring of human respiratory rate is essential in many clinical applications including the detection and monitoring of sleep disorders, the monitoring of newborns for Sudden Infant Death Syndrome (SIDS), and identifying patients at high risk up to 24 hours before an adverse event like stroke and cardiac arrest [1]. Traditional noninvasive respiratory rate measurements in a hospital setting rely on clinical staff to visually track a patient's chest movement for a period of time to derive the respiratory rate from the number of movements observed. Failure to perform continuous and quantified measurements of respiratory rate could result in an inability to rescue a patient exhibiting respiratory distress. Severe after effects hinder recovery and result in loss of time, cost, or even life. This paper proposes an e-textile pressure sensitive bed sheet to non-invasively and accurately measure respiratory rate by analyzing time-stamped pressure distribution sequences. The bed sheet provides a 24/7 quantified on-bed respiratory rate monitoring service. It is made of e-textile and is similar to a regular bed sheet in comfort. As a result, it can seamlessly fit in common clinical or home environments, reducing the possible interference with a patient's regular sleeping habits and resulting in a type of inconspicuous monitoring.
+AU  - Huang, Ming-Chun
+AU  - Xu, Wenyao
+AU  - Liu, Jason
+AU  - Samy, Lauren
+AU  - Vajid, Amir
+AU  - Alshurafa, Nabil
+AU  - Sarrafzadeh, Majid
+CY  - New York, NY, USA
+DA  - 2013/5//
+DO  - 10.1145/2504335.2504353
+KW  - bedsheet
+KW  - breath
+KW  - inconspicuous
+KW  - pressure sensor array
+KW  - respiratory rate
+PB  - ACM
+PY  - 2013
+SN  - 9781450319737
+SP  - 1
+EP  - 8
+TI  - Inconspicuous on-bed respiratory rate monitoring
+T2  - Proceedings of the 6th International Conference on PErvasive Technologies Related to Assistive Environments
+UR  - https://dl.acm.org/doi/10.1145/2504335.2504353
+ER  -
+TY  - CONF
+AB  - The quality of sleep is an important factor in maintaining a healthy life style. To date, technology has not enabled personalized, in-place sleep quality monitoring and analysis. Current sleep monitoring systems are often difficult to use and hence limited to sleep clinics, or invasive to users, e.g., requiring users to wear a device during sleep. This paper presents iSleep – a practical system to monitor an individual's sleep quality using off-the-shelf smartphone. iSleep uses the built-in microphone of the smartphone to detect the events that are closely related to sleep quality, including body movement, couch and snore, and infers quantitative measures of sleep quality. iSleep adopts a lightweight decision-tree-based algorithm to classify various events based on carefully selected acoustic features, and tracks the dynamic ambient noise characteristics to improve the robustness of classification. We have evaluated iSleep based on the experiment that involves 7 participants and total 51 nights of sleep, as well the data collected from real iSleep users. Our results show that iSleep achieves consistently above 90% accuracy for event classification in a variety of different settings. By providing a fine-grained sleep profile that depicts details of sleep-related events, iSleep allows the user to track the sleep efficiency over time and relate irregular sleep patterns to possible causes.
+AU  - Hao, Tian
+AU  - Xing, Guoliang
+AU  - Zhou, Gang
+CY  - New York, NY, USA
+DA  - 2013/11//
+DO  - 10.1145/2517351.2517359
+PB  - ACM
+PY  - 2013
+SN  - 9781450320276
+SP  - 1
+EP  - 14
+TI  - iSleep
+T2  - Proceedings of the 11th ACM Conference on Embedded Networked Sensor Systems
+UR  - https://dl.acm.org/doi/10.1145/2517351.2517359
+ER  -
+TY  - CONF
+AB  - Obstructive Sleep Apnea (OSA) affects 20% of adults in the world and is caused by a collapse of the soft tissue surrounding the upper airway, obstructing airflow. The vast majority of mild and moderate OSA patients are positional patients, which means that these patients show most of their breathing abnormalities while sleeping in supine position. For these patients positional therapy may be a simple and effective treatment solution. In this study we present a training system for positional patients to alert them when a SpO2 desaturation is occurring, or when they spend a long period of time sleeping in supine position. The alert is given to the patient initially as a smooth vibration in their wrist band, but if the condition persists, a buzzer is used for auditory indication. The system uses an accelerometer on the chest or abdomen to determine the sleeping posture and a commercial finger clip pulse oximeter to monitor heart rate and SpO2.
+AU  - Brugarolas, Rita
+AU  - Valero-Sarmiento, Jose M.
+AU  - Brna, Andrew
+DA  - 2015/3//
+DO  - 10.1109/VCACS.2015.7439613
+KW  - Decision support systems;accelerometer;machine learning;pulse oximetry;Bluetooth low energy
+PB  - IEEE
+PY  - 2015
+SN  - 978-1-4673-6957-2
+SP  - 1
+EP  - 6
+TI  - Wearable SpO2 and sleep posture monitoring system for Obstructive Sleep Apnea patients
+T2  - 2015 IEEE Virtual Conference on Applications of Commercial Sensors (VCACS)
+UR  - http://ieeexplore.ieee.org/document/7439613/
+ER  -
+TY  - CONF
+AB  - The monitoring of sleeping behavioral patterns is of major importance for various reasons such as the detection and treatment of sleep disorders, the assessment of the effect of different medical conditions or medications on the sleep quality, and the assessment of mortality risks associated with sleeping patterns in adults and children. Sleep monitoring by itself is a difficult problem due to both privacy and technical considerations.The proposed system uses a combination of non-invasive sensors to assess and report sleep patterns and breathing activity: a contact-based pressure mattress and a non-contact 2D image acquisition device. To evaluate our system, we used real data collected in Heracleia Lab's assistive living apartment. Our system uses Machine Learning and Computer Vision techniques to automatically analyze the collected data, recognize sleep patterns and track the breathing behavior. It is non-invasive, as it does not disrupt the user's usual sleeping behavior and it can be used both at the clinic and at home with minimal cost. Going one step beyond, we developed a mobile application for visualizing the analyzed data and monitor the patient's sleep status remotely.
+AU  - Papakostas, Michalis
+AU  - Staud, James
+AU  - Makedon, Fillia
+AU  - Metsis, Vangelis
+CY  - New York, NY, USA
+DA  - 2015/7//
+DO  - 10.1145/2769493.2769585
+KW  - breath monitoring
+KW  - health-care information retrieval
+KW  - machine learning
+KW  - mobile applications
+KW  - sleep disorders
+KW  - sleep monitoring
+PB  - ACM
+PY  - 2015
+SN  - 9781450334525
+SP  - 1
+EP  - 4
+TI  - Monitoring breathing activity and sleep patterns using multimodal non-invasive technologies
+T2  - Proceedings of the 8th ACM International Conference on PErvasive Technologies Related to Assistive Environments
+UR  - https://dl.acm.org/doi/10.1145/2769493.2769585
+ER  -
+TY  - CONF
+AB  - Obstructive Sleep Apnea (OSA) affects 20% of adults in the world and is
+caused by a collapse of the soft tissue surrounding the upper airway,
+obstructing airflow. The vast majority of mild and moderate OSA patients
+are positional patients, which means that these patients show most of
+their breathing abnormalities while sleeping in supine position. For
+these patients positional therapy may be a simple and effective
+treatment solution. In this study we present a training system for
+positional patients to alert them when a SpO(2) desaturation is
+occurring, or when they spend a long period of time sleeping in supine
+position. The alert is given to the patient initially as a smooth
+vibration in their wrist band, but if the condition persists, a buzzer
+is used for auditory indication. The system uses an accelerometer on the
+chest or abdomen to determine the sleeping posture and a commercial
+finger clip pulse oximeter to monitor heart rate and SpO(2).
+AU  - Brugarolas, Rita
+AU  - Valero-Sarmiento, Jose M.
+AU  - Brna, Andrew
+DA  - 2015/3//
+DO  - 10.1109/VCACS.2015.7439613
+PB  - IEEE
+PY  - 2015
+SN  - 978-1-4673-6957-2
+SP  - 1
+EP  - 6
+TI  - Wearable SpO2 and sleep posture monitoring system for Obstructive Sleep Apnea patients
+T2  - 2015 IEEE Virtual Conference on Applications of Commercial Sensors (VCACS)
+UR  - http://ieeexplore.ieee.org/document/7439613/
+ER  -
+TY  - JOUR
+AB  - A mechanically durable and air stable organic rectifier diode is demonstrated, taking advantage of face-on grown copper phthalocyanine and a polyethylenimine ethoxylated/Au cathode. The current density reaches 20 A cm−2 at 2 V with a rectification ratio of 6.5 × 107 and the diode is mechanically robust, even against folding. Imaging of the pressure distribution on a foot during stepping is realized.
+AU  - Matsuhisa, Naoji
+AU  - Sakamoto, Hiroaki
+AU  - Yokota, Tomoyuki
+AU  - Zalar, Peter
+AU  - Reuveny, Amir
+AU  - Lee, Sunghoon
+AU  - Someya, Takao
+DA  - 2016/10//
+DO  - 10.1002/aelm.201600259
+IS  - 10
+KW  - air stability
+KW  - mechanical durability
+KW  - organic diodes
+KW  - sensor matrices
+PY  - 2016
+SP  - 1600259
+EP  - 1600259
+TI  - A Mechanically Durable and Flexible Organic Rectifying Diode with a Polyethylenimine Ethoxylated Cathode
+T2  - Advanced Electronic Materials
+UR  - https://onlinelibrary.wiley.com/doi/10.1002/aelm.201600259
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - Pressure ulcers (PUs) are common among vulnerable patients such as elderly, bedridden and diabetic. PUs are very painful for patients and costly for hospitals and nursing homes. Assessment of sleeping parameters on at-risk limbs is critical for ulcer prevention. An effective assessment depends on automatic identification and tracking of at-risk limbs. An accurate limb identification can be used to analyze the pressure distribution and assess risk for each limb. In this paper, we propose a graph-based clustering approach to extract the body limbs from the pressure data collected by a commercial pressure map system. A robust signature-based technique is employed to automatically label each limb. Finally, an assessment technique is applied to evaluate the experienced stress by each limb over time. The experimental results indicate high performance and more than 94% average accuracy of the proposed approach.
+AU  - Baran Pouyan, Maziyar
+AU  - Birjandtalab, Javad
+AU  - Nourani, Mehrdad
+AU  - Matthew Pompeo, M.D.
+DA  - 2016/8//
+DO  - 10.1016/j.compbiomed.2016.05.017
+KW  - Assessment
+KW  - Bed-inclination
+KW  - Graph clustering
+KW  - Limb identification
+KW  - Pressure image
+KW  - Pressure ulcer
+PY  - 2016
+SP  - 98
+EP  - 108
+TI  - Automatic limb identification and sleeping parameters assessment for pressure ulcer prevention
+T2  - Computers in Biology and Medicine
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S001048251630138X
+VL  - 75
+ER  -
+TY  - JOUR
+AB  - Sleep posture is a key component in sleep quality assessment and pressure ulcer prevention. Currently, body pressure analysis has been a popular method for sleep posture recognition. In this paper, a matching-based approach, Body-Earth Mover's Distance (BEMD), for sleep posture recognition is proposed. BEMD treats pressure images as weighted 2D shapes, and combines EMD and Euclidean distance for similarity measure. Compared with existing work, sleep posture recognition is achieved with posture similarity rather than multiple features for specific postures. A pilot study is performed with 14 persons for six different postures. The experimental results show that the proposed BEMD can achieve 91.21% accuracy, which outperforms the previous method with an improvement of 8.01%.
+AU  - Xu, Xiaowei
+AU  - Lin, Feng
+AU  - Wang, Aosen
+AU  - Hu, Yu
+AU  - Huang, Ming-Chun
+AU  - Xu, Wenyao
+DA  - 2016/10//
+DO  - 10.1109/TBCAS.2016.2543686
+IS  - 5
+KW  - Shape;Pressure sensors;Sensor arrays;Resistance;Euclidean distance;Cameras;Earth Mover’s Distance;pressure image;shape descriptor;sleep posture analysis
+PY  - 2016
+SP  - 1023
+EP  - 1035
+TI  - Body-Earth Mover’s Distance: A Matching-Based Approach for Sleep Posture Recognition
+T2  - IEEE Transactions on Biomedical Circuits and Systems
+UR  - http://ieeexplore.ieee.org/document/7524686/
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - This work investigated a new challenging problem: how to analyze human sleep comfort which is an urgent problem in intelligent home and medical supervision, especially in intelligent temperature control of air conditioners. To overcome this problem, a novel part-based mixture model is proposed to estimate human sleep comfort. Unlike conventional human sleep comfort analysis using uncomfortable and expensive wearable-device, a remote infrared camera and a cheap temperature sensor are used to collect human sleep posture and real-time temperature information. Moreover, a robust sleep posture feature extraction method is firstly proposed to describe sleep comfort not matter human body is covered by a sheet or not. Experiments on a custom-made database demonstrated that the proposed method has promising performance for on-line human sleep comfort analysis.
+AU  - Su, Lumei
+AU  - Xu, Min
+DA  - 2017/10//
+DO  - 10.1016/j.neucom.2016.08.128
+KW  - Human sleep comfort estimation
+KW  - Part-based mixture model
+KW  - Sleep posture feature extraction
+PY  - 2017
+SP  - 66
+EP  - 75
+TI  - Sleep comfort analysis using a part-based mixture model with nighttime infrared video
+T2  - Neurocomputing
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0925231217302588
+VL  - 259
+ER  -
+TY  - CONF
+AB  - Sleep positions have an impact on sleep quality and therefore need to be further analyzed. Current research on position tracking includes only the four basic positions. In the context of wearable devices, energy efficiency is still an open issue. This research presents a way to detect eight positions with higher granularity under energy efficient constraints. Generalized Matrix Learning Vector Quantization is used, as it is a fast and appropriate method for environments with limited computation resources, and has not been seen for this kind of application before. The overall model trained on individuals performs with an averaged accuracy of 99.8%, in contrast to an averaged accuracy of 83.62% for grouped datasets. Real world application gives an accuracy of around 98%. The results show that energy efficiency will be feasible, as performance stays similar for lower sampling rate. This is a step towards a mobile solution which gives more insight in person's sleep behaviour.
+AU  - Fallmann, Sarah
+AU  - van Veen, Rick
+AU  - Chen, Liming
+AU  - Walker, David
+AU  - Chen, Feng
+AU  - Pan, Chengsheng
+DA  - 2017/10//
+DO  - 10.1109/HealthCom.2017.8210806
+KW  - Sleep apnea;Sensors;Legged locomotion;Accelerometers;Biomedical monitoring;Monitoring;Imaging
+PB  - IEEE
+PY  - 2017
+SN  - 978-1-5090-6704-6
+SP  - 1
+EP  - 6
+TI  - Wearable accelerometer based extended sleep position recognition
+T2  - 2017 IEEE 19th International Conference on e-Health Networking, Applications and Services (Healthcom)
+UR  - http://ieeexplore.ieee.org/document/8210806/
+ER  -
+TY  - CONF
+AB  - Sleeping is one of the most important activities in our daily lives and affect our health. However, very few people could really understand their sleeping habits, which is important to avoid potential sleep-related diseases. Most current studies on sleeping posture studies aim at the monitoring of sleeping postures. However, they are limited to be used in hospitals and need experts to operate these equipment. In this paper, we proposed an automatically sleeping posture estimation system for ordinary people to use in their homes. The customers are only required to wear two sensors, one on chest and the other on wrist during the training process of the sleeping posture monitoring model. We adopted random forest algorithm in the model training algorithm. After this training procedures, users' sleeping postures can be recognized by only wearing one sensor on the wrist. Also, we proposed a data cleaning procedures to process raw sensor data to find the ground truth of sleeping posture. Our experiment results showed that the proposed sleep posture technique can estimate the body posture accurately.
+AU  - Jeng, Poyuan
+AU  - Wang, Li-Chun
+DA  - 2017/5//
+DO  - 10.1109/ICASI.2017.7988585
+KW  - Sleep apnea;Monitoring;Wrist;Training;Accelerometers;Sensor systems
+PB  - IEEE
+PY  - 2017
+SN  - 978-1-5090-4897-7
+SP  - 903
+EP  - 905
+TI  - An accurate, low-cost, easy-to-use sleep posture monitoring system
+T2  - 2017 International Conference on Applied System Innovation (ICASI)
+UR  - http://ieeexplore.ieee.org/document/7988585/
+ER  -
+TY  - CONF
+AB  - Sleeping is one of the most important activities in our daily lives. However, very few people really understand their sleeping habits, which affect sleep-related diseases such as sleep apnea, back problems or even snoring. Most current techniques that monitor, predict and quantify sleep postures are limited to use in hospitals and/or need the intervention of caregivers. In this paper, we describe a system to automatically monitor, predict and quantify sleep postures that may be self-applied by the general public even in a non-hospital environment such as at a persons home. A Random Forest approach is adopted during training to predict and quantify sleep postures. After going through training procedures, a person needs only one sensor placed on the wrist to recognize the persons sleep postures. Our preliminary experiments using a set of testing data show about 90 percent accuracy, indicating that this design has a promising future to accurately analyze, predict and quantify human sleep postures.
+AU  - Jeng, Poyuan
+AU  - Wang, Li-Chun
+DA  - 2017/4//
+DO  - 10.1109/WOCC.2017.7928969
+KW  - Sleep apnea;Sensors;Monitoring;Wrist;Training;Receivers;Accelerometers;sleep posture;accelerometer;body sensor network;stream data
+PB  - IEEE
+PY  - 2017
+SN  - 978-1-5090-4909-7
+SP  - 1
+EP  - 4
+TI  - Stream data analysis of body sensors for sleep posture monitoring: An automatic labelling approach
+T2  - 2017 26th Wireless and Optical Communication Conference (WOCC)
+UR  - http://ieeexplore.ieee.org/document/7928969/
+ER  -
+TY  - JOUR
+AB  - Sleep posture has been used as a sleep assessment indicator in home health monitoring and clinical monitoring in recent years. Considering comfort and usability, unobtrusive sleep posture detection is needed. In this paper, we proposed a novel sleep respiration-derived posture (RDP) method based on left and right lung respiration impedance signals. We developed a dual-channel respiratory impedance acquisition system with wireless transmission. Then, support vector machine using radial basis function kernel was applied to recognize four typical sleep postures. Moreover, the performance of the SVM classifier was improved by using backward elimination. In-situ experiments with 16 subjects indicated that the RDP method reached an accuracy of 99.67%. Thus, our method is reliable in sleep posture recognition. Furthermore, a whole-night monitoring system based on respiration impedance can be conducted for sleep quality assessment.
+AU  - Liu, Guanzheng
+AU  - Li, Kunyang
+AU  - Zheng, Lianrong
+AU  - Chen, Wen-Hui
+AU  - Zhou, Guangmin
+AU  - Jiang, Qing
+DA  - 2017/10//
+DO  - 10.1109/ACCESS.2017.2737461
+KW  - Impedance;Sleep apnea;Lungs;Sensors;Instruments;Monitoring;Support vector machines;Respiration derived posture (RDP);respiratory impedance;backward elimination (BE);support vector machine (SVM);radial basis function (RBF)
+PY  - 2017
+SP  - 17514
+EP  - 17524
+TI  - A Respiration-Derived Posture Method Based on Dual-Channel Respiration Impedance Signals
+T2  - IEEE Access
+UR  - http://ieeexplore.ieee.org/document/8004417/
+VL  - 5
+ER  -
+TY  - CONF
+AB  - Sleep positions have an impact on sleep quality and therefore need to be
+further analyzed. Current research on position tracking includes only
+the four basic positions. In the context of wearable devices, energy
+efficiency is still an open issue. This research presents a way to
+detect eight positions with higher granularity under energy efficient
+constraints. Generalized Matrix Learning Vector Quantization is used, as
+it is a fast and appropriate method for environments with limited
+computation resources, and has not been seen for this kind of
+application before. The overall model trained on individuals performs
+with an averaged accuracy of 99.8%, in contrast to an averaged accuracy
+of 83.62% for grouped datasets. Real world application gives an
+accuracy of around 98%. The results show that energy efficiency will be
+feasible, as performance stays similar for lower sampling rate. This is
+a step towards a mobile solution which gives more insight in person's
+sleep behaviour.
+AU  - Fallmann, Sarah
+AU  - van Veen, Rick
+AU  - Chen, Liming
+AU  - Walker, David
+AU  - Chen, Feng
+AU  - Pan, Chengsheng
+DA  - 2017/10//
+DO  - 10.1109/HealthCom.2017.8210806
+PB  - IEEE
+PY  - 2017
+SN  - 978-1-5090-6704-6
+SP  - 1
+EP  - 6
+TI  - Wearable accelerometer based extended sleep position recognition
+T2  - 2017 IEEE 19th International Conference on e-Health Networking, Applications and Services (Healthcom)
+UR  - http://ieeexplore.ieee.org/document/8210806/
+ER  -
+TY  - CONF
+AB  - Sleeping is one of the most important activities in our daily lives.
+However, very few people really understand their sleeping habits, which
+affect sleep-related diseases such as sleep apnea, back problems or even
+snoring. Most current techniques that monitor, predict and quantify
+sleep postures are limited to use in hospitals and/or need the
+intervention of caregivers. In this paper, we describe a system to
+automatically monitor, predict and quantify sleep postures that may be
+self-applied by the general public even in a non-hospital environment
+such as at a persons home. A Random Forest approach is adopted during
+training to predict and quantify sleep postures. After going through
+training procedures, a person needs only one sensor placed on the wrist
+to recognize the persons sleep postures. Our preliminary experiments
+using a set of testing data show about 90 percent accuracy, indicating
+that this design has a promising future to accurately analyze, predict
+and quantify human sleep postures.
+AU  - Jeng, Poyuan
+AU  - Wang, Li-Chun
+PY  - 2017
+SN  - 978-1-5090-4909-7
+TI  - Stream Data Analysis of Body Sensors for Sleep Posture Monitoring: An
+Automatic Labelling Approach
+T2  - 2017 26TH WIRELESS AND OPTICAL COMMUNICATION CONFERENCE (WOCC)
+ER  -
+TY  - CONF
+AB  - In this paper, a innovative method based on Pyroelectric Infrared sensing is proposed for sleep-monitoring. First, a pyroelectric infrared sensor is used to receive the infrared radiation emitted from a human body. Then we extract the motion information by analyzing the features of analog signal, which is outputted from the pyroelectric infrared sensor. At last, the nearest neighbor algorithm based on modified Hausdorff-distance is employed to achieve the sleep position recognition. The experimental results show that the biggest correct classification rate of this method reaches 83.55%. This new method provides a nonintrusive way of sleep position recognition for sleep-monitoring.
+AU  - Zhang, Sijia
+AU  - Wang, Guoli
+AU  - Guo, Xuemei
+DA  - 2018/7//
+DO  - 10.1109/WCICA.2018.8630453
+KW  - Monitoring;Training;Feature extraction;Infrared sensors;Hidden Markov models;Biological system modeling;pyroelectric infrared sensor;modified Hausdorff distance matching;sleep position recognition
+PB  - IEEE
+PY  - 2018
+SN  - 978-1-5386-7346-1
+SP  - 495
+EP  - 498
+TI  - Sleep-pose Recognition Based On Pyroelectric Infrared Sensing Technology
+T2  - 2018 13th World Congress on Intelligent Control and Automation (WCICA)
+UR  - https://ieeexplore.ieee.org/document/8630453/
+ER  -
+TY  - CONF
+AB  - Sleep position is directly related to sleep quality especially in patients with sleep disorders such as sleep apnea or snoring. We propose SleeP-Manager, a wearable embedded system, that is designed to aid Sleep Positional Therapy (SPT). SleeP-Manager with two wristbands monitors the sleep position of the user and gives a vibration feedback when a poor position is detected. We experimentally evaluate the effectiveness of SleeP-Manager. In order to accomplish this, an additional device of chestband is designed. The chestband provides the true sleep position and also measures the response of users to the vibration feedback. The results indicate that the accuracy of sleep position detection higher than 80%, and the ratio of desired sleep position per night increased significantly by the use of SleeP-Manager. Our questionnaire survey shows the wristband-typed device is most preferred for SPT due to the cost-effectiveness, easy-to-wear, and practicality.
+AU  - Jeon, Sanghoon
+AU  - Paul, Anand
+AU  - Son, Sang Hyuk
+AU  - Eun, Yongsoon
+CY  - New York, NY, USA
+DA  - 2018/11//
+DO  - 10.1145/3274783.3275185
+KW  - Sleep position therapy
+KW  - sleep apnea
+KW  - sleep quality
+KW  - wristbands
+PB  - ACM
+PY  - 2018
+SN  - 9781450359528
+SP  - 365
+EP  - 366
+TI  - Sleep Position Management System for Enhancing Sleep Quality using Wearable Devices
+T2  - Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems
+UR  - https://dl.acm.org/doi/10.1145/3274783.3275185
+ER  -
+TY  - JOUR
+AB  - <p>Sleep is an important part of our daily routine -- we spend about one-third of our time doing it. By tracking sleep-related events and activities, sleep monitoring provides decision support to help us understand sleep quality and causes of poor sleep. Wearable devices provide a new way for sleep monitoring, allowing us to monitor sleep from the comfort of our own home. However, existing solutions do not take full advantage of the rich sensor data provided by these devices. In this paper, we present the design and development of SleepGuard, a novel approach to track a wide range of sleep-related events using smartwatches. We show that using merely a single smartwatch, it is possible to capture a rich amount of information about sleep events and sleeping context, including body posture and movements, acoustic events, and illumination conditions. We demonstrate that through these events it is possible to estimate sleep quality and identify factors affecting it most. We evaluate our approach by conducting extensive experiments involved fifteen users across a 2-week period. Our experimental results show that our approach can track a richer set of sleep events, provide better decision support for evaluating sleep quality, and help to identify causes for sleep problems compared to prior work.</p>
+AU  - Chang, Liqiong
+AU  - Lu, Jiaqi
+AU  - Wang, Ju
+AU  - Chen, Xiaojiang
+AU  - Fang, Dingyi
+AU  - Tang, Zhanyong
+AU  - Nurmi, Petteri
+AU  - Wang, Zheng
+CY  - New York, NY, USA
+DA  - 2018/9//
+DO  - 10.1145/3264908
+IS  - 3
+KW  - Smartwatch sensing
+KW  - mobile sensing
+KW  - sleep events
+KW  - sleep monitoring
+PB  - Association for Computing Machinery
+PY  - 2018
+SP  - 1
+EP  - 34
+TI  - SleepGuard
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3264908
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - <p> In this paper, we propose a lying posture discrimination algorithm to monitor the behavior pattern of a person lying in bed. Using FSR (force sensing resistor) sensors arranged in a grid structure, three major body parts such as <italic>head</italic> , <italic>shoulder</italic> , and <italic>hips</italic> are identified, and six lying positions are determined based on these body parts. Head, shoulder, and hips are relatively high in pressure and are easy to distinguish due to low movement. In addition, we have effectively limited the search space to identify the above body parts based on standard body dimensions. Experimental results show that there is a correlation between pressure distribution and lying posture. The results of this study can be applied to the monitoring of sleep posture and can also be used as an aid to prevent fall accidents and the occurrence of pressure ulcers of elderly patients who are unable to move. </p>
+AU  - Kim, Tae-Hwan
+AU  - Kwon, Soon-Ju
+AU  - Choi, Hyun-Min
+AU  - Hong, Youn-Sik
+DA  - 2019/4//
+DO  - 10.1155/2019/9568584
+IS  - 1
+PY  - 2019
+SP  - 1
+EP  - 16
+TI  - Determination of Lying Posture through Recognition of Multitier Body Parts
+T2  - Wireless Communications and Mobile Computing
+UR  - https://www.hindawi.com/journals/wcmc/2019/9568584/
+VL  - 2019
+ER  -
+TY  - JOUR
+AB  - Health informatics and telematics have been drastically influenced by big data of IoT devices. In this paper, we conducted a review of scientific literature and mapping of research trends on IoT Big Data Analytics paradigm (IoTBDA) in healthcare industry. The goal is to identify how the IoT BDA paradigm has impacted the design, development, and application of IoT based innovations in healthcare services. We conducted a qualitative and quantitative review of 46 papers on IoTBDA, and a quantitative review of 84 papers on fog computing in the healthcare industry. This study shows that IoT BDA has impacted the acquisition, storage, retrieval, and use of information in healthcare industry. Consequently, three derivers of IoT BDA convergence are identified. The first driver is computing; which is emerged as a response to reduce data congestion and inefficiencies of emergency systems. As the co-word analysis shows, issues such as security, privacy and data transfer are dominant scientific topics within the domain of fog computing. The second driver of convergence is the storage of IoT big data. This has led the researchers to classify IoT data to critical and non-critical data; while the critical data is sent to fog systems; non-critical data is sent to centralized cloud systems. The third driver of convergence is data abstraction. The study shows that IoT BDA has sparked the emergence of novel health applications and systems. This paper extends the literature on health informatics and telematics and our understanding of everyday practice of these systems in healthcare contexts. Since IoT BDA and fog computing in healthcare are new fields, findings of this study can act as a basis for future studies to determine novel research opportunities on IoT BDA.
+AU  - Saheb, Tahereh
+AU  - Izadi, Leila
+DA  - 2019/8//
+DO  - 10.1016/j.tele.2019.03.005
+KW  - Big data analytics
+KW  - Data abstraction
+KW  - Data storage
+KW  - Fog computing
+KW  - Health informatics
+KW  - IoT
+PY  - 2019
+SP  - 70
+EP  - 85
+TI  - Paradigm of IoT big data analytics in the healthcare industry: A review of scientific literature and mapping of research trends
+T2  - Telematics and Informatics
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S073658531831267X
+VL  - 41
+ER  -
+TY  - CONF
+AB  - Sleep is an important part of life, and sleep position recognition is an important indicator which reflects sleep quality, warns diseases and prevents pressure sores. Actually, sleep quality is usually related to the body pressure, which affects muscle comfort and blood circulation during sleep. However, in order to regulate the body pressure, one vital step is to recognize the sleep position. Body pressure is a common indicator of the recognition of sleep position. This investigation put forward a body pressure recognition method combining with kernel principal component analysis (KPCA) and support vector machine. The feature extraction based on KPCA can well solve the nonlinear separable problems as well as dimension reduction processing of PCA, and reduce the system's complexity. Compared with the image recognition method and computer vision recognition method, it realized a higher recognition accuracy at a lower cost. Ultimately, the recognition accuracy of six common sleep positions reached 96.5%.
+AU  - Liu, Zhong
+AU  - Wang, Xin'an
+AU  - Le, Yang
+AU  - Sun, Jone
+DA  - 2019/7//
+DO  - 10.1109/ICPICS47731.2019.8942399
+KW  - Sleep apnea;Support vector machines;Image recognition;Mathematical model;Feature extraction;Training;Principal component analysis;Flexible pressure sensor;Kernel principal component analysis;Sleep algorithm;Sleep quality;Sleep position recognition;Support vector machine
+PB  - IEEE
+PY  - 2019
+SN  - 978-1-7281-3720-9
+SP  - 189
+EP  - 193
+TI  - A Study on Sleep Position Recognition of Body Pressure Image based on KPCA and SVM
+T2  - 2019 IEEE International Conference on Power, Intelligent Computing and Systems (ICPICS)
+UR  - https://ieeexplore.ieee.org/document/8942399/
+ER  -
+TY  - CONF
+AB  - Sleeping is a naturally mechanism of body for help to repair the body. However, to monitor the sleep quality is not an easy task. In this research, we purpose sleep detection system, which can classify sleep postures and calculate Sleep Quality Index (SQI). Pressure sensing sensor, called i-Sleep sensor, with 48 embedded force sensors has been created in order to classify the sleep postures, several machine learning algorithms were adopted to classify the sleep posture. From the experiment, the successful rate of sleep posture detection is 86.7%. Finally, web application was implemented to show the real-time data, and sleep quality index in each day.
+AU  - Dhamchatsoontree, Supakit
+AU  - Sirisin, Chaiyapat
+AU  - Proncharoensukkul, Monika
+AU  - Wongpatikaseree, Konlakorn
+DA  - 2019/10//
+DO  - 10.1109/INCIT.2019.8912047
+KW  - Machine learning;Indexes;Data models;Sensors;Training;Information technology;Machine learning algorithms;Sleep posture;Sleep Quality Index;Sleep detection system;Pressure sensing;i-Sleep
+PB  - IEEE
+PY  - 2019
+SN  - 978-1-7281-1019-6
+SP  - 144
+EP  - 148
+TI  - i-Sleep: Intelligent Sleep Detection System for Analyzing Sleep Behavior
+T2  - 2019 4th International Conference on Information Technology (InCIT)
+UR  - https://ieeexplore.ieee.org/document/8912047/
+ER  -
+TY  - CONF
+AB  - The existing studies suggest the following methods for measuring sleep postures: installing cameras and record the sleep postures then analyze the postures or measuring the change of the posture by attaching the sensor to the user's body. However, the installation of high-cost devices such as a camera or direct attachment of sensors on the subject's body present issues relating to the cost and convenience. As a solution, this paper develops a recognition algorithm for analyzing sleep postures using a smart pad with embedded fabric type pressure sensors. This algorithm is applied using a fabric-made smart pad with multiple pressure sensors. The sensors detect the distribution of the body pressure on the pad during sleeping, and the collected body pressure distribution data determines the sleep postures of the users. Further, this smart fabric pad does not require any additional analytical devices. This pad allows the users to monitor own sleep postures continuously. With the analyzed sleep posture data, the user can recognize one's typical sleep postures. In order to verify the effectiveness of the algorithm, this paper conducts an experiment to validate using the sleep posture data defined as nine categories. As a result, the algorithm had an average of 91.4% accuracy rate.
+AU  - Lee, Sang Hun
+AU  - Ahn, Jung-uk
+AU  - Lee, Byung Mun
+CY  - New York, NY, USA
+DA  - 2019/2//
+DO  - 10.1145/3313991.3314000
+KW  - body pressure analysis
+KW  - pressure sensing
+KW  - recognition algorithm
+KW  - sleep disorder
+KW  - sleep posture
+PB  - ACM
+PY  - 2019
+SN  - 9781450362870
+SP  - 21
+EP  - 26
+TI  - Recognition Algorithm for Sleep Postures using a Smart Fabric Pad with Multiple Pressure Sensors
+T2  - Proceedings of the 2019 11th International Conference on Computer and Automation Engineering
+UR  - https://dl.acm.org/doi/10.1145/3313991.3314000
+ER  -
+TY  - JOUR
+AB  - <p>Sleep sound-activities including snore, cough and somniloquy are closely related to sleep quality, sleep disorder and even illnesses. To obtain the information of these activities, current solutions either require the user to wear various sensors/devices, or use the camera/microphone to record the image/sound data. However, many people are reluctant to wear sensors/devices during sleep. The video-based and audio-based approaches raise privacy concerns. In this work, we propose a novel system TagSleep to address the issues mentioned above. For the first time, we propose the concept of two-layer sensing. We employ the respiration sensing information as the basic first-layer information, which is applied to further obtain rich second-layer sensing information including snore, cough and somniloquy. Specifically, without attaching any device to the human body, by just deploying low-cost and flexible RFID tags near to the user, we can accurately obtain the respiration information. What's more interesting, the user's cough, snore and somniloquy all affect his/her respiration, so the fine-grained respiration changes can be used to infer these sleep sound-activities without recording the sound data. We design and implement our system with just three RFID tags and one RFID reader. We evaluate the performance of TagSleep with 30 users (13 males and 17 females) for a period of 2 months. TagSleep is able to achieve higher than 96.58% sensing accuracy in recognizing snore, cough and somniloquy under various sleep postures. TagSleep also boosts the sleep posture recognition accuracy to 98.94%.</p>
+AU  - Liu, Chen
+AU  - Xiong, Jie
+AU  - Cai, Lin
+AU  - Feng, Lin
+AU  - Chen, Xiaojiang
+AU  - Fang, Dingyi
+CY  - New York, NY, USA
+DA  - 2019/9//
+DO  - 10.1145/3351254
+IS  - 3
+KW  - Contactless Sensing
+KW  - Machine Learning
+KW  - RFIDs
+KW  - Sleep Postures
+KW  - Sleep sound-activity
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 1
+EP  - 22
+TI  - Beyond Respiration
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3351254
+VL  - 3
+ER  -
+TY  - CHAP
+AB  - One type of patients that needs to live on the bed for a certain time or
+worst, for the rest of their life is called bedridden. This type of
+patients need special attention from caretaker to regularly change the
+posture of the patient in order to prevent symptom named bed sore or
+pressure sore which will happen when the weight of the patient is
+applied to some points of the body too long which leads to injury to
+that certain points of the body. This research will carried out to
+design a system to relieve the work for the caretaker of a bedridden
+patient. This system consists of three parts; Sleep data collection
+where computer that connected to Kinect will continuously monitor the
+patient and send the data to the next part, Sleep posture analysis which
+will determine the postures of the patient from the input data, and
+Sleep notification part which will notify user with the current state of
+the patient. There are 3 machine learning algorithms that were chosen to
+compare their performance; Decision Tree (DT), Neural Network (NN), and
+Support Vector Machine (SVM). In the case of using the data from the
+same subjects as in the training set, DT shows lower accuracy at 93.33%
+than NN and SVM which achieve 100%. Similarly, in the case of using
+dataset that is not in the training set, DT still performs at 90% while
+both NN and SVM achieve 100%, the data are tested from both the
+subjects within the training set and new subjects but without any error
+exclusion which illustrates that NN which achieves 63.33% accuracy is
+more prone to the data with error than SVM which is 57.78%. Hence, NN
+is implemented with the system.
+AU  - Srisrisawang, Nitikorn
+AU  - Narupiyakul, Lalita
+DO  - 10.1007/978-981-13-1059-1_8
+ED  - Kim, K J
+ED  - Kim, H
+PY  - 2019
+SN  - 978-981-13-1059-1; 978-981-13-1058-4
+SP  - 79
+EP  - 87
+TI  - Sleep Posture Recognition for Bedridden Patient
+T2  - MOBILE AND WIRELESS TECHNOLOGY 2018, ICMWT 2018
+UR  - http://link.springer.com/10.1007/978-981-13-1059-1_8
+VL  - 513
+ER  -
+TY  - JOUR
+AB  - Human activity recognition has gained importance in recent years due to its applications in various fields such as health, security and surveillance, entertainment, and intelligent environments. A significant amount of work has been done on human activity recognition and researchers have leveraged different approaches, such as wearable, object-tagged, and device-free, to recognize human activities. In this article, we present a comprehensive survey of the work conducted over the 10-year period of 2010–2019 in various areas of human activity recognition with main focus on device-free solutions. The device-free approach is becoming very popular due to the fact that the subject is not required to carry anything. Instead, the environment is tagged with devices to capture the required information. We propose a new taxonomy for categorizing the research work conducted in the field of activity recognition and divide the existing literature into three sub-areas: action-based, motion-based, and interaction-based. We further divide these areas into ten different sub-topics and present the latest research works in these sub-topics. Unlike previous surveys which focus only on one type of activities, to the best of our knowledge, we cover all the sub-areas in activity recognition and provide a comparison of the latest research work in these sub-areas. Specifically, we discuss the key attributes and design approaches for the work presented. Then we provide extensive analysis based on 10 important metrics, to present a comprehensive overview of the state-of-the-art techniques and trends in different sub-areas of device-free human activity recognition. In the end, we discuss open research issues and propose future research directions in the field of human activity recognition.
+AU  - Hussain, Zawar
+AU  - Sheng, Quan Z.
+AU  - Zhang, Wei Emma
+DA  - 2020/10//
+DO  - 10.1016/j.jnca.2020.102738
+KW  - Dense sensing
+KW  - Device-free
+KW  - Gesture recognition
+KW  - Human activity recognition
+KW  - Human object interaction
+KW  - Internet of things
+KW  - Motion detection
+KW  - RFID
+PY  - 2020
+SP  - 102738
+EP  - 102738
+TI  - A review and categorization of techniques on device-free human activity recognition
+T2  - Journal of Network and Computer Applications
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1084804520302125
+VL  - 167
+ER  -
+TY  - JOUR
+AB  - Obstructive Sleep Apnea (OSA) syndrome is one of the most widespread diseases that difficult to be detected and remedied. In particular, the examination of OSA by using the traditional Polysomnography (PSG) is one of formidable complexity as it requires full observation in a laboratory overnight. Meanwhile, the number of available laboratories and beds is minimal comparing to the number of OSA patients. What's more, the unusual environment and restricted mobility of patients may result in deficient diagnosis results. The Internet of Things (IoT) is the most appropriate solution for the previous diagnosis obstacles by allowing doctors to synchronize patient status. Besides, several studies have been introduced to consolidate the performance of IoT interoperability via the fusion with Artificial Intelligence (AI) resulting in the Internet of Intelligent Things (IoIT). This paper presents a literature survey about the intensification of IoT technologies for smart monitoring of sleep quality and OSA diagnosis. Mainly, the most recent enabling IoT and support technologies such as (smart devices, fog computing, cloud, big data, and machine learning) are covered via the discussion of more recent works of literature published from 2016 to 2019. Also, the roles of AI in optimizing the efficiency of OSA smart diagnosis are presented. Besides, a new comprehensive IoIT optimization framework is presented which employing AI for optimizing the performance of intelligent diagnosis of OSA. Finally, the open issues and challenges in this field are argued. This paper is, therefore, a major contributor to the compilation of all IoT innovative and efficient AI methods that improving the quality of OSA diagnosis.
+AU  - Abdel-Basset, Mohamed
+AU  - Ding, Weiping
+AU  - Abdel-Fatah, Laila
+DA  - 2020/9//
+DO  - 10.1016/j.inffus.2020.03.010
+KW  - Artificial Intelligence
+KW  - Internet of Intelligent Things
+KW  - Internet of Things
+KW  - Obstructive Sleep Apnea
+KW  - Optimization
+KW  - Remote diagnosis
+PY  - 2020
+SP  - 84
+EP  - 100
+TI  - The fusion of Internet of Intelligent Things (IoIT) in remote diagnosis of obstructive Sleep Apnea: A survey and a new model
+T2  - Information Fusion
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1566253519307043
+VL  - 61
+ER  -
+TY  - CONF
+AB  - Human sleep postures are inextricably linked to health, which can be used as a pivotal indicator of disease prevention and treatment. To obtain a machine learning model for analyzing the human sleep postures, a new approach is proposed to efficiently recognize the types of sleep postures based on skeleton extraction. Four typical sleep postures, i.e., lying in the supine, prone, left lateral and right lateral, are classified with the method of extraction of key points relation feature as well as the direct coordinate feature, which can extract features of skeleton correctly and effectively. Furthermore, the presented method is applied to a specific scenario, which is utilized for monitoring sleep postures of patients who suffered from Obstructive Sleep Apnea-Hypopnea Syndrome (OSAHS) by making the detailed classification of supine posture. The effectiveness of the proposed framework was validated quantitatively and qualitatively. The performance of the extensive comparison experiments demonstrate that the proposed approach is superior and achieves the state-of-the-art.
+AU  - Lyu, Haozhou
+AU  - Tian, Jinglan
+DA  - 2020/8//
+DO  - 10.1109/CCET50901.2020.9213125
+KW  - Feature extraction;Skeleton;Faces;Sleep apnea;Object detection;Pose estimation;sleep posture recognition;object detection;pose estimation;machine learning
+PB  - IEEE
+PY  - 2020
+SN  - 978-1-7281-8811-9
+SP  - 99
+EP  - 104
+TI  - Skeleton-Based Sleep Posture Recognition with BP Neural Network
+T2  - 2020 IEEE 3rd International Conference on Computer and Communication Engineering Technology (CCET)
+UR  - https://ieeexplore.ieee.org/document/9213125/
+ER  -
+TY  - JOUR
+AB  - <p>The quality of sleep is an important factor in maintaining a healthy life style. A great deal of work has been done for designing sleep monitoring systems. However, most of existing solutions bring invasion to users more or less due to the exploration of the accelerometer sensor inside the device. This article presents iSleep—a practical system to monitor people’s sleep quality using off-the-shelf smartphone. iSleep uses the built-in microphone of the smartphone to detect the events that are closely related to sleep quality, and infers quantitative measures of sleep quality. iSleep adopts a lightweight decision-tree-based algorithm to classify various events. For two-user scenario, iSleep differentiates the events of two users either when two phones can collaborate with each other or when two phones cannot communicate with each other. The experimental results show that iSleep achieves consistently above 90% accuracy for event classification in a variety of different settings in one-user scenario and above 92% accuracy for distinguishing users in two-user scenario. By providing a fine-grained sleep profile that depicts details of sleep-related events, iSleep allows the user to track the sleep efficiency over time and relate irregular sleep patterns to possible causes.</p>
+AU  - Chang, Xiangmao
+AU  - Peng, Cheng
+AU  - Xing, Guoliang
+AU  - Hao, Tian
+AU  - Zhou, Gang
+CY  - New York, NY, USA
+DA  - 2020/8//
+DO  - 10.1145/3392049
+IS  - 3
+KW  - Sleep quality monitoring
+KW  - smartphones
+KW  - unobtrusive
+PB  - Association for Computing Machinery
+PY  - 2020
+SP  - 1
+EP  - 32
+TI  - iSleep
+T2  - ACM Transactions on Sensor Networks
+UR  - https://dl.acm.org/doi/10.1145/3392049
+VL  - 16
+ER  -
+TY  - JOUR
+AB  - <p>Monitoring sleep posture is important for avoiding bedsores after surgery, reducing apnea events, tracking the progression of Parkinson's disease, and even alerting epilepsy patients to potentially fatal sleep postures. Today, there is no easy way to track sleep postures. Past work has proposed installing cameras in the bedroom, mounting accelerometers on the subject's chest, or embedding pressure sensors in their bedsheets. Unfortunately, such solutions jeopardize either the privacy of the user or their sleep comfort.</p>
+AU  - Yue, Shichao
+AU  - Yang, Yuzhe
+AU  - Wang, Hao
+AU  - Rahul, Hariharan
+AU  - Katabi, Dina
+DA  - 2020/6//
+DO  - 10.1145/3397311
+IS  - 2
+PY  - 2020
+SP  - 1
+EP  - 25
+TI  - BodyCompass
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3397311
+VL  - 4
+ER  -
+TY  - CHAP
+AB  - Using the structure of the butterfly pillow is the most simplest
+identification method, combined with the pressure sensor. The resistance
+value of the pressure sensor is obtained by analog-to-digital converter
+(A/D). The change of resistance of pressure sensors under different
+sleeping postures is analyzed, then pattern matching system is used to
+realize pattern matching and sleep position recognition. The recognition
+rate of sleeping position in the NISS is 95.6%, and the recognition
+rate in ISS mode is 92.5%. The recognition method proposed in this
+paper does not interfere with the user's normal sleep experience.
+Combining the existing technology and methods to optimize the
+recognition of sleeping posture, the recognition rate of sleeping
+posture is still very high,which can help people with poor sleep to
+greatly optimize the sleep quality.
+AU  - Wang, Huabing
+AU  - Wan, Changyuan
+DO  - 10.1007/978-3-030-20451-8_23
+ED  - Lightner, N J
+ED  - Kalra, J
+PY  - 2020
+SN  - 978-3-030-20451-8; 978-3-030-20450-1
+SP  - 235
+EP  - 244
+TI  - Research on Sleeping Posture Recognition Method Based on Pressure Sensor
+T2  - ADVANCES IN HUMAN FACTORS AND ERGONOMICS IN HEALTHCARE AND MEDICAL
+DEVICES
+UR  - http://link.springer.com/10.1007/978-3-030-20451-8_23
+VL  - 957
+ER  -
+TY  - JOUR
+AB  - Abstract Stroke is one of the leading causes of death and disability in the world. The rehabilitation of Patients' limb functions has great medical value, for example, the therapy of functional electrical stimulation (FES) systems, but suffers from effective rehabilitation evaluation. In this paper, six gestures of upper limb rehabilitation were monitored and collected using microelectromechanical systems sensors, where data stability was guaranteed using data preprocessing methods, that is, deweighting, interpolation, and feature extraction. A fully connected neural network has been proposed investigating the effects of different hidden layers, and determining its activation functions and optimizers. Experiments have depicted that a three-hidden-layer model with a softmax function and an adaptive gradient descent optimizer can reach an average gesture recognition rate of 97.19%. A stop mechanism has been used via recognition of dangerous gesture to ensure the safety of the system, and the lightweight cryptography has been used via hash to ensure the security of the system. Comparison to the classification models, for example, k-nearest neighbor, logistic regression, and other random gradient descent algorithms, was conducted to verify the outperformance in recognition of upper limb gesture data. This study also provides an approach to creating health profiles based on large-scale rehabilitation data and therefore consequent diagnosis of the effects of FES rehabilitation.
+AU  - Liu, Qi
+AU  - Wu, Xueyan
+AU  - Jiang, Yinghang
+AU  - Liu, Xiaodong
+AU  - Zhang, Yonghong
+AU  - Xu, Xiaolong
+AU  - Qi, Lianyong
+DA  - 2021/5//
+DO  - 10.1002/int.22383
+IS  - 5
+KW  - fully connected neural network
+KW  - functional electrical stimulation
+KW  - gesture recognition
+KW  - multisensor fusion
+KW  - security and safety
+KW  - upper limb rehabilitation
+PY  - 2021
+SP  - 2387
+EP  - 2411
+TI  - A fully connected deep learning approach to upper limb gesture recognition in a secure FES rehabilitation environment
+T2  - International Journal of Intelligent Systems
+UR  - https://onlinelibrary.wiley.com/doi/10.1002/int.22383
+VL  - 36
+ER  -
+TY  - JOUR
+AB  - Wearable technologies provide a non-invasive way to monitor user's activity, identity, and health in real-time, which have attracted tremendous interests from both academia and industry. Due to constraints in form factor and power consumption, the sensing capabilities and functionalities of the wearables are usually limited by the available sensors. In the past decade, researchers have committed to realizing the sensing capability of multiple sensors via the signal from one sensor, which expanded the functionalities and sensing domains of traditional sensors. For the first time, we defined such sensing approach as “cross-sensing” and provided a comprehensive review on the cross-sensing towards wearable applications (i.e., human-machine interface, health services, and security). Specifically, this paper summarized the applied signal processing and machine learning algorithms, and discussed how cross-sensing would affect the development and innovation trends of wearable electronics.
+AU  - Wang, Zihan
+AU  - Li, Jiarong
+AU  - Jin, Yuchao
+AU  - Wang, Jiyu
+AU  - Yang, Fang
+AU  - Li, Gang
+AU  - Ni, Xiaoyue
+AU  - Ding, Wenbo
+DA  - 2021/9//
+DO  - 10.1016/j.dsp.2021.103091
+KW  - Health and safety
+KW  - Human-machine interaction
+KW  - Security
+KW  - Ubiquitous sensing
+KW  - Wearable technologies
+PY  - 2021
+SP  - 103091
+EP  - 103091
+TI  - Sensing beyond itself: Multi-functional use of ubiquitous signals towards wearable applications
+T2  - Digital Signal Processing
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1051200421001305
+VL  - 116
+ER  -
+TY  - CHAP
+AB  - The growing desire for better control of health outcomes and the increasing healthcare costs associated with disease treatment has led to a shift in the healthcare paradigm from reactive to proactive. Advances in artificial intelligence (AI), the study of intelligent machines that maximize their likelihood of achieving a goal, and the rise of mobile health technologies (e.g., wearable devices and smartphone applications) have enabled healthcare to take place outside of the traditional clinical setting. In this chapter, we detail how AI algorithms can improve wellness assessment, aid in personalizing intervention strategies to promote healthier lifestyle behaviors, and uncover previously unknown disease risk factors. Organized across three dimensions of wellness (physical, mental, and social), this chapter highlights studies that utilize AI to incorporate new data sources or reinterpret preexisting data sources to further advance preventative medicine.
+AU  - Cho, Peter Jaeho
+AU  - Singh, Karnika
+AU  - Dunn, Jessilyn
+DO  - 10.1016/B978-0-12-821259-2.00009-0
+ED  - Xing, Lei
+ED  - Giger, Maryellen L
+ED  - Min, James K
+KW  - Preventative medicine
+KW  - health decision support systems
+KW  - health promotion
+KW  - lifestyle behaviors
+KW  - mobile health
+KW  - remote monitoring
+KW  - wellness
+PB  - Elsevier
+PY  - 2021
+SN  - 978-0-12-821259-2
+SP  - 151
+EP  - 172
+TI  - Roles of artificial intelligence in wellness, healthy living, and healthy status sensing
+T2  - Artificial Intelligence in Medicine
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128212592000090
+ER  -
+TY  - CONF
+AB  - Sleep posture, as a crucial index for sleep quality assessment and pressure ulcer prevention, has been widely studied for medical diagnoses and sleep disease treatment. In this paper, an unobtrusive smart mat system for sleep posture recognition is proposed, which is based on a dense flexible sensor array and printed electrodes and along with an algorithmic framework. With the dense flexible sensor array, the system offers a comfortable and high-resolution solution for long-term pressure sensing. Meanwhile, compared with other large-area and low-density mat systems, it reduces the area to minimize manufacturing cost and computational complexity, while also increases the density of the sensor to improve accuracy. To distinguish the sleep postures, the algorithmic framework that includes pre-processing, feature extraction, and posture classification is developed. Pilot studies in two scenarios including subject-dependent and subject- independent classification are performed with 7 persons for 4 different postures recognition. The experimental results show that the accuracy of the smart mat system can achieve over 78% using Support Vector Machines (SVMs) and k-Nearest Neighbor (kNN) for the subject-independent scenario. For the subject-dependent scenario, the accuracy can reach over 95%. It proves that the proposed method can recognize different sleep postures effectively.
+AU  - Diao, Haikang
+AU  - Chen, Chen
+AU  - Chen, Wei
+AU  - Yuan, Wei
+AU  - Amara, Amara
+DA  - 2021/5//
+DO  - 10.1109/ISCAS51556.2021.9401649
+KW  - Support vector machines;Pressure sensors;Feature extraction;Manufacturing;Classification algorithms;Quality assessment;Sensor arrays;Sleep posture;smart mat;Unobtrusive
+PB  - IEEE
+PY  - 2021
+SN  - 978-1-7281-9201-7
+SP  - 1
+EP  - 5
+TI  - Unobtrusive Smart Mat System for Sleep Posture Recognition
+T2  - 2021 IEEE International Symposium on Circuits and Systems (ISCAS)
+UR  - https://ieeexplore.ieee.org/document/9401649/
+ER  -
+TY  - JOUR
+AB  - Sleep posture, as a crucial index for sleep quality assessment, has been widely studied in sleep analysis. In this paper, an unobtrusive smart mat system based on a dense flexible sensor array and printed electrodes along with an algorithmic framework for sleep posture recognition is proposed. With the dense flexible sensor array, the system offers a comfortable and high-resolution solution for long-term pressure sensing. Meanwhile, compared to other methods, it reduces production costs and computational complexity with a smaller area of the mat and improves portability with fewer sensors. To distinguish the sleep posture, the algorithmic framework that includes preprocessing and Deep Residual Networks (ResNet) is developed. With the ResNet, the proposed system can omit the complex hand-crafted feature extraction process and provide compelling performance. The feasibility and reliability of the proposed system were evaluated on seventeen subjects. Experimental results exhibit that the accuracy of the short-term test is up to 95.08% and the overnight sleep study is up to 86.35% for four categories (supine, prone, right, and left) classification, which outperform the most of state-of-the-art studies. With the promising results, the proposed system showed great potential in applications like sleep studies, prevention of pressure ulcers, etc.
+AU  - Diao, Haikang
+AU  - Chen, Chen
+AU  - Yuan, Wei
+AU  - Amara, Amara
+AU  - Tamura, Toshiyo
+AU  - Fan, Jiahao
+AU  - Meng, Long
+AU  - Liu, Xiangyu
+AU  - Chen, Wei
+DA  - 2021/2//
+DO  - 10.1109/TBCAS.2021.3053602
+IS  - 1
+KW  - Sleep apnea;Electrodes;Monitoring;Immune system;Sensor arrays;Pressure sensors;Data acquisition;Sleep posture recognition;smart mat system;unobtrusive monitoring;ResNet
+PY  - 2021
+SP  - 111
+EP  - 121
+TI  - Deep Residual Networks for Sleep Posture Recognition With Unobtrusive Miniature Scale Smart Mat System
+T2  - IEEE Transactions on Biomedical Circuits and Systems
+UR  - https://ieeexplore.ieee.org/document/9333679/
+VL  - 15
+ER  -
+TY  - CONF
+AB  - In this paper, we propose a robust human sleep posture recognition method via multidimensional feature representation and learning based on millimeter-wave (mmw) radar. Firstly, through time-frequency processing of the radar echo signal reflected by the human body, the range spectrum, Doppler spectrum, range-Doppler spectrum, azimuth angle spectrum and elevation angle spectrum of the estimated target are obtained. By setting a fixed frame window length and splicing the above feature spectrums, 5 single-channel 2D radar features are obtained, and combining them in parallel can get a variety of different multi-channel 2D radar feature representations. Finally, a lightweight multi-channel convolutional neural network (CNN) with Inception-Residual module (IRM) is designed to learn and classify multidimensional features. Extensive experiments were carried out using the developed mmw radar system, and a large amount of data was obtained to train and test the classifier. The results show that the proposed sleep posture recognition method can effectively distinguish different sleep postures and achieve better robust performance and generalization compared to other methods.
+AU  - Zhou, Tao
+AU  - Xia, Zhaoyang
+AU  - Wang, Xiangfeng
+AU  - Xu, Feng
+DA  - 2021/9//
+DO  - 10.1109/SPSympo51155.2020.9593799
+KW  - Learning systems;Time-frequency analysis;Splicing;Millimeter wave radar;Robustness;Real-time systems;Radar signal processing;Sleep posture recognition;mmw radar;multidimensional feature representation;convolutional neural network;Inception-Residual module
+PB  - IEEE
+PY  - 2021
+SN  - 978-1-6654-1274-2
+SP  - 316
+EP  - 321
+TI  - Human Sleep Posture Recognition Based on Millimeter-Wave Radar
+T2  - 2021 Signal Processing Symposium (SPSympo)
+UR  - https://ieeexplore.ieee.org/document/9593799/
+ER  -
+TY  - JOUR
+AB  - <p>Sleep pattern and posture recognition have become of great interest for a diverse range of clinical applications. Autonomous and constant monitoring of sleep postures provides useful information for reducing the health risk. Prevailing systems are designed based on electrocardiograms, cameras, and pressure sensors, which are not only expensive but also intrusive in nature, and uncomfortable to use. We propose an unobtrusive and affordable smart system based on an electronic mat called Sleep Mat-e for monitoring the sleep activity and sleep posture of individuals living in residential care facilities. The system uses a pressure sensing mat constructed using piezo-resistive material to be placed on a mattress. The sensors detect the distribution of the body pressure on the mat during sleep and we use convolution neural network (CNN) to analyze collected data and recognize different sleeping postures. The system is capable of recognizing the four major postures—face-up, face-down, right lateral, and left lateral. A real-time feedback mechanism is also provided through an accompanying smartphone application for keeping a diary of the posture and send alert to the user in case there is a danger of falling from bed. It also produces synopses of postures and activities over a given duration of time. Finally, we conducted experiments to evaluate the accuracy of the prototype, and the proposed system achieved a classification accuracy of around 90%.</p>
+AU  - Tang, Keison
+AU  - Kumar, Arjun
+AU  - Nadeem, Muhammad
+AU  - Maaz, Issam
+DA  - 2021/2//
+DO  - 10.3390/iot2010007
+IS  - 1
+PY  - 2021
+SP  - 119
+EP  - 139
+TI  - CNN-Based Smart Sleep Posture Recognition System
+T2  - IoT
+UR  - https://www.mdpi.com/2624-831X/2/1/7
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - <p>In the hospital, a sleep postures monitoring system is usually adopted to transform sensing signals into sleep behaviors. However, a home-care sleep posture monitoring system needs to be user friendly. In this paper, we present iSleePost—a user-friendly home-care intelligent sleep posture monitoring system. We address the labor-intensive labeling issue of traditional machine learning approaches in the training phase. Our proposed mobile health (mHealth) system leverages the communications and computation capabilities of mobile phones for provisioning a continuous sleep posture monitoring service. Our experiments show that iSleePost can achieve up to 85 percent accuracy in recognizing sleep postures. More importantly, iSleePost demonstrates that an easy-to-wear wrist sensor can accurately quantify sleep postures after our designed training phase. It is our hope that the design concept of iSleePost can shed some lights on quantifying human sleep postures in the future.</p>
+AU  - Jeng, Po-Yuan
+AU  - Wang, Li-Chun
+AU  - Hu, Chaur-Jong
+AU  - Wu, Dean
+DA  - 2021/1//
+DO  - 10.3390/s21010258
+IS  - 1
+PY  - 2021
+SP  - 258
+EP  - 258
+TI  - A Wrist Sensor Sleep Posture Monitoring System: An Automatic Labeling Approach
+T2  - Sensors
+UR  - https://www.mdpi.com/1424-8220/21/1/258
+VL  - 21
+ER  -
+TY  - JOUR
+AB  - <p>Surveillance of sleeping posture is essential for bed-ridden patients or individuals at-risk of falling out of bed. Existing sleep posture monitoring and classification systems may not be able to accommodate the covering of a blanket, which represents a barrier to conducting pragmatic studies. The objective of this study was to develop an unobtrusive sleep posture classification that could accommodate the use of a blanket. The system uses an infrared depth camera for data acquisition and a convolutional neural network to classify sleeping postures. We recruited 66 participants (40 men and 26 women) to perform seven major sleeping postures (supine, prone (head left and right), log (left and right) and fetal (left and right)) under four blanket conditions (thick, medium, thin, and no blanket). Data augmentation was conducted by affine transformation and data fusion, generating additional blanket conditions with the original dataset. Coarse-grained (four-posture) and fine-grained (seven-posture) classifiers were trained using two fully connected network layers. For the coarse classification, the log and fetal postures were merged into a side-lying class and the prone class (head left and right) was pooled. The results show a drop of overall F1-score by 8.2% when switching to the fine-grained classifier. In addition, compared to no blanket, a thick blanket reduced the overall F1-scores by 3.5% and 8.9% for the coarse- and fine-grained classifiers, respectively; meanwhile, the lowest performance was seen in classifying the log (right) posture under a thick blanket, with an F1-score of 72.0%. In conclusion, we developed a system that can classify seven types of common sleeping postures under blankets and achieved an F1-score of 88.9%.</p>
+AU  - Tam, Andy Yiu-Chau
+AU  - So, Bryan Pak-Hei
+AU  - Chan, Tim Tin-Chun
+AU  - Cheung, Alyssa Ka-Yan
+AU  - Wong, Duo Wai-Chi
+AU  - Cheung, James Chung-Wai
+DA  - 2021/8//
+DO  - 10.3390/s21165553
+IS  - 16
+PY  - 2021
+SP  - 5553
+EP  - 5553
+TI  - A Blanket Accommodative Sleep Posture Classification System Using an Infrared Depth Camera: A Deep Learning Approach with Synthetic Augmentation of Blanket Conditions
+T2  - Sensors
+UR  - https://www.mdpi.com/1424-8220/21/16/5553
+VL  - 21
+ER  -
+TY  - JOUR
+AB  - <p>Artificial intelligence (AI) is fundamentally transforming smart buildings by increasing energy efficiency and operational productivity, improving life experience, and providing better healthcare services. Sudden Infant Death Syndrome (SIDS) is an unexpected and unexplained death of infants under one year old. Previous research reports that sleeping on the back can significantly reduce the risk of SIDS. Existing sensor-based wearable or touchable monitors have serious drawbacks such as inconvenience and false alarm, so they are not attractive in monitoring infant sleeping postures. Several recent studies use a camera, portable electronics, and AI algorithm to monitor the sleep postures of infants. However, there are two major bottlenecks that prevent AI from detecting potential baby sleeping hazards in smart buildings. In order to overcome these bottlenecks, in this work, we create a complete dataset containing 10,240 day and night vision samples, and use post-training weight quantization to solve the huge memory demand problem. Experimental results verify the effectiveness and benefits of our proposed idea. Compared with the state-of-the-art AI algorithms in the literature, the proposed method reduces memory footprint by at least 89%, while achieving a similar high detection accuracy of about 90%. Our proposed AI algorithm only requires 6.4 MB of memory space, while other existing AI algorithms for sleep posture detection require 58.2 MB to 275 MB of memory space. This comparison shows that the memory is reduced by at least 9 times without sacrificing the detection accuracy. Therefore, our proposed memory-efficient AI algorithm has great potential to be deployed and to run on edge devices, such as micro-controllers and Raspberry Pi, which have low memory footprint, limited power budget, and constrained computing resources.</p>
+AU  - Huang, Qian
+AU  - Hsieh, Chenghung
+AU  - Hsieh, Jiaen
+AU  - Liu, Chunchen
+DA  - 2021/12//
+DO  - 10.3390/ai2040042
+IS  - 4
+PY  - 2021
+SP  - 705
+EP  - 719
+TI  - Memory-Efficient AI Algorithm for Infant Sleeping Death Syndrome Detection in Smart Buildings
+T2  - AI
+UR  - https://www.mdpi.com/2673-2688/2/4/42
+VL  - 2
+ER  -
+TY  - JOUR
+AB  - <p>Wireless body area networks have taken their unique recognition in providing consistent facilities in health monitoring. Several studies influence physiological signal monitoring through a centralized approach using star topology in regular activities like standing, walking, sitting, and running which are considered active postures. Unlike regular activities like walking, standing, sitting, and running, the in-bed sleep posture monitoring of a subject is highly necessary for those who have undergone surgery, victims of breathing problems, and victims of COVID-19 for whom oxygen imbalance is a major issue as the mortality rate in sleep is high due to unattended patients. Suggestions from the medical field state that the patients with the above-mentioned issues are highly suggested to follow the prone sleep posture that enables them to maintain the oxygen level in the human body. A distributed model of communication is used where mesh topology is used for the data packets to be carried in a relay fashion to the sink. Heartbeat rate (HBR) and image monitoring of the subject during sleep are closely monitored and taken as input to the proposed posture prediction-Bayesian network (PP-BN) to predict the consecutive postures to increase the accuracy rate of posture recognition. The accuracy rate of the model outperforms the existing classification and prediction algorithms which take the cleaned dataset as input for better prediction results.</p>
+AU  - Roshini, A.
+AU  - Kiran, K. V. D.
+DA  - 2022/5//
+DO  - 10.1155/2022/3102545
+ED  - Hu, Fei
+IS  - 1
+PY  - 2022
+SP  - 1
+EP  - 11
+TI  - An Enhanced Posture Prediction-Bayesian Network Algorithm for Sleep Posture Recognition in Wireless Body Area Networks
+T2  - International Journal of Telemedicine and Applications
+UR  - https://www.hindawi.com/journals/ijta/2022/3102545/
+VL  - 2022
+ER  -
+TY  - JOUR
+AB  - Abstract Thermal comfort during sleep is essential for both sleep quality and human health while sleeping. There are currently few effective contactless methods for detecting the sleep thermal comfort at any time of day or night. In this paper, a vision-based detection approach for human thermal comfort while sleeping was proposed, which is intended to avoid overcooling/overheating supply, meet the thermal comfort needs of human sleep, and improve human sleep quality and health. Based on 438 valid questionnaire surveys, 10 types of thermal comfort sleep postures were summarized. By using a large number of data captured, a fundamental framework of detection algorithm was constructed to detect human sleeping postures, and corresponding weighting model was established. A total of 2.65 million frames of posture data in natural sleep status were collected, and thermal comfort-related sleep postures dataset was created. Finally, the robustness and effectiveness of the proposed algorithm were validated. The validation results show that the sleeping posture and human skeleton keypoints can be used for estimating sleeping thermal comfort, and the the quilt coverage area can be fused to improve the detection accuracy.
+AU  - Cheng, Xiaogang
+AU  - Hu, Fei
+AU  - Yang, Bin
+AU  - Wang, Faming
+AU  - Olofsson, Thomas
+DA  - 2022/12//
+DO  - 10.1111/ina.13175
+IS  - 12
+KW  - contactless measurements
+KW  - deep learning
+KW  - pose estimation
+KW  - sleep posture
+KW  - sleep quality
+KW  - sleep thermal comfort
+PY  - 2022
+SP  - e13175
+EP  - e13175
+TI  - Contactless sleep posture measurements for demand‐controlled sleep thermal comfort: A pilot study
+T2  - Indoor Air
+UR  - https://onlinelibrary.wiley.com/doi/10.1111/ina.13175
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - <p>Swimming monitoring based on acceleration sensor is an emerging research direction in the field of human motion recognition. As a public sport, swimming has a wide audience. The swimming monitoring system can facilitate people to monitor and record their own swimming data, so as to formulate a reasonable training plan. Aiming at the defects of single modal information representation ability, high contingency, and easy to be influenced by the outside world, this paper adopts the underwater posture training model of swimmers to perform multimodal information fusion. In this paper, a multimodal information fusion method based on evolutionary neural network is proposed, and an intelligent perception information processing model of the intelligent subject system is constructed. Aiming at the defect that the accuracy and speed of the underwater posture monitoring of swimmers cannot be guaranteed in a complex environment, an evolutionary neural network optimized by a multimodal adaptive genetic algorithm is constructed to perform multimodal information fusion to ensure the effectiveness of the system in the face of complex information. Regarding attitude detection, it mainly uses the three dimensions of the angle of movement, the influence of gravity, and the strength and speed of the movement to measure. The MPU6050 module processor has a wide range of applications and is a mold processing tool with high performance and level. It completes the data processing, data calculation, and data storage of the inspection system in this paper. This paper further studies the working principle, structure, and operation process of this module and adjusts the time error in the detection of carrier motion and attitude so that the processing function of this module can play an optimal state. Four kinds of swimming posture measurement experiments were carried out on the swimmers, and the experimental data were analyzed. The whole system is controlled by the host computer man-machine interaction software remotely and in real time through commands. The experimental results show that the system realizes the detection of the basic posture, meets the basic requirements of the system design, and provides a certain foundation for the follow-up research.</p>
+AU  - Wen, Wei
+AU  - Yang, Tingyu
+AU  - Fu, Yanhao
+AU  - Liu, Siwen
+DA  - 2022/4//
+DO  - 10.1155/2022/1134558
+ED  - Sun, Gengxin
+IS  - 1
+PY  - 2022
+SP  - 1
+EP  - 12
+TI  - Construction of Swimmer's Underwater Posture Training Model Based on Multimodal Neural Network Model
+T2  - Computational Intelligence and Neuroscience
+UR  - https://www.hindawi.com/journals/cin/2022/1134558/
+VL  - 2022
+ER  -
+TY  - CHAP
+AB  - Vital signs monitoring has become increasingly more important because it can offer useful clues to medical conditions such as cardiovascular disease, sleep disorders, or anomalies. There is a compelling need for technologies that enable contactless, easy deployment, and long-term vital signs monitoring for healthcare. In this chapter, we discuss human physiology and contactless physiological monitoring using remote cameras, radio-frequency (RF) based sensing techniques (e.g., radar, received signal strength (RSS), channel state information (CSI), and RFID), and acoustic-based sensing techniques.
+AU  - Wang, Xuyu
+AU  - Shao, Dangdang
+DO  - 10.1016/B978-0-12-822281-2.00008-1
+ED  - Wang, Wenjin
+ED  - Wang, Xuyu
+KW  - Acoustic sensing
+KW  - Camera
+KW  - Physiological monitoring
+KW  - RF sensing
+KW  - Remote photoplethysmogram (rPPG)
+KW  - Vital signs monitoring
+PB  - Elsevier
+PY  - 2022
+SN  - 978-0-12-822281-2
+SP  - 1
+EP  - 24
+TI  - Human physiology and contactless vital signs monitoring using camera and wireless signals
+T2  - Contactless Vital Signs Monitoring
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128222812000081
+ER  -
+TY  - JOUR
+AB  - Obstructive Sleep Apnea (OSA) is the main reason for sleep-associated respiration disorders, wherein respiration stops and begins evolved again and again at some pointing sleep. Sleep-disordered respiration can affect our common health protection and quality of life. This look targets at detecting sleep posture and sleep-disordered respiration through measuring the sensory reaction of a pressure sensor and respiration microphone sensor set up with mattresses, pillowcases, and positional sleep apnea. Three positions use of pressure sensors were used to analyze. The respiration microphone sensor is used for the duration of sleep and to measure breathing levels. In this work, we have got an advanced sleep monitoring system based on an inattentive method. Internet of Things (IoT) is used to transmit information saved in sensors and displayed in internet applications. Helps us without problems displaying gold coins and gold time periods.
+AU  - Sangeetha, T.
+AU  - Kumutha, D.
+AU  - Bharathi, M. Divya
+AU  - Surendran, R.
+DA  - 2022/12//
+DO  - 10.1016/j.measen.2022.100450
+KW  - IoT
+KW  - Pressure sensor
+KW  - Respiratory MIC sensor
+KW  - Sleep monitoring
+KW  - Web application
+PY  - 2022
+SP  - 100450
+EP  - 100450
+TI  - Smart mattress integrated with pressure sensor and IoT functions for sleep apnea detection
+T2  - Measurement: Sensors
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2665917422000848
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - Wearable technologies provide a non-invasive way to monitor user's activity, identity, and health in real-time, which have attracted tremendous interests from both academia and industry. Due to constraints in form factor and power consumption, the sensing capabilities and functionalities of the wearables are usually limited by the available sensors. In the past decade, researchers have committed to realizing the sensing capability of multiple sensors via the signal from one sensor, which expanded the functionalities and sensing domains of traditional sensors. For the first time, we defined such sensing approach as “cross-sensing” and provided a comprehensive review on the cross-sensing towards wearable applications (i.e., human-machine interface, health services, and security). Specifically, this paper summarized the applied signal processing and machine learning algorithms, and discussed how cross-sensing would affect the development and innovation trends of wearable electronics.
+AU  - Wang, Zihan
+AU  - Li, Jiarong
+AU  - Jin, Yuchao
+AU  - Wang, Jiyu
+AU  - Yang, Fang
+AU  - Li, Gang
+AU  - Ni, Xiaoyue
+AU  - Ding, Wenbo
+DA  - 2022/6//
+DO  - 10.1016/j.dsp.2022.103571
+KW  - Health and safety
+KW  - Human-machine interaction
+KW  - Security
+KW  - Ubiquitous sensing
+KW  - Wearable technologies
+PY  - 2022
+SP  - 103571
+EP  - 103571
+TI  - Reprint of: Sensing beyond itself: Multi-functional use of ubiquitous signals towards wearable applications
+T2  - Digital Signal Processing
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1051200422001889
+VL  - 125
+ER  -
+TY  - JOUR
+AB  - Sitting posture recognition is essential in preventing work-related musculoskeletal disorders (WMSDs). WMSDs are of huge concern for office workers whose working process is averagely 81.8% sedentary. Prevailing studies have utilized cameras, wearables, and pressure sensors to recognize sitting postures. The cameras and wearables can achieve accurate recognition results, while personal privacy concerns and inconvenience for long-term use impede their adoption. Meanwhile, the pressure sensors are privacy-preserving and convenient. However, they cannot accurately recognize the sitting posture with different states of the trunk, head, upper extremity, and lower extremity. Considering the pros and cons of those approaches, this study proposes a novel privacy-preserving and unobtrusive sitting posture recognition system, which combines a pressure array sensor with another privacy-preserving sensing technology, i.e., an infrared array (IRA) sensor. Moreover, a deep learning-based sitting posture recognition algorithm is developed, which adopts a feature-level fusion strategy and does not require a complex handcrafted feature extraction process. Based on the ergonomics studies, ten daily sitting postures with the states of different body parts are selected. This system achieved an overall 90.6% accuracy using the leave-subject-out validation approach based on the self-collected dataset from 21 subjects. It has a great potential for privacy-preserving and unobtrusive related applications for sitting posture management.
+AU  - Zhang, Xiangying
+AU  - Fan, Junming
+AU  - Peng, Tao
+AU  - Zheng, Pai
+AU  - K. M. Lee, C.
+AU  - Tang, Renzhong
+DA  - 2022/8//
+DO  - 10.1016/j.aei.2022.101690
+KW  - Deep learning
+KW  - Ergonomics
+KW  - Infrared array sensor
+KW  - Pressure array sensor
+KW  - Sitting posture recognition
+PY  - 2022
+SP  - 101690
+EP  - 101690
+TI  - A privacy-preserving and unobtrusive sitting posture recognition system via pressure array sensor and infrared array sensor for office workers
+T2  - Advanced Engineering Informatics
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1474034622001501
+VL  - 53
+ER  -
+TY  - CONF
+AB  - Sleep position monitoring is key when attempting to address posture triggered sleep disorders. Many studies have explored sleep posture detection from a dedicated physical sensing channel exploiting optimum body locations, such as the torso; or alternatively non-contact approaches. But, little work has been done to try to detect sleep position from a body location which, whilst being suboptimal for that purpose, does however allow for better extraction of more critical biomarkers from other sensing modalities, making possible multi-modal monitoring in certain clinical applications. This work presents two different approaches, at varying levels of complexity, for detecting 4 main sleep positions (supine, prone, lateral right and lateral left) from accelerometry data obtained by a single wearable device placed on the neck. An ultra light-weight threshold-based model is presented in this work, in addition to an Extra-Trees classifier. The threshold-based model was able to achieve 95% average accuracy and 0.89 F1-score on out-of-sample data, showing that it is possible to obtain a moderately high classification performance using a simple rule-based model. The ExtraTrees classifier, on the other hand, was able to achieve 99 % average accuracy and 0.99 average F1-score using only 25 base estimators with maximum depth of 20. Both models show promise in detecting sleep posture with high accuracy when collecting the signals from a neck-worn accelerometer sensor.
+AU  - Abdulsadig, Rawan S.
+AU  - Singh, Sukhpreet
+AU  - Patel, Zaibaa
+AU  - Rodriguez-Villegas, Esther
+DA  - 2022/7//
+DO  - 10.1109/EMBC48229.2022.9871300
+KW  - Accelerometers;Torso;Performance evaluation;Biological system modeling;Wearable computers;Machine learning;Data models
+PB  - IEEE
+PY  - 2022
+SN  - 978-1-7281-2782-8
+SP  - 2430
+EP  - 2433
+TI  - Sleep Posture Detection Using an Accelerometer Placed on the Neck
+T2  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+UR  - https://ieeexplore.ieee.org/document/9871300/
+ER  -
+TY  - CONF
+AB  - Good sleep is essential for people. Sleep posture has been widely studied as a means of evaluating sleep quality. This paper proposes a sleep posture recognition method based on a deep residual network. The computational complexity is reduced by introducing residual blocks and omitting the complex manual feature extraction process. An unconstrained intelligent mattress system based on a flexible pressure sensor array is developed, which provides a comfortable and high-resolution solution for long-term sleep monitoring. Five testers conducted test experiments on the smart mattress to simulate the real sleep scene. The experimental results show that our method can accurately identify the seven categories (sitting, right trunk type, right fetal type, supine, left trunk type, left fetal type, and prone), and the overall recognition rate is 98%. The results showed that the system performed well in sleep research, which provided a basis for subsequent pressure ulcer prevention and drop warning. Our research provides a set of solutions and ideas for the follow-up study of intelligent mattress systems.
+AU  - Gao, Hailin
+AU  - Wei, Dapeng
+AU  - Yang, Fuping
+DA  - 2022/5//
+DO  - 10.1109/CISCE55963.2022.9851077
+KW  - Training;Pressure sensors;Heart rate;Image recognition;Manuals;Feature extraction;Monitoring;sleep posture recognition;convolutional neural network;sleep posture image;intelligent mattress system
+PB  - IEEE
+PY  - 2022
+SN  - 978-1-6654-9848-7
+SP  - 164
+EP  - 169
+TI  - Recognition of Human Sleep Pressure Posture Image Using Deep Residual Networks
+T2  - 2022 4th International Conference on Communications, Information System and Computer Engineering (CISCE)
+UR  - https://ieeexplore.ieee.org/document/9851077/
+ER  -
+TY  - JOUR
+AB  - An automated, robust, noncontact sleep posture recognition technique is proposed in this letter, which uses optimizable (Bayesian hyperparameter tuning) machine learning (ML) classifiers applied to dual-frequency (2.4 GHz, 5.8 GHz) monostatic continuous-wave radar-measured effective radar cross section and chest displacement. The technique is demonstrated to accurately recognize three different key sleep postures categories for 20 participants, with greater accuracy and computational efficiency than prior published research involving either a custom ML model or threshold-based assessment. Three ML classifiers (K-nearest neighbor, support vector machine (SVM), and decision tree) were assessed, with an SVM using a quadratic kernel achieving an accuracy of 85 and 80%, at 2.4 and 5.8 GHz, respectively, and the decision tree classifier recognizing sleep postures in less than 2 min with 98.4% accuracy for dual-frequency combined measurements.
+AU  - Islam, Shekh Md Mahmudul
+AU  - Lubecke, Victor M.
+DA  - 2022/3//
+DO  - 10.1109/LSENS.2022.3148378
+IS  - 3
+KW  - Sleep apnea;Radar cross-sections;Radar;Support vector machines;Feature extraction;Frequency measurement;Decision trees;Microwave/millimeter sensors;doppler radar;machine learning (ML);radar cross section (RCS);sleep postures
+PY  - 2022
+SP  - 1
+EP  - 4
+TI  - Sleep Posture Recognition With a Dual-Frequency Microwave Doppler Radar and Machine Learning Classifiers
+T2  - IEEE Sensors Letters
+UR  - https://ieeexplore.ieee.org/document/9705101/
+VL  - 6
+ER  -
+TY  - CONF
+AB  - Sleep position monitoring plays an important role in sleep health care and intervention. In medical diagnosis, sleep posture is an important index for the diagnosis and treatment of postural sleep, breathing, heart and cardiovascular diseases. The accurate identification of sleep posture is of great significance for the diagnosis of human sleep disorders. In terms of Social Nursing, the pressure of monitoring and nursing for the elderly caused by population aging is becoming more and more severe. For the elderly who have lost or partially lost their mobility, automatic sleep position monitoring will remind them when necessary or forcibly change their sleep position through technical means, which will be of great significance to improve the sleep quality. In terms of treatment intervention, according to clinical medical research, forcibly changing patients’ sleep posture through technical means will greatly improve patients’ sleep quality and sleep structure. Human body vibration signals contain rich information, such as BCG signals, respiratory signals and so on. These signals also have a close relationship with sleeping posture. Based on this relationship, this paper proposes an algorithm for sleeping position recognition. Firstly, the intelligent mattress is used to collect human body vibration signals, and the relationship between human body vibration strength and sleeping position is obtained through a series of processes such as signal processing and model training. Compared with the traditional sleeping position recognition methods such as infrared camera, this algorithm ensures the user’s privacy and reduces the influence of human body movement on the sleeping position recognition results.
+AU  - Xing, Zhe
+AU  - Gao, Weidong
+AU  - Chuai, Gang
+DA  - 2022/1//
+DO  - 10.1109/ICPECA53709.2022.9719095
+KW  - Vibrations;Training;Biological system modeling;Sociology;Signal processing algorithms;Vibration measurement;Sleep apnea;Sleep position monitoring;Human body vibration signals;sleeping-position recognition;intelligent mattress
+PB  - IEEE
+PY  - 2022
+SN  - 978-1-6654-4276-3
+SP  - 403
+EP  - 406
+TI  - Research on sleeping position recognition algorithm based on human body vibration signal
+T2  - 2022 IEEE 2nd International Conference on Power, Electronics and Computer Applications (ICPECA)
+UR  - https://ieeexplore.ieee.org/document/9719095/
+ER  -
+TY  - CONF
+AB  - This paper presents a sleep posture monitoring system for guiding the rehabilitation of patients with heart failure (HF). Eight plastic optical fiber sensors are designed and integrated into the mattress in a herringbone scheme to collect sleeping position signals. Combined with the self-made hardware module, the function of photoelectric conversion and wireless signal transmission are realized. A whale algorithm optimized support vector machine (WOA-SVM) is proposed in the system to classify data, and the accuracy of the algorithm is verified by the sleeping position recognition experiment. The monitoring results can be updated in real-time on family members' mobile phones or the monitoring center. A remote sleeping position monitoring experiment has been implemented to further prove the potential application of the system in guiding the rehabilitation of HF patients.
+AU  - Li, Tianliang
+AU  - Pei, Qingfeng
+AU  - Zhao, Chen
+DA  - 2022/10//
+DO  - 10.1109/WiMob55322.2022.9941526
+KW  - Wireless communication;Support vector machines;Wireless sensor networks;Optical fiber sensors;Plastic optical fiber;Real-time systems;Hardware;optical fiber sensor;smart mattress;support vector machine;remote sleeping posture monitoring
+PB  - IEEE
+PY  - 2022
+SN  - 978-1-6654-6975-3
+SP  - 136
+EP  - 141
+TI  - Plastic Optical Fiber Sensor-based Smart Mattress For Sleeping Posture Remote Monitoring
+T2  - 2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+UR  - https://ieeexplore.ieee.org/document/9941526/
+ER  -
+TY  - CONF
+AB  - Maintaining a good sleep hygiene is an important factor to avoid the symptoms of sleep disorders or worsen the symptoms of other diseases. Polysomnography is the study of sleep performed by professionals during a night at the hospital. On these studies they perform the diagnosis of diseases and patients are not monitored any more. A non-intrusive and low-cost ambulatory monitoring would allow a follow-up of the diagnosed patient. Such studies use numerous and uncomfortable sensors that disturb the patients’ rest. One of the sensors on the chest monitors 4 torso postures: prone, supine, left lateral and right lateral. In this work we analyze the reliability of performing posture monitoring during sleep with a wearable device on the wrist. In our methodology we develop classification models to prove that in order to make these models applicable on real data it is necessary to (i) perform a subject-wise training and (ii) detect and eliminate the monitoring periods corresponding to turns of torso or sudden movements. Our methodology improves the state-of-the-art results by more than 0.011 points with F-values on new subjects of 0.966 and 0.989 for Random Forest and k-Nearest Neighbors algorithms respectively.
+AU  - Galvez-Goicuria, Javier
+AU  - Pagan, Josue
+AU  - Perez, Lucia
+AU  - Catalina-Gomez, Julian
+AU  - Moya, Jose M.
+AU  - Ayala, Jose L.
+DA  - 2022/8//
+DO  - 10.1109/COINS54846.2022.9854954
+KW  - Torso;Training;Performance evaluation;Wrist;Data models;Sensors;Classification algorithms;Sleep;posture;wearable;subject-wise;torso turns
+PB  - IEEE
+PY  - 2022
+SN  - 978-1-6654-8356-8
+SP  - 1
+EP  - 6
+TI  - Reproducible and accurate subject-wise sleep posture detection by detecting and removing turns
+T2  - 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS)
+UR  - https://ieeexplore.ieee.org/document/9854954/
+ER  -
+TY  - CONF
+AB  - Reliable detection of sleep positions is essential for the development of technical aids for patients with position-dependent sleep-related breathing disorders. We compare personalized and generalizable sleeping position classifiers using unobtrusive eight-channel pressure-sensing mats. Data of six male patients with confirmed position-dependent sleep apnea was recorded during three subsequent nights. Personalized position classifiers trained using leave-one-night-out cross-validation on average reached an F1-score of 61.3% for supine/non-supine and an F1-score of 46.2% for supine/lateral-left/lateral-right classification. The generalizable classifiers reached average F1-scores of 62.1% and 49.1% for supine/non-supine and supine/lateral-left/lateral-right classification, respectively. In-bed presence (“bed occupancy”) could be detected with an average F1-score of 98.1%. This work shows that personalized sleep-position classifiers trained with data from two nights have comparable performance to classifiers trained with large interpatient datasets. Simple eight-channel sensor mattresses can be used to accurately detect in-bed presence required for closed-loop systems but their use to classify sleep-positions is limited.
+AU  - Breuss, A.
+AU  - Vonau, N.
+AU  - Ungricht, C.
+AU  - Schwarz, E.
+AU  - Irion, M.
+AU  - Bradicich, M.
+AU  - Grewe, F. A.
+AU  - Liechti, S.
+AU  - Thiel, S.
+AU  - Kohler, M.
+AU  - Riener, R.
+AU  - Wilhelm, E.
+DA  - 2022/7//
+DO  - 10.1109/ICORR55369.2022.9896559
+KW  - Pressure sensors;Medical treatment;Robot sensing systems;Assistive robots;Sleep apnea;Robustness;Real-time systems
+PB  - IEEE
+PY  - 2022
+SN  - 978-1-6654-8829-7
+SP  - 1
+EP  - 6
+TI  - Sleep Position Detection for Closed-Loop Treatment of Sleep-Related Breathing Disorders
+T2  - 2022 International Conference on Rehabilitation Robotics (ICORR)
+UR  - https://ieeexplore.ieee.org/document/9896559/
+ER  -
+TY  - JOUR
+AB  - Pressure ulcers are a common and costly health problem in clinical medicine, caused primarily by continuous vertical pressure on local tissues of the body. Recently, flexible devices have been used to alert pressure ulcers by continuously monitoring the pressure applied to the human skin. Although many pressure sensors provide excellent sensing performance, they still rely on uncomfortable, unstretchable systems with rigid electronics. These devices are mounted on the human body, which hinders continuous pressure monitoring. Herein, we propose a fully integrated flexible electronic system (FIFES) with highly sensitive multi-walled carbon nanotubes (MWNTs) piezoresistive array sensors for pressure monitoring, which accurately achieves external pressure signals acquisition and independently performs processing and wireless transmission. We develop a heat seal connecting technology for integrating the piezoresistive array sensors and its flexible processing circuit, which overcomes the compatibility defect of a rigid circuit board and the flexible sensors. Furthermore, the Cu–Ge metal sputtering and transferring technologies are employed to achieve an extensible circuit. The as-fabricated fully integrated electronic system has excellent flexibility, a rapid response time (the response/recovery time is 0.11/0.08 s, respectively), a wide dynamic range (6–50 kPa), and an excellent sensitivity (1.61 kPa−1 for the range under the pressure of 18 kPa, 0.47 kPa−1 for the range of 18–50 kPa) attributes to the optimized conical microstructures number. Owing to its excellent performance, the FIFES has extensive applications for pressure monitoring in different human epidermises, such as elbow bending and knee-bending. Also, it has immense potential applications in sleep posture monitoring and pressure ulcer warning.
+AU  - Cheng, Jiagen
+AU  - Mu, Yuanbin
+AU  - Liu, Chaoran
+AU  - Yang, Weihuang
+AU  - Liu, Wenjing
+AU  - Wang, Huanze
+AU  - Wu, Jiashu
+AU  - Hou, Fujing
+AU  - Hao, Dandan
+AU  - Cheng, Lian
+AU  - Weng, Binhui
+AU  - Chen, Ying
+AU  - Dong, Linxi
+DA  - 2022/9//
+DO  - 10.1109/JSEN.2022.3195463
+IS  - 18
+KW  - Sensors;Piezoresistance;Monitoring;Sensor arrays;Electrodes;Immune system;Sensitivity;Flexible electronic;fully integrated;high sensitivity;pressure monitoring
+PY  - 2022
+SP  - 18143
+EP  - 18150
+TI  - A Fully Integrated Flexible Electronic System With Highly Sensitive MWCNTs Piezoresistive Array Sensors for Pressure Monitoring
+T2  - IEEE Sensors Journal
+UR  - https://ieeexplore.ieee.org/document/9852141/
+VL  - 22
+ER  -
+TY  - CONF
+AB  - We spend one-third of our lives sleeping, and sleep quality plays an important role in our overall health. Sleep posture monitoring can help medical professionals prevent negative health outcomes associated with certain sleep postures. In this work, we propose using millimeter-wave wireless signals to classify the sleep posture using a supervised deep learning model and preliminarily evaluate the performance for 7 volunteers and 5 broad classes of postures.
+AU  - Sitar, Edward M
+AU  - Sur, Sanjib
+CY  - New York, NY, USA
+DA  - 2022/11//
+DO  - 10.1145/3560905.3568088
+KW  - deep learning
+KW  - millimeter-wave
+KW  - sleep posture recognition
+PB  - ACM
+PY  - 2022
+SN  - 9781450398862
+SP  - 794
+EP  - 796
+TI  - A Millimeter-Wave Wireless Sensing Approach for Sleep Posture Classification
+T2  - Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+UR  - https://dl.acm.org/doi/10.1145/3560905.3568088
+ER  -
+TY  - CONF
+AB  - We propose mmSleep, a millimeter-wave (mmWave) wireless signal based sleep posture monitoring system that can assist in tracking 3D location of body joints of a person during sleep. mmSleep overcomes the limitations of existing vision-based sleep monitoring and can work under low-light without being privacy-invasive. mmSleep uses a customized Convolutional Neural Network to learn diverse sleep postures, and our preliminary results show that mmSleep can consistently predict 3D joint locations with high accuracy.
+AU  - Adhikari, Aakriti
+AU  - Avula, Siri
+AU  - Sur, Sanjib
+CY  - New York, NY, USA
+DA  - 2022/6//
+DO  - 10.1145/3498361.3538773
+KW  - convolutional neural network
+KW  - millimeter-wave
+KW  - sleep posture monitoring
+KW  - toss-turn
+PB  - ACM
+PY  - 2022
+SN  - 9781450391856
+SP  - 539
+EP  - 540
+TI  - mmSleep
+T2  - Proceedings of the 20th Annual International Conference on Mobile Systems, Applications and Services
+UR  - https://dl.acm.org/doi/10.1145/3498361.3538773
+ER  -
+TY  - JOUR
+AB  - <p>Quality sleep is very important for a healthy life. Nowadays, many people around the world are not getting enough sleep, which has negative impacts on their lifestyles. Studies are being conducted for sleep monitoring and better understanding sleep behaviors. The gold standard method for sleep analysis is polysomnography conducted in a clinical environment, but this method is both expensive and complex for long-term use. With the advancements in the field of sensors and the introduction of off-the-shelf technologies, unobtrusive solutions are becoming common as alternatives for in-home sleep monitoring. Various solutions have been proposed using both wearable and non-wearable methods, which are cheap and easy to use for in-home sleep monitoring. In this article, we present a comprehensive survey of the latest research works (2015 and after) conducted in various categories of sleep monitoring, including sleep stage classification, sleep posture recognition, sleep disorders detection, and vital signs monitoring. We review the latest research efforts using the non-invasive approach and cover both wearable and non-wearable methods. We discuss the design approaches and key attributes of the work presented and provide an extensive analysis based on ten key factors, with the goal to give a comprehensive overview of the recent developments and trends in all four categories of sleep monitoring. We also collect publicly available datasets for different categories of sleep monitoring. We finally discuss several open issues and future research directions in the area of sleep monitoring.</p>
+AU  - Hussain, Zawar
+AU  - Sheng, Quan Z.
+AU  - Zhang, Wei Emma
+AU  - Ortiz, Jorge
+AU  - Pouriyeh, Seyedamin
+CY  - New York, NY, USA
+DA  - 2022/4//
+DO  - 10.1145/3491245
+IS  - 2
+KW  - Sleep monitoring
+KW  - sleep disorders
+KW  - sleep postures
+KW  - sleep stages
+KW  - vital signs
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 1
+EP  - 26
+TI  - Non-invasive Techniques for Monitoring Different Aspects of Sleep: A Comprehensive Review
+T2  - ACM Transactions on Computing for Healthcare
+UR  - https://dl.acm.org/doi/10.1145/3491245
+VL  - 3
+ER  -
+TY  - JOUR
+AB  - <p>Diaper wetness monitoring is essential in various situations (e.g., babies and patients) to guarantee hygiene and avoid embarrassment. Existing diaper wetness monitoring methods include indicator lines, special sensors, and RFID, which require modifications on every diaper piece and cannot be easily checked under visual occlusions (e.g., trousers). In this paper, we introduce Wet-Ra, a contactless, ubiquitous, and user-friendly diaper wetness monitoring system based on RF signals. To extract informative features for wetness detection from RF signals, we construct Continuous-Radio-Snapshot and build corresponding signal representations that capture the distinct patterns of diapers of different wetness levels. We refine the signal representation by eliminating multi-path interference from the environment and mitigating the smearing effect with wavelet multisynchrosqueezing transform. To expand the usability of Wet-Ra, we build a transferable model that yields robust detection results in diversified environments and for new users. We conduct extensive experiments to evaluate Wet-Ra with 47 volunteers in 7 different rooms with three off-the-shelf diaper brands. Experiment results confirm that Wet-Ra can accurately identify diaper wetness in the real environment.</p>
+AU  - Xue, Meng
+AU  - Chen, Yanjiao
+AU  - Gong, Xueluan
+AU  - Zhang, Jian
+AU  - Fan, Chunkai
+CY  - New York, NY, USA
+DA  - 2022/7//
+DO  - 10.1145/3534599
+IS  - 2
+KW  - Contactless Sensing
+KW  - Diaper
+KW  - Wetness monitoring
+KW  - Wireless Sensing
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 1
+EP  - 26
+TI  - Wet-Ra
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3534599
+VL  - 6
+ER  -
+TY  - JOUR
+AB  - <p>Emerging sleep health technologies will have an impact on monitoring patients with sleep disorders. This study proposes a new deep learning model architecture that improves the under-blanket sleep posture classification accuracy by leveraging the anatomical landmark feature through an attention strategy. The system used an integrated visible light and depth camera. Deep learning models (ResNet-34, EfficientNet B4, and ECA-Net50) were trained using depth images. We compared the models with and without an anatomical landmark coordinate input generated with an open-source pose estimation model using visible image data. We recruited 120 participants to perform seven major sleep postures, namely, the supine posture, prone postures with the head turned left and right, left- and right-sided log postures, and left- and right-sided fetal postures under four blanket conditions, including no blanket, thin, medium, and thick. A data augmentation technique was applied to the blanket conditions. The data were sliced at an 8:2 training-to-testing ratio. The results showed that ECA-Net50 produced the best classification results. Incorporating the anatomical landmark features increased the F1 score of ECA-Net50 from 87.4% to 92.2%. Our findings also suggested that the classification performances of deep learning models guided with features of anatomical landmarks were less affected by the interference of blanket conditions.</p>
+AU  - Tam, Andy Yiu-Chau
+AU  - Zha, Li-Wen
+AU  - So, Bryan Pak-Hei
+AU  - Lai, Derek Ka-Hei
+AU  - Mao, Ye-Jiao
+AU  - Lim, Hyo-Jung
+AU  - Wong, Duo Wai-Chi
+AU  - Cheung, James Chung-Wai
+DA  - 2022/10//
+DO  - 10.3390/ijerph192013491
+IS  - 20
+PY  - 2022
+SP  - 13491
+EP  - 13491
+TI  - Depth-Camera-Based Under-Blanket Sleep Posture Classification Using Anatomical Landmark-Guided Deep Learning Model
+T2  - International Journal of Environmental Research and Public Health
+UR  - https://www.mdpi.com/1660-4601/19/20/13491
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - Textile-based sensors have been widely studied for wearable monitoring. The sensor systems demand a large sensing area, flexibility, and scalable fabrication method. Herein, single-layer piezoresistive sensors are developed by a machine stitching technique using metallic and graphene nanoplatelets-coated conductive threads and fabrics. The pressure-sensing mechanism is based on measuring the electrical resistance due to the change in the contact area between the conductive thread and fabric as pressure on the sensor varies. The single-layer sensor design provides flexibility and overcomes the physical drift of the sensor during human activities, which enhances wearability and performance. The coated textiles are characterized by scanning electron microscopy and Fourier-transform infrared spectroscopy. Physical and electromechanical tests are performed on the sensors to evaluate their wearability and sensing performance. The sensors exhibit a wide working range of up to 100 kPa and good sensitivity with excellent durability against repeated mechanical deformations. The application potential of the sensors in real-time monitoring is demonstrated by embedding them into clothing as a wearable device. Moreover, the effectiveness of the sensors is tested for posture correction. This article suggests a novel technique to fabricate durable, flexible, and highly efficient pressure sensors for smart wearable applications.
+AU  - Choudhry, Nauman Ali
+AU  - Shekhar, Ravi
+AU  - Khan, Imtiaz Ahmed
+AU  - Rasheed, Abher
+AU  - Padhye, Rajiv
+AU  - Arnold, Lyndon
+AU  - Wang, Lijing
+DA  - 2023/6//
+DO  - 10.1002/adem.202201736
+IS  - 11
+KW  - graphene nanoplatelets (GNPs)
+KW  - piezoresistive device
+KW  - real-time monitoring
+KW  - smart wearable device
+KW  - textile-based sensors
+PY  - 2023
+SP  - 2201736
+EP  - 2201736
+TI  - Fabrication and Characterization of Single‐Layer Textile‐Based Flexible Pressure Sensors for Smart Wearable Electronics Applications
+T2  - Advanced Engineering Materials
+UR  - https://onlinelibrary.wiley.com/doi/10.1002/adem.202201736
+VL  - 25
+ER  -
+TY  - JOUR
+AB  - The present study aimed to develop a sleep postures recognition system based on the hardness adjustment system for a specific air spring mattress. To the end, an air spring mattress prototype and its embedded system was manufactured. Then the supine and lateral postures were defined, and the sleep posture images generated by the relative change rate of air pressure matrix were filtered. At last, a convolutional neural network (CNN) model was proposed and analyzed by ablation experiment. Furthermore, the CNN model was compared with a CNN-SVM fusion model and a ResNet50 model to valid the performance. The results indicate that it is feasible to define sleep postures with the air pressure, and the images smoothed by a Gaussian filter contains significant features. The F1-score of the CNN model determined by the ablation experiment is 0.981, while the F1-score values of the CNN-SVM fusion model and the ResNet50 model are 0.932 and 0.954, respectively. Therefore, the generalization ability of the CNN model proposed outperformed the other two. Finally, the F1-score of the SSA-CNN model optimized by Sparrow Search Algorithm (SSA) increased to 0.992. It concludes that sleep posture recognition can be achieved using only the inherent structure of the air spring mattress without additional sensors, reducing the cost and complexity of the system. In addition, the air pressure signal can be processed by the proposed CNN model to recognize sleep postures with a high accuracy.
+AU  - Chao, Yao
+AU  - Liu, Tao
+AU  - Shen, Li-Ming
+DA  - 2023/5//
+DO  - 10.1016/j.engappai.2023.106009
+KW  - Air pressure sensor
+KW  - Air spring mattress
+KW  - Convolutional neural network
+KW  - Sleep postures recognition
+PY  - 2023
+SP  - 106009
+EP  - 106009
+TI  - Method of recognizing sleep postures based on air pressure sensor and convolutional neural network: For an air spring mattress
+T2  - Engineering Applications of Artificial Intelligence
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0952197623001938
+VL  - 121
+ER  -
+TY  - JOUR
+AB  - Sleep posture monitoring is an essential assessment for obstructive sleep apnea (OSA) patients. The objective of this study is to develop a machine learning-based sleep posture recognition system using a dual ultra-wideband radar system. We collected radiofrequency data from two radars positioned over and at the side of the bed for 16 patients performing four sleep postures (supine, left and right lateral, and prone). We proposed and evaluated deep learning approaches that streamlined feature extraction and classification, and the traditional machine learning approaches that involved different combinations of feature extractors and classifiers. Our results showed that the dual radar system performed better than either single radar. Predetermined statistical features with random forest classifier yielded the best accuracy (0.887), which could be further improved via an ablation study (0.938). Deep learning approach using transformer yielded accuracy of 0.713.
+AU  - Lai, Derek Ka-Hei
+AU  - Zha, Li-Wen
+AU  - Leung, Tommy Yau-Nam
+AU  - Tam, Andy Yiu-Chau
+AU  - So, Bryan Pak-Hei
+AU  - Lim, Hyo-Jung
+AU  - Cheung, Daphne Sze Ki
+AU  - Wong, Duo Wai-Chi
+AU  - Cheung, James Chung-Wai
+DA  - 2023/3//
+DO  - 10.1016/j.engreg.2022.11.003
+IS  - 1
+KW  - Ablation study
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Obstructive sleep apnea
+KW  - Sleep monitoring
+PY  - 2023
+SP  - 36
+EP  - 43
+TI  - Dual ultra-wideband (UWB) radar-based sleep posture recognition system: Towards ubiquitous sleep monitoring
+T2  - Engineered Regeneration
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2666138122000706
+VL  - 4
+ER  -
+TY  - JOUR
+AB  - Sleep quality is considered to be an individual's self-satisfaction with all aspects of the sleep experience. Good sleep not only improves a person's physical, mental and daily functional health, but also improves the quality-of-life level to some extent. In contrast, chronic sleep deprivation can increase the risk of diseases such as cardiovascular diseases, metabolic dysfunction and cognitive and emotional dysfunction, and can even lead to increased mortality. The scientific evaluation and monitoring of sleep quality is an important prerequisite for safeguarding and promoting the physiological health of the body. Therefore, we have compiled and reviewed the existing methods and emerging technologies commonly used for subjective and objective evaluation and monitoring of sleep quality, and found that subjective sleep evaluation is suitable for clinical screening and large-scale studies, while objective evaluation results are more intuitive and scientific, and in the comprehensive evaluation of sleep, if we want to get more scientific monitoring results, we should combine subjective and objective monitoring and dynamic monitoring.
+AU  - Chen, Yanyan
+AU  - Zhou, Enyuan
+AU  - Wang, Yu
+AU  - Wu, Yuxiang
+AU  - Xu, Guodong
+AU  - Chen, Lin
+DA  - 2023/7//
+DO  - 10.1016/j.brainres.2023.148333
+KW  - New technologies
+KW  - Objective measurement
+KW  - Sleep quality monitoring
+KW  - Subjective evaluation
+PY  - 2023
+SP  - 148333
+EP  - 148333
+TI  - The past, present, and future of sleep quality assessment and monitoring
+T2  - Brain Research
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0006899323001038
+VL  - 1810
+ER  -
+TY  - JOUR
+AB  - With an aging population and a gap in demand for professional caregivers, China's elderly care system is facing severe challenges. Using data mining to expand the smart senior care scenario can effectively improve elderly care services. Based on smart mattress datasets, this paper uses machine learning classification and unsupervised anomaly detection models to analyze the possible risks in the daily behavior of older people from the perspectives of both sleep apnea problems and abnormal physiological information. The model results show that the Stacking algorithm based on data fusion can effectively identify the risk of sleep apnea. In contrast, the Prophet and DBSCAN models can carry out anomaly mining of physiological information of single and combined variables, respectively. Ultimately, based on the research, this paper provides targeted recommendations regarding data collection and integration applications.
+AU  - Wang, Hongrui
+AU  - Li, Aihua
+AU  - Chen, Ting
+AU  - Liu, Jianbing
+DO  - 10.1016/j.procs.2023.08.116
+KW  - anomaly detection
+KW  - data fusion
+KW  - smart senior care
+PY  - 2023
+SP  - 1276
+EP  - 1283
+TI  - Study on behavioral risk for aging based on smart mattress monitoring data
+T2  - Procedia Computer Science
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1877050923008748
+VL  - 221
+ER  -
+TY  - JOUR
+AB  - Background:
+In recent years, the application of artificial intelligence in the field of sleep medicine has rapidly emerged. One of the main concerns of many researchers is the recognition of sleep positions, which enables efficient monitoring of changes in sleeping posture for precise and intelligent adjustment. In sleep monitoring, machine learning is able to analyze the raw data collected and optimizes the algorithm in real-time to recognize the sleeping position of the human body during sleep.
+Methodology:
+A detailed search of relevant databases was conducted through a systematic search process, and we reviewed research published since 2017, focusing on 27 articles on sleep recognition.
+Results:
+Through the analysis and study of these articles, we propose several determinants that objectively affect sleeping posture recognition, including the acquisition of sleep posture data, data pre-processing, recognition algorithms, and validation analysis. Moreover, we analyze the categories of sleeping postures adapted to different body types.
+Conclusion:
+A systematic evaluation combining the above determinants provides solutions for system design and rational selection of recognition algorithms for sleep posture recognition, and it is necessary to regularize and standardize existing machine learning algorithms before they can be incorporated into clinical monitoring of sleep.
+AU  - Li, Xianglin
+AU  - Gong, Yanfeng
+AU  - Jin, Xiaoyun
+AU  - Shang, Peng
+DA  - 2023/3//
+DO  - 10.1016/j.pmcj.2023.101752
+KW  - Feature extraction
+KW  - Image classification
+KW  - Machine learning
+KW  - Neural networks
+KW  - Sleeping posture
+PY  - 2023
+SP  - 101752
+EP  - 101752
+TI  - Sleep posture recognition based on machine learning: A systematic review
+T2  - Pervasive and Mobile Computing
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S157411922300010X
+VL  - 90
+ER  -
+TY  - CONF
+AB  - Identifying users’ sleep posture is significant in reducing sleep apnea events and avoiding postoperative pressure sores. Past studies have identified sleep posture by installing cameras, installing sensors on mattresses, or letting users wear wearable devices. However, the camera-based method is usually affected by light intensity or coverage and can invade users’ privacy. The method based on contact sensors will affect the comfort of users’ sleep. The use of radar can solve the problem of cameras and contact sensors, but previous studies need to collect data from new users for calibration to maintain high performance. In this work, we use FMCW radar to estimate the position image of the user in space. We propose a multi-task learning sleep posture recognition model based on a neural network, which uses the radar position image to estimate the user’s sleep posture. In addition, we use mix-up data enhancement to improve the model’s generalization. We collected data from 17 subjects to train and test our model. The proposed method can achieve 0.935 sleep posture recognition F1 score without collecting new user calibration data.
+AU  - Yao, Yicheng
+AU  - Xu, Lirui
+AU  - Xia, Pan
+AU  - Zhang, Hao
+AU  - Du, Lidong
+AU  - Chen, Xianxiang
+AU  - Fang, Zhen
+DA  - 2023/10//
+DO  - 10.1109/BSN58485.2023.10330941
+KW  - Spaceborne radar;Radar;Radar imaging;Multitasking;Cameras;Sleep apnea;Data models;Calibration;Task analysis;Wearable sensors;sleep posture recognition;FMCW radar;multi task learning
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-3841-6
+SP  - 1
+EP  - 4
+TI  - Highly Generalized Sleep Posture Recognition Using FMCW Radar
+T2  - 2023 IEEE 19th International Conference on Body Sensor Networks (BSN)
+UR  - https://ieeexplore.ieee.org/document/10330941/
+ER  -
+TY  - CONF
+AB  - Sleep is indispensable for human health. Sleeping posture is one of the factors that affect the quality of sleep. Besides, correct sleeping postures could prevent and treat diseases. Conversely, unsuitable sleeping posture would do harm to human health. Therefore, it is of great significance to accurately and quickly distinguish human sleeping posture for improving sleep quality and formulating disease treatment decision. Therefore, in order to further enhance the accuracy of sleeping posture recognition, we used a Infrared night vision camera to collect sleeping data, and proposed a deep learning-based predictive model (DL-model). The DL-model introduced the attention mechanism to and capture the characteristics of significantly related to the target task and reduce the expression of redundant characteristics. Meanwhile, considering that when the blanket is covered, some human features would be blocked, we took whether the blanket covered as auxiliary task. The experimental results showed that the average accuracy of the DL-model reaches 94.62%, which was better than the other state-of-art deep learning methods. Compared with signal task learning, the DL-model using multi-task learning performed well. Also, the DL-model we proposed in this study also has a good performance in the auxiliary task–whether to cover the blanket. To some extend, it confirmed the feasibility of using the monitoring camera for sleeping posture prediction, which is of great significance for realizing the real-time prediction and sleep quality assessment at night.
+AU  - Wang, Sheng
+AU  - Liu, Yujia
+AU  - Xu, Xue
+AU  - Zhao, Junjie
+AU  - Xu, Bangzhen
+DA  - 2023/8//
+DO  - 10.1109/CCET59170.2023.10335134
+KW  - Night vision;Predictive models;Cameras;Multitasking;Real-time systems;Quality assessment;Task analysis;deep learning;Attention mechanism;multi-task learning;Sleeping posture classification
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-4068-6
+SP  - 82
+EP  - 86
+TI  - A Deep Learning-Based Method for Nighttime Sleep Posture Recognition
+T2  - 2023 IEEE 6th International Conference on Computer and Communication Engineering Technology (CCET)
+UR  - https://ieeexplore.ieee.org/document/10335134/
+ER  -
+TY  - JOUR
+AB  - Sleep position identification and monitoring is important in the context of certain healthcare conditions, such as obstructive sleep apnoea and epilepsy. Many studies have thoroughly investigated automatic sleep detection using various sensing channels located in optimum body locations. However, this has not been the case for detection using physiological data acquired from a single sensing channel on the neck. In certain healthcare contexts the neck can, however, be an attractive location despite being suboptimal for position monitoring; the reason being that it enables better extraction of more critical biomarkers from other sensing modalities, making possible multimodal monitoring using just one wearable. This work focuses on investigating methods of automatic sleep position detection using one wearable channel of accelerometry data sensed on the neck. Three different models are explored. These are based on: decision trees (DT), extra-trees classifier (ET) and long-short term memory neural networks (LSTM-NN). The paper also investigates for the first time what would be optimum design choices when considering that wearables are power and memory-constrained, but performance in the type of healthcare applications where a single location multimodal sensing is important must not be compromised. This includes looking into how changing the sampling rate and window sizes would affect the performance of the different models. It is demonstrated that a sampling rate as low as 5 Hz, and a window size as short as 1 second, still lead to high classification performance (around 0.945, 0.975 and 0.965 mean f1-score when using the DT, ET and LSTM-NN models, respectively, and at least 98% average accuracy in all three models); and that the DT model occupies the least memory space (1.765 KB) and takes the least mean prediction time across all window sizes (around 0.8 ms).
+AU  - Abdulsadig, Rawan S.
+AU  - Rodriguez-Villegas, Esther
+DA  - 2023/10//
+DO  - 10.1109/ACCESS.2023.3246266
+KW  - Sleep apnea;Monitoring;Machine learning;Biomedical monitoring;Accelerometers;Data models;Sensors;Sampling methods;Position control;Accelerometry;machine learning;neck;sampling rate;sleep posture;window size
+PY  - 2023
+SP  - 17693
+EP  - 17706
+TI  - Sleep Posture Monitoring Using a Single Neck- Situated Accelerometer: A Proof-of-Concept
+T2  - IEEE Access
+UR  - https://ieeexplore.ieee.org/document/10047895/
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - The sleep posture recognition and tracking using radar sensor is one of the most important techniques because of its advantages of stable performance, privacy protection, and so on. However, radar echo signals are highly sensitive to different humans, resulting in a week generalization ability. To solve this problem, we propose a human sleep posture recognition method based on interactive learning of ultra-long short-term information using millimeter-wave radar. The motivation of the proposed method using the interactive learning strategy lies that it is easy to obtain stable information with an ultra-long-term observation. Specifically, we first conduct short-term human state separation sequentially by body movement index estimation, big movement detection, range–Doppler map calculation, and lateral and nonlateral rough identification. This could separate the three human states of big movement, lateral posture, and other recumbency, and prepare for finer posture recognition. Second, we sort the three sleep postures of supine, side, and prone and extract personalized features with an ultra-long-term observation to enhance the robustness. Finally, combined with the extracted personalized ultra-long-term features, we achieve recognition of three sleep postures and seven sleep postural conversions (SPCs) with a short-term observation for real-time judgment. The experimental results show that the proposed method has low computational complexity and can achieve an average accuracy of 91% in three sleep postures’ recognition and 83.7% in seven SPCs’ classification.
+AU  - Luo, Bing
+AU  - Yang, Zhaocheng
+AU  - Chu, Ping
+AU  - Zhou, Jianhua
+DA  - 2023/6//
+DO  - 10.1109/JSEN.2023.3273533
+IS  - 12
+KW  - Sleep apnea;Sensors;Feature extraction;Radar;Radar cross-sections;Indexes;Chirp;Interactive learning;millimeter-wave radar;sleep posture recognition;ultralong short-term information
+PY  - 2023
+SP  - 13399
+EP  - 13410
+TI  - Human Sleep Posture Recognition Method Based on Interactive Learning of Ultra-Long Short-Term Information
+T2  - IEEE Sensors Journal
+UR  - https://ieeexplore.ieee.org/document/10123404/
+VL  - 23
+ER  -
+TY  - CONF
+AB  - In this study, we introduce a non-invasive approach for sleep posture monitoring based on Frequency-Modulated Continuous Wave (FMCW) radar. In contrast to prior research, our method employs a novel logic-based approach to analyze sleep postures during the entire sleep process using only one radar device. The inspiration behind our proposal is the observations made regarding the downsampling calculation, which allows the Range, Doppler, Azimuth, and Elevation-Time (RT, DT, AT, and ET) map to focus more on breathing movement. Subsequently, a logical approach is proposed based on these data to recognize supine, prone, and side postures, and then further separate side postures into left and right postures. In addition, a custom Convolutional Neural Network (CNN) model is designed to compare the results with the performance of the logic-based method. Our evaluation was conducted using data collected from 10 subjects, which showed promising results. The logic-based method demonstrates high accuracy, achieving an overall accuracy of 98.11% for 3category classification and 94.79% for 4-category classification. For the CNN-based approach, our model attains an accuracy of 93.25% in 4-category classification under subject-independent evaluation. Compared to the CNN-based method, the logic-based method provides better accuracy, but the CNN-based approach has the advantage of real-time applicability. These results underscore the effectiveness of our non-invasive FMCW radar-based sleep posture monitoring system.
+AU  - Fan, Mingyang
+AU  - Ma, Jianhua
+AU  - Ma, Muxin
+AU  - Qi, Alex
+DA  - 2023/12//
+DO  - 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics60724.2023.00109
+KW  - Deep learning;Social computing;Azimuth;Real-time systems;Doppler radar;Convolutional neural networks;Proposals;FMCW radar;sleep posture;logic;deep learning;CNN;WRTFT
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-0946-1
+SP  - 586
+EP  - 591
+TI  - FMCW Radar-based Sleep Posture Monitoring Through Logic and Deep Learning Methods
+T2  - 2023 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)
+UR  - https://ieeexplore.ieee.org/document/10501822/
+ER  -
+TY  - JOUR
+AB  - Bedside falls and pressure ulcers are crucial issues in geriatric care. Although many bedside monitoring systems have been proposed, they are limited by the computational complexity of their algorithms. Moreover, most of the data collected by the sensors of these systems must be transmitted to a back-end server for calculation. With an increase in the demand for the Internet of Things, problems such as higher cost of bandwidth and overload of server computing are faced when using the aforementioned systems. To reduce the server workload, certain computing tasks must be offloaded from cloud servers to edge computing platforms. In this study, a bedside monitoring system based on neuromorphic computing hardware was developed to detect bedside falls and sleeping posture. The artificial intelligence neural network executed on the back-end server was simplified and used on an edge computing platform. An integer 8-bit-precision neural network model was deployed on the edge computing platform to process the thermal image captured by the thermopile array sensing element to conduct sleep posture classification and bed position detection. The bounding box of the bed was then converted into the features for posture classification correction to correct the posture. In an experimental evaluation, the accuracy rate, inferencing speed, and power consumption of the developed system were 94.56%, 5.28 frames per second, and 1.5 W, respectively. All the calculations of the developed system are conducted on an edge computing platform, and the developed system only transmits fall events to the back-end server through Wi-Fi and protects user privacy.
+AU  - Lin, Bor-Shyh
+AU  - Peng, Chih-Wei
+AU  - Lee, I-Jung
+AU  - Hsu, Hung-Kai
+AU  - Lin, Bor-Shing
+DA  - 2023/7//
+DO  - 10.1109/JBHI.2023.3271463
+IS  - 7
+KW  - Monitoring;Sensors;Edge computing;Cameras;Servers;Hardware;Feature extraction;Bedside fall;deep learning;edge computing;neuromorphic computing hardware;sleep posture recognition
+PY  - 2023
+SP  - 3549
+EP  - 3558
+TI  - System Based on Artificial Intelligence Edge Computing for Detecting Bedside Falls and Sleep Posture
+T2  - IEEE Journal of Biomedical and Health Informatics
+UR  - https://ieeexplore.ieee.org/document/10110983/
+VL  - 27
+ER  -
+TY  - CONF
+AB  - We propose Argosleep, a millimeter-wave (mmWave) wireless sensors based sleep posture monitoring system that predicts the 3D location of body joints of a person during sleep. Argosleep leverages deep learning models and knowledge of human anatomical features to solve challenges with low-resolution, specularity, and aliasing in existing mmWave devices. Argosleep builds the model by learning the relationship between mmWave reflected signals and body postures from thousands of existing samples. Since practical sleep also involves sudden toss-turns, which could introduce errors in posture prediction, Argosleep designs a state machine based on the reflected signals to classify the sleeping states into rest or toss-turn, and predict the posture only during the rest states. We evaluate Argosleep with real data collected from COTS mmWave devices for 8 volunteers of diverse ages, gender, and height performing different sleep postures. We observe that Argosleep identifies the toss-turn events accurately and predicts 3D location of body joints with accuracy on par with the existing vision-based system, unlocking the potential of mmWave systems for privacy-noninvasive at-home healthcare applications.
+AU  - Adhikari, Aakriti
+AU  - Sur, Sanjib
+DA  - 2023/5//
+DO  - 10.1109/INFOCOM53939.2023.10228913
+KW  - Wireless communication;Deep learning;Wireless sensor networks;Three-dimensional displays;Hidden Markov models;Predictive models;Sensor systems;Millimeter-Wave;Sleep Posture Monitoring;HMM-Viterbi;Convolutional Neural Networks
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-3414-2
+SP  - 1
+EP  - 10
+TI  - Argosleep: Monitoring Sleep Posture from Commodity Millimeter-Wave Devices
+T2  - IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
+UR  - https://ieeexplore.ieee.org/document/10228913/
+ER  -
+TY  - CONF
+AB  - Understanding sleep patterns and postures is critical for assessing overall well-being. However, traditional sleep analysis methods are often limited in their practicality due to invasive devices or complex configurations. In this study, we introduce RadarSleepNet, a non-intrusive 60 GHz Frequency-modulated Continuous Wave (FMCW) radar-based system for sleep posture monitoring that accurately infers sleep postures without compromising privacy or comfort, even in low-light conditions. Our system combines a SincNet classifier and a PointNet++ sleep pose estimation model, achieving remarkable class accuracy for each sleep posture: 98.43% for supine, 98.01% for side (chest facing radar), 97.22% for prone, and 95.72% for side (back facing radar). This demonstrates its effectiveness in accurately classifying sleep postures. This innovation offers significant potential in healthcare, providing insights into disease management and improving individual health understanding.
+AU  - Fusco, Alessandra
+AU  - Akkus, Mervenur
+AU  - Vysotskaya, Nastassia
+AU  - Hazra, Souvik
+AU  - Servadei, Lorenzo
+AU  - Maier, Andreas
+AU  - Wille, Robert
+DA  - 2023/12//
+DO  - 10.1109/MAPCON58678.2023.10463831
+KW  - Technological innovation;Privacy;Pose estimation;Radar detection;Medical services;Feature extraction;Sleep apnea;FMCW radar;sleep monitoring;contactless;deep learning;SincNet;PointNet++
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-2826-4
+SP  - 1
+EP  - 6
+TI  - RadarSleepNet: Sleep Pose Classification via PointNet++ and 5D Radar Point Clouds
+T2  - 2023 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON)
+UR  - https://ieeexplore.ieee.org/document/10463831/
+ER  -
+TY  - JOUR
+AB  - Sleep quality evaluation is a major approach to clinical diagnosis of different types of sleep and mental disturbances. How to render it possible for test subjects to complete sleep status detection and quality assessment in a natural environment is what this article mainly highlights. Clinically, sleep disturbances are analyzed by the so-called polysomnography (PSG). However, due to limitations in space and high cost, as well as the fact that test subjects must wear various types of physiological detection equipment during the test, the collected signal is susceptible to interference due to uncomfortable sensations. As such, it usually does not reflect the realistic situation of the subject. For this reason, we propose in this article a pressure-sensor-based smart mattress to realize sleep status detection and quality evaluation. Regarding sleep posture recognition, a proposed convolutional neural network (CNN) model in conjunction with a pressure distribution image formed by the pressure-sensing matrix is applied. With respect to assessing the subjects’ time in bed, a support vector machine (SVM) is used to determine sitting or lying postures and further recognize the actual time in bed. As for sleep quality assessment, Fuzzy inference is adopted in this article based on a set of four predefined sleep parameters. Compared with some of prior arts, the proposed system does not require the test subjects to wear any equipment, and as such, the subjects can complete the test in a natural environment. Experimental results show that the accuracy of the proposed SVM classifier for differentiating sitting and lying posture and that of the CNN model for the recognition of four different sleep postures can be up to 99.986% and 96.987%, respectively. With the proposed model, precise sleep parameters, including time in bed, the number of times of bed leaving, the number of times of body movements all night, standard deviation of time interval between body movements, and sleep posture, can be provided. Moreover, the system does not use devices such as microphones or surveillance cameras to collect the data of the test subjects; thus, there is no concern about infringing the privacy of the subjects. It is believed that the system will be of considerable help and serve as an aid to clinical diagnosis of sleep disturbance.
+AU  - Kau, Lih-Jen
+AU  - Wang, Mao-Yin
+AU  - Zhou, Houcheng
+DA  - 2023/5//
+DO  - 10.1109/JSEN.2023.3262747
+IS  - 9
+KW  - Sleep;Sensors;Sleep apnea;Sensor arrays;Pressure sensors;Turning;Monitoring;Fuzzy inference;machine learning;posture recognition;pressure sensing;sleep quality assessment
+PY  - 2023
+SP  - 9739
+EP  - 9754
+TI  - Pressure-Sensor-Based Sleep Status and Quality Evaluation System
+T2  - IEEE Sensors Journal
+UR  - https://ieeexplore.ieee.org/document/10090423/
+VL  - 23
+ER  -
+TY  - CONF
+AB  - The position and posture of the head during sleep can reflect the quality of sleep and overall health. As an important component of bedding that supports the head during sleep, pillows have gained attention from researchers due to their potential to monitor head posture through a variety of sensing means. This paper proposes a non-wearable sleep posture recognition system based on microphones and speakers integrated into the pillow. Two speakers and four microphones are utilized as sound sources and receivers to identify the position and posture of the human head on the pillow. To monitor posture, the pillow is divided into five areas to detect positions related to supine and lateral positions. Due to the pressure exerted by the head on the pillow, the inner latex material of the pillow will be deformed. At the same time, the microphones will be squeezed, changing the characteristics of the sound received. After analyzing the features of the collected data, fully connected neural network is used for classification. The position and posture of the human head on the pillow corresponding to the sound fragment can be predicted by the similarity measurement calculated from the features. The method achieves a posture recognition accuracy of 91.1% and a position recognition accuracy of 98.3%. In conclusion, this study creatively demonstrates the feasibility of identifying the position and posture of the human head on the pillow using speakers integrated into the pillow as a sound source. This method can be combined with hypnotic music in practical applications, making it highly promising in relieving insomnia and improving sleep quality.
+AU  - Jiang, Yuxin
+AU  - Zhu, Shiqi
+AU  - Zhang, Yinger
+AU  - Huang, Zhengjie
+AU  - Tang, Jingxin
+AU  - Huangfu, Jiangtao
+DA  - 2023/7//
+DO  - 10.1109/PIERS59004.2023.10221306
+KW  - Noise reduction;Neural networks;Smart homes;Receivers;Position measurement;Sensors;Noise measurement
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-1284-3
+SP  - 1474
+EP  - 1480
+TI  - An Intelligent Head Posture Recognition Pillow
+T2  - 2023 Photonics & Electromagnetics Research Symposium (PIERS)
+UR  - https://ieeexplore.ieee.org/document/10221306/
+ER  -
+TY  - CONF
+AB  - There are two key challenges in artificial intelligence electronic medical diagnosis systems: data silos and privacy security. More and more electronic medical systems are choosing federated learning frameworks in the modeling process. However, malicious third parties join the federated learning process as data holders and launch poisoning attacks on the global model, which brings new security challenges to electronic medical systems based on federated learning. Most of the current anti-poisoning methods rely on estimating the number of poisoned nodes, but methods that do not estimate the number of poisoned nodes lack stability. This paper studies existing defense methods and designs a new algorithm for poisoning detection of computing node parameters based on weight distribution that does not rely on prior knowledge of poisoned nodes. On this basis, an adaptive optimizer is designed to solve the stability problem of poisoning detection. The experiment was tested on a sleep posture recognition dataset. Our method can still maintain good stability under attacks with infection rates as high as 50%, and can achieve over 94% accuracy under poisoning attacks.
+AU  - Cheng, Anze
+AU  - Qi, Lin
+AU  - Lv, Liangyu
+AU  - Gao, Siyuan
+AU  - Li, Zhaoming
+DA  - 2023/11//
+DO  - 10.1109/ICN60549.2023.10426100
+KW  - Adaptive systems;Toxicology;Federated learning;Stability analysis;Security;Usability;Medical diagnostic imaging;federal learning;adversarial federal learning;poisoning attack;gesture recognition;artificial intelligence security
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-5767-7
+SP  - 116
+EP  - 120
+TI  - Poisoning Detection in Federated Learning System: An Adaptive Approach
+T2  - 2023 International Conference on Intelligent Communication and Networking (ICN)
+UR  - https://ieeexplore.ieee.org/document/10426100/
+ER  -
+TY  - CONF
+AB  - Sleep position affects sleep quality and the severity of different diseases. Classical methods to measure sleep position are complex, expensive, and difficult to use outside the laboratory. Wearables and smartphones can help to address these issues to track sleep position at home over several nights. In this study, we monitor high-resolution sleep position in 13 adolescents over 4 nights using smartphone accelerometer data. We aim to investigate the distribution of sleep positions and position changes in adolescents, study their variability across nights, and propose new measures related to nocturnal body movements. We developed a new index, the mean sleep angle change per hour, and calculated three other measures: position shifts per hour, mean time at each position, and periods of immobility. Our results indicate that participants spent 56% of the time on the side (32% right and 24% left), 32% in supine, and 12% in prone position, similar to what happens in adults. However, adolescents moved more than adults during sleep according to all measures. There was some variability between nights, but lower than the inter-subject variability. In conclusion, this work systematically analyzes sleep position over several nights in adolescents, a largely unstudied population, and offers innovative solutions and measures for high-resolution sleep position monitoring in a simple and cost-effective way.Clinical Relevance— Our study characterizes sleep position in adolescents and provides novel unobtrusive methods and quantitative indices to monitor high-resolution sleep position at home during multiple nights.
+AU  - Castillo-Escario, Yolanda
+AU  - Blanco-Almazán, Dolores
+AU  - Ferrer-Lluis, Ignasi
+AU  - Jané, Raimon
+DA  - 2023/7//
+DO  - 10.1109/EMBC40787.2023.10341202
+KW  - Accelerometers;Atmospheric measurements;Wearable computers;Position measurement;Particle measurements;Size measurement;Time measurement
+PB  - IEEE
+PY  - 2023
+SN  - 979-8-3503-2447-1
+SP  - 1
+EP  - 4
+TI  - Measuring High-Resolution Sleep Position in Adolescents over 4 Nights with Smartphone Accelerometers
+T2  - 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+UR  - https://ieeexplore.ieee.org/document/10341202/
+ER  -
+TY  - CONF
+AB  - For detecting sleeping and sitting postures, a system based on unrestrained flexible pressure sensor is designed and proposed. The large-area capacitive pressure sensor, which composited by 64-row and 32-column, is designed to capture posture pressure signals. A total of 30 participants were recruited for 10 postures data acquisition, and the acquired images were normalized and bilinearly interpolated. The processed data images were randomly grouped by 80% of the training set and 20% of the test set. And the deep learning neural network (YOLOv5) was used for training. The final recognition accuracy was 99.3%. Accurate division in the posture categories of sleeping and sitting postures is achieved, which is important for realizing posture monitoring.
+AU  - Zhao, Haiwen
+AU  - Li, Lei
+AU  - Qi, Dexuan
+AU  - Guo, Shijie
+AU  - Zhao, Yuekun
+AU  - Wang, Jiakuo
+CY  - New York, NY, USA
+DO  - 10.1145/3613307.3613322
+KW  - Flexible pressure sensor
+KW  - Neural network
+KW  - Sitting and lying postures recognition
+KW  - Unconstrained
+KW  - YOLOv5 algorithm
+PB  - Association for Computing Machinery
+PY  - 2023
+SN  - 9798400707698
+SP  - 77
+EP  - 82
+TI  - The Sitting and lying Posture Recognition via Pressure Information based on Unconstrained Flexible Pressure Sensor
+T2  - Proceedings of the 2023 8th International Conference on Biomedical Signal and Image Processing
+UR  - https://doi.org/10.1145/3613307.3613322
+ER  -
+TY  - CONF
+AB  - In recent years, wireless sensing has attracted lots of research attention with a large range of applications enabled. However, several critical issues still hinder wireless sensing from being adopted in daily use: (a) requiring dedicated devices and (or) dedicated signals; (b) limited sensing coverage; and (c) affecting the original function of the wireless technology (e.g., communication). In this work, we propose a new sensing modality, i.e., leveraging the pervasive powerline leakage for sensing. The key observation is that human body can capture such leaked signals, and the received signals vary with body gestures. We design a cheap ring antenna to collect the powerline leaked signals at human body and establish a body-empowered model to sense body motions. We prototype the proposed system with designs spanning both hardware and software. Comprehensive experiments show that the proposed sensing modality can realize a large range of applications in a different way from existing sensing methods. We showcase the powerful capability of this sensing modality using three typical sensing applications: body gesture recognition, sleep posture sensing, and fall detection.
+AU  - Cui, Minhao
+AU  - Xie, Binbin
+AU  - Wang, Qing
+AU  - Xiong, Jie
+CY  - New York, NY, USA
+DA  - 2023/10//
+DO  - 10.1145/3570361.3613272
+KW  - body-augmented
+KW  - powerline RF leakage
+KW  - wireless sensing
+PB  - ACM
+PY  - 2023
+SN  - 9781450399906
+SP  - 1
+EP  - 15
+TI  - DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline
+T2  - Proceedings of the 29th Annual International Conference on Mobile Computing and Networking
+UR  - https://dl.acm.org/doi/10.1145/3570361.3613272
+ER  -
+TY  - JOUR
+AB  - Background: In recent years, the application of artificial intelligence
+in the field of sleep medicine has rapidly emerged. One of the main
+concerns of many researchers is the recognition of sleep positions,
+which enables efficient monitoring of changes in sleeping posture for
+precise and intelligent adjustment. In sleep monitoring, machine
+learning is able to analyze the raw data collected and optimizes the
+algorithm in real-time to recognize the sleeping position of the human
+body during sleep.Methodology: A detailed search of relevant databases
+was conducted through a systematic search process, and we reviewed
+research published since 2017, focusing on 27 articles on sleep
+recognition.Results: Through the analysis and study of these articles,
+we propose several determinants that objectively affect sleeping posture
+recognition, including the acquisition of sleep posture data, data
+pre-processing, recognition algorithms, and validation analysis.
+Moreover, we analyze the categories of sleeping postures adapted to
+different body types.Conclusion: A systematic evaluation combining the
+above determinants provides solutions for system design and rational
+selection of recognition algorithms for sleep posture recognition, and
+it is necessary to regularize and standardize existing machine learning
+algorithms before they can be incorporated into clinical monitoring of
+sleep.(c) 2023 Elsevier B.V. All rights reserved.
+AU  - Li, Xianglin
+AU  - Gong, Yanfeng
+AU  - Jin, Xiaoyun
+AU  - Shang, Peng
+DA  - 2023/3//
+DO  - 10.1016/j.pmcj.2023.101752
+PY  - 2023
+SP  - 101752
+EP  - 101752
+TI  - Sleep posture recognition based on machine learning: A systematic review
+T2  - Pervasive and Mobile Computing
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S157411922300010X
+VL  - 90
+ER  -
+TY  - JOUR
+AB  - <p>Sleep posture has a crucial impact on the incidence and severity of obstructive sleep apnea (OSA). Therefore, the surveillance and recognition of sleep postures could facilitate the assessment of OSA. The existing contact-based systems might interfere with sleeping, while camera-based systems introduce privacy concerns. Radar-based systems might overcome these challenges, especially when individuals are covered with blankets. The aim of this research is to develop a nonobstructive multiple ultra-wideband radar sleep posture recognition system based on machine learning models. We evaluated three single-radar configurations (top, side, and head), three dual-radar configurations (top + side, top + head, and side + head), and one tri-radar configuration (top + side + head), in addition to machine learning models, including CNN-based networks (ResNet50, DenseNet121, and EfficientNetV2) and vision transformer-based networks (traditional vision transformer and Swin Transformer V2). Thirty participants (n = 30) were invited to perform four recumbent postures (supine, left side-lying, right side-lying, and prone). Data from eighteen participants were randomly chosen for model training, another six participants’ data (n = 6) for model validation, and the remaining six participants’ data (n = 6) for model testing. The Swin Transformer with side and head radar configuration achieved the highest prediction accuracy (0.808). Future research may consider the application of the synthetic aperture radar technique.</p>
+AU  - Lai, Derek Ka-Hei
+AU  - Yu, Zi-Han
+AU  - Leung, Tommy Yau-Nam
+AU  - Lim, Hyo-Jung
+AU  - Tam, Andy Yiu-Chau
+AU  - So, Bryan Pak-Hei
+AU  - Mao, Ye-Jiao
+AU  - Cheung, Daphne Sze Ki
+AU  - Wong, Duo Wai-Chi
+AU  - Cheung, James Chung-Wai
+DA  - 2023/2//
+DO  - 10.3390/s23052475
+IS  - 5
+PY  - 2023
+SP  - 2475
+EP  - 2475
+TI  - Vision Transformers (ViT) for Blanket-Penetrating Sleep Posture Recognition Using a Triple Ultra-Wideband (UWB) Radar System
+T2  - Sensors
+UR  - https://www.mdpi.com/1424-8220/23/5/2475
+VL  - 23
+ER  -
+TY  - JOUR
+AB  - Raspberry Pi is an invaluable and popular prototyping tool in scientific research for experimenting with a wide variety of ideas, ranging from simple to complex projects. This review article explores how Raspberry Pi is used in various studies, discussing its pros and cons along with its applications in various domains such as home automation, agriculture, healthcare, industrial control, and advanced research. Our aim is to provide a useful resource for researchers, educators, students, product developers, and enthusiasts, helping them to grasp the current status and discover new research possibilities using Raspberry Pi.
+AU  - Mathe, Sudha Ellison
+AU  - Kondaveeti, Hari Kishan
+AU  - Vappangi, Suseela
+AU  - Vanambathina, Sunny Dayal
+AU  - Kumaravelu, Nandeesh Kumar
+DA  - 2024/5//
+DO  - 10.1016/j.cosrev.2024.100636
+KW  - Agriculture
+KW  - Automation
+KW  - Healthcare
+KW  - Internet of Things (IoT)
+KW  - Monitoring
+KW  - Prototyping
+KW  - Raspberry Pi
+PY  - 2024
+SP  - 100636
+EP  - 100636
+TI  - A comprehensive review on applications of Raspberry Pi
+T2  - Computer Science Review
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1574013724000200
+VL  - 52
+ER  -
+TY  - JOUR
+AB  - Sleep posture surveillance is crucial for patient comfort, yet current systems face difficulties in providing comprehensive studies due to the obstruction caused by blankets. Precise posture assessment remains challenging because of the complex nature of the human body and variations in sleep patterns. Consequently, this study introduces an innovative method utilizing RGB and thermal cameras for comprehensive posture classification, thereby enhancing the analysis of body position and comfort. This method begins by capturing a dataset of sleep postures in the form of videos using RGB and thermal cameras, which depict six commonly adopted postures: supine, left log, right log, prone head, prone left, and prone right. The study involves 10 participants under two conditions: with and without blankets. Initially, the database is normalized into a video frame. The subsequent step entails training a fine-tuned, pretrained Visual Geometry Group (VGG16) and ResNet50 model. In the third phase, the extracted features are utilized for classification. The fourth step of the proposed approach employs a serial fusion technique based on the normal distribution to merge the vectors derived from both the RGB and thermal datasets. Finally, the fused vectors are passed to machine learning classifiers for final classification. The dataset, which includes human sleep postures used in this study’s experiments, achieved a 96.7% accuracy rate using the Quadratic Support Vector Machine (QSVM) without the blanket. Moreover, the Linear SVM, when utilized with a blanket, attained an accuracy of 96%. When normal distribution serial fusion was applied to the blanket features, it resulted in a remarkable average accuracy of 99%.
+AU  - Khan, Awais
+AU  - Kim, Chomyong
+AU  - Kim, Jung-Yeon
+AU  - Aziz, Ahsan
+AU  - Nam, Yunyoung
+DO  - 10.32604/cmes.2024.049618
+IS  - 2
+KW  - Human sleep posture
+KW  - ResNet50
+KW  - VGG16
+KW  - deep learning
+KW  - fusion
+KW  - machine learning
+PY  - 2024
+SP  - 1729
+EP  - 1755
+TI  - Sleep Posture Classification Using RGB and Thermal Cameras Based on Deep Learning Model
+T2  - Computer Modeling in Engineering & Sciences
+UR  - https://www.techscience.com/CMES/v140n2/56568
+VL  - 140
+ER  -
+TY  - JOUR
+AB  - People spend approximately one-third of their lives in sleep, but more and more people are suffering from sleep disorders. Sleep posture is closely related to sleep quality, so related detection is very significant. In our previous work, a smart flexible sleep monitoring belt with MEMS triaxial accelerometer and pressure sensor has been developed to detect the vital signs, snore events and sleep stages. However, the method for sleep posture detection has not been studied. Therefore, to achieve high performance, low cost and comfortable experience, this paper proposes a smart detection method for sleep posture based on a flexible sleep monitoring belt and vital sign signals measured by a MEMS Inertial Measurement Unit (IMU). Statistical analysis and wavelet packet transform are applied for the feature extraction of the vital sign signals. Then the algorithm of recursive feature elimination with cross-validation is introduced to further extract the key features. Besides, machine learning models with 10-fold cross validation process, such as decision tree, random forest, support vector machine, extreme gradient boosting and adaptive boosting, were adopted to recognize the sleep posture. 15 subjects were recruited to participate the experiment. Experimental results demonstrate that the detection accuracy of the random forest algorithm is the highest among the five machine learning models, which reaches 96.02 %. Therefore, the proposed sleep posture detection method based on the flexible sleep monitoring belt is feasible and effective.
+AU  - He, Chunhua
+AU  - Fang, Zewen
+AU  - Liu, Shuibin
+AU  - Wu, Heng
+AU  - Li, Xiaoping
+AU  - Wen, Yangxing
+AU  - Lin, Juze
+DA  - 2024/6//
+DO  - 10.1016/j.heliyon.2024.e31839
+IS  - 11
+KW  - Feature extraction
+KW  - Machine learning
+KW  - Sleep monitoring belt
+KW  - Sleep posture detection
+KW  - Vital signals
+PY  - 2024
+SP  - e31839
+EP  - e31839
+TI  - A smart detection method for sleep posture based on a flexible sleep monitoring belt and vital sign signals
+T2  - Heliyon
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2405844024078708
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - Resistive sensor arrays (RSA) comprising of pressure-sensitive elements find broad use in pressure-sensing applications. However, sensor manufacturing inevitably yields a number of non-ideal properties. The gain, offset or non-linearities of an RSA’s elements may vary between individual sensors (taxels). Hence a simple calibration procedure to suppress these effects is desirable. The paper presents a method of and apparatus for the calibration of a pressure-sensing RSA. A forward mathematical model for each sensor is obtained during the calibration phase. In subsequent online measurement, the inverse model is utilised to compensated for the non-uniformity in sensor gain and offset. This approach leads to an appreciable improvement in picture quality, which can be mathematically quantified using classification accuracy in our tactile anti-decubitus platform for human monitoring. Namely, in a four-class classification experiment involving a support vector machine, the classification error decreased from 11 % before calibration to 3.5 % after calibration. Owing to the calibration procedure, a classifier trained using a calibrated RSA can be deployed to another calibrated RSA, without further data collection.
+AU  - Husák, Michal
+AU  - Mihálik, Ondrej
+AU  - Dvorský, Petr
+AU  - Bradáč, Zdeněk
+DO  - 10.1016/j.ifacol.2024.07.368
+IS  - 9
+KW  - calibration
+KW  - pressure
+KW  - resistive sensor array
+KW  - robustness
+KW  - tactile platform
+PY  - 2024
+SP  - 37
+EP  - 42
+TI  - A Method of Tactile Resistive Sensor Array Calibration
+T2  - IFAC-PapersOnLine
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2405896324004579
+VL  - 58
+ER  -
+TY  - JOUR
+AB  - Objective
+Ballistocardiography (BCG) measures vital signals without direct contact, which shows great potential for continuous sleep monitoring. This study proposed a BCG-based blood pressure (BP) estimation algorithm framework using piezoelectric bed sensor systems. Methods: To derive BP, a combination of morphological features, spectral features, and fractal dimensions of the BCG signal were utilized. Bayesian neural networks were employed to weigh the contribution of each feature and generate input-dependent coefficients. Two data balancing procedures were tested, and the proposed system's effectiveness was evaluated, including in-hospital patients and healthy subjects. Transfer learning techniques were employed to further improve the system's performance and showcase the similarity between bed systems with different piezoelectric sensors. Results: The combination of morphological and spectral features significantly improves BP estimation accuracy. The fractal dimension captures short-term BP fluctuations, improving intra-subject BP trend estimation. For young and healthy subjects, calibration-free mean absolute error (MAE) for systolic BP (SBP) and diastolic BP (DBP) is 4.20/4.25 mmHg at a 5-second time resolution. In the case of in-hospital patients, the best MAE for overnight SBP/DBP is 9.96/7.59 mmHg. Transfer learning, combined with data balancing techniques, substantially enhances BP estimation accuracy for in-hospital patients, providing insights for future algorithm designs. Conclusion: The study concludes that bed-sensor systems can track BP changes in relatively healthy subjects. However, BCG alone may not be sufficient for subjects with severe cardiovascular dysfunctions to obtain reliable BP readings. Transfer learning and proper data balancing may facilitate the fast development of new bed sensor systems with similar technologies.
+AU  - Xing, Xiaoman
+AU  - Li, Huan
+AU  - Chen, Qi
+AU  - Jiang, Chenyu
+AU  - Dong, Wen-fei
+DA  - 2024/1//
+DO  - 10.1016/j.bspc.2023.105479
+KW  - Ballistocardiography
+KW  - Bed-sensor system
+KW  - Blood pressure
+KW  - Higuchi fractal dimension
+KW  - Transfer learning
+PY  - 2024
+SP  - 105479
+EP  - 105479
+TI  - Blood pressure monitoring with piezoelectric bed sensor systems
+T2  - Biomedical Signal Processing and Control
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1746809423009126
+VL  - 87
+ER  -
+TY  - JOUR
+AB  - Sleep posture recognition is practically important in various scenarios, such as sleep healthcare, bedridden patient care, and chronic disease diagnosis. With concerns of user privacy preserving, we prefer the wireless sensing methods to computer vision methods when dealing with sleep posture recognition. However, the existing wireless sensing methods suffer from at least one of the following major limitations: 1) difficult to deploy in practice; 2) few posture categories; 3) insufficient accuracy; and 4) poor generalization ability. In this article, we use commercial-off-the-shelf (COTS) millimeter-wave radar to implement a sleep posture recognition system called PosMonitor. When designing the PosMonitor system, we need to address the following challenging issues. First, we propose an angle purification method based on multiframe joint analysis to alleviate the sparsity and instability of the point cloud. Then, we endow the point cloud with respiratory features to enhance its representation of the sleep posture. Further, to make the system applicable to different users, we extract relative respiratory features by normalization to overcome individual differences. Extensive experimental results show that our PosMonitor system can achieve 98% accuracy on average in recognizing 6 typical sleep postures and has good reliability across different conditions.
+AU  - Liu, Xiulong
+AU  - Jiang, Wei
+AU  - Chen, Sheng
+AU  - Xie, Xin
+AU  - Liu, Hankai
+AU  - Cai, Qixuan
+AU  - Tong, Xinyu
+AU  - Shi, Tuo
+AU  - Qu, Wenyu
+DA  - 2024/4//
+DO  - 10.1109/JIOT.2023.3328866
+IS  - 7
+KW  - Point cloud compression;Radar;Sleep apnea;Millimeter wave communication;Feature extraction;Reflection;Reliability;Wireless sensor networks;Sensors;Purification;Privacy;Millimeter wave radar;Medical diagnosis;Millimeter-wave (mmWave) radar;sleep posture recognition
+PY  - 2024
+SP  - 11175
+EP  - 11189
+TI  - PosMonitor: Fine-Grained Sleep Posture Recognition With mmWave Radar
+T2  - IEEE Internet of Things Journal
+UR  - https://ieeexplore.ieee.org/document/10302282/
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - Recently, pressure-sensing mats have been widely used to capture static and dynamic pressure over sleep for posture recognition. Both a full-size mat with a low-density sensing array for figuring out the structure of the whole body and a miniature scale mat with a high-density sensing array for identifying the local characteristics around the chest have been investigated. However, both of the mat systems may face the challenge in the trade-off between the computational complexity (involving the size, density, etc. of the mat) and the performance of sleep posture recognition, where high performance may requires overcomplex computation and result in time latency in real-time sleep posture monitoring. In this paper, a lightweight neural network named ConcatNet, is proposed to realize sleep postures (supine, left, right, and prone) recognition in real time while maintaining a favorable performance. In ConcatNet, the inception module is proposed to extract the image features under multiple receptive fields, while the multi-layer feature fusion module is utilized to fuse deep and shallow features to enhance the model performance. To further improve the efficiency of the model, the depthwise convolution is adopoted. ConcatNet models in 3 different scales (ConcatNet-S, ConcatNet-M, and ConcatNet-L) are built to explore the impact of the sensor density on sleep posture recognition performance. Experimental results exhibit that ConcatNet-M corresponding to medium sensor density ( 16 16 ) achieved the best comprehensive performance, with short-term data cross-validation accuracy at 95.56% and overnight data testing accuracy at 94.68%. The model size is 7.91KB, FLOPs is 56.47K, and the inference time is only 0.38ms, which shows an outstanding performance of real-time sleep posture recognition with minimum consumption, indicating the potential to be deployed in mobile devices.
+AU  - Wu, Shaonan
+AU  - Diao, Haikang
+AU  - Feng, Yi
+AU  - Zhang, Yiyuan
+AU  - Chen, Hongyu
+AU  - Akay, Yasemin M.
+AU  - Akay, Metin
+AU  - Chen, Chen
+AU  - Chen, Wei
+DA  - 2024/10//
+DO  - 10.1109/TNSRE.2024.3452431
+KW  - Sleep apnea;Real-time systems;Computational modeling;Monitoring;Feature extraction;Neural networks;Computational complexity;Sleep posture recognition;real-time;lightweight model;sensor density
+PY  - 2024
+SP  - 3410
+EP  - 3421
+TI  - Lightweight Neural Network for Sleep Posture Classification Using Pressure Sensing Mat at Various Sensor Densities
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+UR  - https://ieeexplore.ieee.org/document/10659869/
+VL  - 32
+ER  -
+TY  - JOUR
+AB  - Sleep monitoring plays a vital role in various scenarios such as hospitals and living-assisted homes, contributing to the prevention of sleep accidents as well as the assessment of sleep health. Contactless camera-based sleep monitoring is promising due to its user-friendly nature and rich visual semantics. However, the privacy concern of video cameras limits their applications in sleep monitoring. In this paper, we explored the opportunity of using a defocused camera that does not allow identification of the monitored subject when measuring sleep-related parameters, as face detection and recognition are impossible on optically blurred images. We proposed a novel privacy-protected sleep parameters measurement framework, including a physiological measurement branch and a semantic analysis branch based on ResNet-18. Four important sleep parameters are measured: heart rate (HR), respiration rate (RR), sleep posture, and movement. The results of HR, RR, and movement have strong correlations with the reference (HR: R = 0.9076; RR: R = 0.9734; Movement: R = 0.9946). The overall mean absolute errors (MAE) for HR and RR are 5.2 bpm and 1.5 bpm respectively. The measurement of HR and RR achieve reliable estimation coverage of 72.1% and 93.6%, respectively. The sleep posture detection achieves an overall accuracy of 94.5%. Experimental results show that the defocused camera is promising for sleep monitoring as it fundamentally eliminates the privacy issue while still allowing the measurement of multiple parameters that are essential for sleep health informatics.
+AU  - Zhu, Yingen
+AU  - Hong, Hong
+AU  - Wang, Wenjin
+DA  - 2024/8//
+DO  - 10.1109/JBHI.2024.3396397
+IS  - 8
+KW  - Sleep apnea;Cameras;Monitoring;Optical variables measurement;Biomedical measurement;Biomedical monitoring;Privacy;Contactless sensing;defocused camera;privacy protection;sleep monitoring
+PY  - 2024
+SP  - 4660
+EP  - 4673
+TI  - Privacy-Protected Contactless Sleep Parameters Measurement Using a Defocused Camera
+T2  - IEEE Journal of Biomedical and Health Informatics
+UR  - https://ieeexplore.ieee.org/document/10517590/
+VL  - 28
+ER  -
+TY  - JOUR
+AB  - The accuracy of sleep posture assessment in standard polysomnography might be compromised by the unfamiliar sleep lab environment. In this work, we aim to develop a depth camera-based sleep posture monitoring and classification system for home or community usage and tailor a deep learning model that can account for blanket interference. Our model included a joint coordinate estimation network (JCE) and sleep posture classification network (SPC). SaccpaNet (Separable Atrous Convolution-based Cascade Pyramid Attention Network) was developed using a combination of pyramidal structure of residual separable atrous convolution unit to reduce computational cost and enlarge receptive field. The Saccpa attention unit served as the core of JCE and SPC, while different backbones for SPC were also evaluated. The model was cross-modally pretrained by RGB images from the COCO whole body dataset and then trained/tested using dept image data collected from 150 participants performing seven sleep postures across four blanket conditions. Besides, we applied a data augmentation technique that used intra-class mix-up to synthesize blanket conditions; and an overlaid flip-cut to synthesize partially covered blanket conditions for a robustness that we referred to as the Post-hoc Data Augmentation Robustness Test (PhD-ART). Our model achieved an average precision of estimated joint coordinate (in terms of PCK@0.1) of 0.652 and demonstrated adequate robustness. The overall classification accuracy of sleep postures (F1-score) was 0.885 and 0.940, for 7- and 6-class classification, respectively. Our system was resistant to the interference of blanket, with a spread difference of 2.5%.
+AU  - Tam, Andy Yiu-Chau
+AU  - Mao, Ye-Jiao
+AU  - Lai, Derek Ka-Hei
+AU  - Chan, Andy Chi-Ho
+AU  - Cheung, Daphne Sze Ki
+AU  - Kearns, William
+AU  - Wong, Duo Wai-Chi
+AU  - Cheung, James Chung-Wai
+DA  - 2024/10//
+DO  - 10.1109/JBHI.2024.3432195
+KW  - Convolution;Accuracy;Feature extraction;Data models;Robustness;Cameras;Kernel;computer vision;deep learning;human activity recognition;image classification;sleep
+PY  - 2024
+SP  - 1
+EP  - 12
+TI  - SaccpaNet: A Separable Atrous Convolution-based Cascade Pyramid Attention Network to Estimate Body Landmarks Using Cross-modal Knowledge Transfer for Under-blanket Sleep Posture Classification
+T2  - IEEE Journal of Biomedical and Health Informatics
+UR  - https://ieeexplore.ieee.org/document/10607857/
+ER  -
+TY  - CONF
+AB  - Sleep monitoring has many health applications. One of the main tasks in sleep monitoring is sleep posture classification. Most of the traditional approaches have a camera as their primary detector which can be privacy-invasive and malfunction in some settings. An alternative is to use pressure mats. The problem however with most of the pressure mat raw images is that they contain gaps and discontinuous blocks which makes direct classification challenging. To address this issue, we propose PressureSilhouette, a deep learning model based on the Pix2Pix model that predicts the silhouette of the body. Using the generated silhouette, we will be able to predict the posture classification more accurately.
+AU  - Eslami, Arshia
+AU  - Sur, Sanjib
+CY  - New York, NY, USA
+DA  - 2024/2//
+DO  - 10.1145/3638550.3643632
+KW  - pressure mattress
+KW  - sleep posture monitoring
+PB  - ACM
+PY  - 2024
+SN  - 9798400704970
+SP  - 150
+EP  - 150
+TI  - Poster: PressureSilhouette: A Model to Predict Sleep Silhouette from Pressure Mattress Images
+T2  - Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications
+UR  - https://dl.acm.org/doi/10.1145/3638550.3643632
+ER  -
+TY  - JOUR
+AB  - <p>Sleep posture plays a crucial role in maintaining good morpheus quality and overall health. As a result, long-term monitoring of 3D sleep postures is significant for sleep analysis and chronic disease prevention. To recognize sleep postures, traditional methods either use cameras to record image data or require the user to wear wearable devices or sleep on pressure mattresses. However, these methods could raise privacy concerns and cause discomfort during sleep. Accordingly, the RF (Radio Frequency) based method has emerged as a promising alternative. Despite most of these methods achieving high precision in classifying sleep postures, they struggle to retrieve 3D sleep postures due to difficulties in capturing 3D positions of static body joints. In this work, we propose TagSleep3D to resolve all the above issues. Specifically, inspired by the concept of RFID tag sheets, we explore the possibility of recognizing 3D sleep posture by deploying an RFID tag array under the bedsheet. When a user sleeps in bed, the signals of some tags could be blocked or reflected by the sleep posture, which can produce a body imprint. We then propose a novel deep learning model composed of the attention mechanism, convolutional neural network, and together with two data augmentation methods to retrieve the 3D sleep postures by analyzing these body imprints. We evaluate TagSleep3D with 43 users and we totally collect 27,300 sleep posture samples. Our extensive experiments demonstrate that TagSleep3D can recognize each joint on the human skeleton with a median MPJPE (Mean Per Joint Position Error) of 4.76 cm for seen users and 7.58 cm for unseen users.</p>
+AU  - Liu, Chen
+AU  - Dong, Zixuan
+AU  - Huang, Li
+AU  - Yan, Wenlong
+AU  - Wang, Xin
+AU  - Fang, Dingyi
+AU  - Chen, Xiaojiang
+CY  - New York, NY, USA
+DA  - 2024/3//
+DO  - 10.1145/3643512
+IS  - 1
+KW  - 3D Skeletons
+KW  - Neural Network
+KW  - RFIDs
+KW  - Sleep Postures
+PB  - Association for Computing Machinery
+PY  - 2024
+SP  - 1
+EP  - 28
+TI  - TagSleep3D
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3643512
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - <p>In automated sleep monitoring systems, bed occupancy detection is the foundation or the first step before other downstream tasks, such as inferring sleep activities and vital signs. The existing methods do not generalize well to real-world environments due to single environment settings and rely on threshold-based approaches. Manually selecting thresholds requires observing a large amount of data and may not yield optimal results. In contrast, acquiring extensive labeled sensory data poses significant challenges regarding cost and time. Hence, developing models capable of generalizing across diverse environments with limited data is imperative. This paper introduces SeismoDot, which consists of a self-supervised learning module and a spectral-temporal feature fusion module for bed occupancy detection. Unlike conventional methods that require separate pre-training and fine-tuning, our self-supervised learning module is co-optimized with the primary target task, which directs learned representations toward a task-relevant embedding space while expanding the feature space. The proposed feature fusion module enables the simultaneous exploitation of temporal and spectral features, enhancing the diversity of information from both domains. By combining these techniques, SeismoDot expands the diversity of embedding space for both the temporal and spectral domains to enhance its generalizability across different environments. SeismoDot not only achieves high accuracy (98.49%) and F1 scores (98.08%) across 13 diverse environments, but it also maintains high performance (97.01% accuracy and 96.54% F1 score) even when trained with just 20% (4 days) of the total data. This demonstrates its exceptional ability to generalize across various environmental settings, even with limited data availability.</p>
+AU  - Song, Yingjian
+AU  - Pitafi, Zaid Farooq
+AU  - Dou, Fei
+AU  - Sun, Jin
+AU  - Zhang, Xiang
+AU  - Phillips, Bradley G.
+AU  - Song, WenZhan
+CY  - New York, NY, USA
+DA  - 2024/8//
+DO  - 10.1145/3678514
+IS  - 3
+KW  - Bed Occupancy
+KW  - Self-Supervised Learning
+KW  - Spectrum-temporal feature fusion
+PB  - Association for Computing Machinery
+PY  - 2024
+SP  - 1
+EP  - 25
+TI  - Self-Supervised Representation Learning and Temporal-Spectral Feature Fusion for Bed Occupancy Detection
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3678514
+VL  - 8
+ER  -
+TY  - JOUR
+AB  - <p>Since sleep plays an important role in people's daily lives, sleep monitoring has attracted the attention of many researchers. Physical and physiological activities occurring in sleep exhibit unique patterns in different sleep stages. It indicates that recognizing a wide range of sleep activities (events) can provide more fine-grained information for sleep stage detection. However, most of the prior works are designed to capture limited sleep events and coarse-grained information, which cannot meet the needs of fine-grained sleep monitoring. In our work, we leverage ubiquitous in-ear microphones on sleep earbuds to design a sleep monitoring system, named EarSleep1, which interprets in-ear body sounds induced by various representative sleep events into sleep stages. Based on differences among physical occurrence mechanisms of sleep activities, EarSleep extracts unique acoustic response patterns from in-ear body sounds to recognize a wide range of sleep events, including body movements, sound activities, heartbeat, and respiration. With the help of sleep medicine knowledge, interpretable acoustic features are derived from these representative sleep activities. EarSleep leverages a carefully designed deep learning model to establish the complex correlation between acoustic features and sleep stages. We conduct extensive experiments with 48 nights of 18 participants over three months to validate the performance of our system. The experimental results show that our system can accurately detect a rich set of sleep activities. Furthermore, in terms of sleep stage detection, EarSleep outperforms state-of-the-art solutions by 7.12% and 9.32% in average precision and average recall, respectively.</p>
+AU  - Han, Feiyu
+AU  - Yang, Panlong
+AU  - Feng, Yuanhao
+AU  - Jiang, Weiwei
+AU  - Zhang, Youwei
+AU  - Li, Xiang-Yang
+CY  - New York, NY, USA
+DA  - 2024/5//
+DO  - 10.1145/3659595
+IS  - 2
+KW  - Earable Sensing
+KW  - In-ear Body Sound
+KW  - Sleep Monitoring
+KW  - Sleep Stage Detection
+PB  - Association for Computing Machinery
+PY  - 2024
+SP  - 1
+EP  - 31
+TI  - EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+UR  - https://dl.acm.org/doi/10.1145/3659595
+VL  - 8
+ER  -
+TY  - CONF
+AB  - Accurate, continuous monitoring of human physical and physiological signals is critical to enhancing healthcare, personalizing education, and human interaction with the physical environment. Current methods for acquiring human data, however, frequently rely on cumbersome environmental instrumentation, extensive manual inputs, or uncomfortable rigid or adhesive wearable sensors. The emergence of computational fabrics has ushered in a new era of ubiquitous computing. By seamlessly integrating sensing capabilities into everyday clothing and accessories, we enable uninterrupted physical and physiological data acquisition and interpretation, providing a holistic view of an individual's status.
+AU  - Shao, Qijia
+CY  - New York, NY, USA
+DA  - 2024/6//
+DO  - 10.1145/3643832.3661385
+KW  - computational fabrics
+KW  - physical sensing
+KW  - physiological sensing
+PB  - ACM
+PY  - 2024
+SN  - 9798400705816
+SP  - 748
+EP  - 750
+TI  - Weaving Physical and Physiological Sensing with Computational Fabrics
+T2  - Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services
+UR  - https://dl.acm.org/doi/10.1145/3643832.3661385
+ER  -
+TY  - JOUR
+AB  - <p>Sleep quality is heavily influenced by sleep posture, with research indicating that a supine posture can worsen obstructive sleep apnea (OSA) while lateral postures promote better sleep. For patients confined to beds, regular changes in posture are crucial to prevent the development of ulcers and bedsores. This study presents a novel sparse sensor-based spatiotemporal convolutional neural network (S3CNN) for detecting sleep posture. This S3CNN holistically incorporates a pair of spatial convolution neural networks to capture cardiorespiratory activity maps and a pair of temporal convolution neural networks to capture the heart rate and respiratory rate. Sleep data were collected in actual sleep conditions from 22 subjects using a sparse sensor array. The S3CNN was then trained to capture the spatial pressure distribution from the cardiorespiratory activity and temporal cardiopulmonary variability from the heart and respiratory data. Its performance was evaluated using three rounds of 10 fold cross-validation on the 8583 data samples collected from the subjects. The results yielded 91.96% recall, 92.65% precision, and 93.02% accuracy, which are comparable to the state-of-the-art methods that use significantly more sensors for marginally enhanced accuracy. Hence, the proposed S3CNN shows promise for sleep posture monitoring using sparse sensors, demonstrating potential for a more cost-effective approach.</p>
+AU  - Hu, Dikun
+AU  - Gao, Weidong
+AU  - Ang, Kai Keng
+AU  - Hu, Mengjiao
+AU  - Chuai, Gang
+AU  - Huang, Rong
+DA  - 2024/7//
+DO  - 10.3390/s24154833
+IS  - 15
+PY  - 2024
+SP  - 4833
+EP  - 4833
+TI  - Smart Sleep Monitoring: Sparse Sensor-Based Spatiotemporal CNN for Sleep Posture Detection
+T2  - Sensors
+UR  - https://www.mdpi.com/1424-8220/24/15/4833
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - People spend approximately one-third of their lives in sleep, but more
+and more people are suffering from sleep disorders. Sleep posture is
+closely related to sleep quality, so related detection is very
+significant. In our previous work, a smart flexible sleep monitoring
+belt with MEMS triaxial accelerometer and pressure sensor has been
+developed to detect the vital signs, snore events and sleep stages.
+However, the method for sleep posture detection has not been studied.
+Therefore, to achieve high performance, low cost and comfortable
+experience, this paper proposes a smart detection method for sleep
+posture based on a flexible sleep monitoring belt and vital sign signals
+measured by a MEMS Inertial Measurement Unit (IMU). Statistical analysis
+and wavelet packet transform are applied for the feature extraction of
+the vital sign signals. Then the algorithm of recursive feature
+elimination with cross-validation is introduced to further extract the
+key features. Besides, machine learning models with 10-fold cross
+validation process, such as decision tree, random forest, support vector
+machine, extreme gradient boosting and adaptive boosting, were adopted
+to recognize the sleep posture. 15 subjects were recruited to
+participate the experiment. Experimental results demonstrate that the
+detection accuracy of the random forest algorithm is the highest among
+the five machine learning models, which reaches 96.02 %. Therefore, the
+proposed sleep posture detection method based on the flexible sleep
+monitoring belt is feasible and effective.
+AU  - He, Chunhua
+AU  - Fang, Zewen
+AU  - Liu, Shuibin
+AU  - Wu, Heng
+AU  - Li, Xiaoping
+AU  - Wen, Yangxing
+AU  - Lin, Juze
+DA  - 2024/6//
+DO  - 10.1016/j.heliyon.2024.e31839
+IS  - 11
+PY  - 2024
+SP  - e31839
+EP  - e31839
+TI  - A smart detection method for sleep posture based on a flexible sleep monitoring belt and vital sign signals
+T2  - Heliyon
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S2405844024078708
+VL  - 10
+ER  -
+TY  - JOUR
+AB  - <p> In this work, we propose <italic>MiSleep</italic> , a deep learning augmented millimeter-wave (mmWave) wireless system to monitor human sleep posture by predicting the 3D location of the body joints of a person during sleep. Unlike existing vision- or wearable-based sleep monitoring systems, <italic>MiSleep</italic> is not privacy-invasive and does not require users to wear anything on their body. <italic>MiSleep</italic> leverages knowledge of human anatomical features and deep learning models to solve challenges in existing mmWave devices with low-resolution and aliased imaging and specularity in signals. <italic>MiSleep</italic> builds the model by learning the relationship between mmWave reflected signals and body postures from thousands of existing samples. Since a practical sleep also involves sudden toss-turns, which could introduce errors in posture prediction, <italic>MiSleep</italic> designs a state machine based on the reflected signals to classify the sleeping states into rest or toss-turn and predict the posture only during the rest states. <styled-content style="color:#000000"> We evaluate <italic>MiSleep</italic> with real data collected from Commercial-Off-The-Shelf mmWave devices for eight volunteers of diverse ages, genders, and heights performing different sleep postures </styled-content> . <styled-content style="color:#000000"> We observe that <italic>MiSleep</italic> identifies the toss-turn events start time and duration within 1.25 s and 1.7 s of the ground truth, respectively, and predicts the 3D location of body joints with a median error of 1.3 cm only and can perform even under the blankets, with accuracy on par with the existing vision-based system, unlocking the potential of mmWave systems for privacy-noninvasive at-home healthcare applications. </styled-content> </p>
+AU  - Adhikari, Aakriti
+AU  - Sur, Sanjib
+DA  - 2024/5//
+DO  - 10.1145/3643866
+IS  - 2
+PY  - 2024
+SP  - 1
+EP  - 33
+TI  - MiSleep: Human Sleep Posture Identification from Deep Learning Augmented Millimeter-wave Wireless Systems
+T2  - ACM Transactions on Internet of Things
+UR  - https://dl.acm.org/doi/10.1145/3643866
+VL  - 5
+ER  -
