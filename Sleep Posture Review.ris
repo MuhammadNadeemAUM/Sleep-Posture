@@ -1,0 +1,2389 @@
+TY  - JOUR
+T1  - Smart office chairs with sensors for detecting sitting positions and sitting habits: A review
+A1  - Vlaović, Zoran
+A1  - Jaković, Marko
+A1  - Domljan, Danijela
+Y1  - 2022///
+PB  - Sveučilište u Zagrebu Fakultet šumarstva i drvne tehnologije
+JF  - Drvna industrija
+VL  - 73
+IS  - 2
+SP  - 227
+EP  - 243
+ER  - 
+TY  - CONF
+T1  - Sitting Posture Recognition and Feedback: A Literature Review
+A1  - Krauter, Christian
+A1  - Angerbauer, Katrin
+A1  - Sousa Calepso, Aimée
+A1  - Achberger, Alexander
+A1  - Mayer, Sven
+A1  - Sedlmair, Michael
+Y1  - 2024///
+JF  - Proceedings of the CHI Conference on Human Factors in Computing Systems
+SP  - 1
+EP  - 20
+ER  - 
+TY  - JOUR
+T1  - Smart Sensing Chairs for Sitting Posture Detection, Classification, and Monitoring: A Comprehensive Review
+A1  - Odesola, David Faith
+A1  - Kulon, Janusz
+A1  - Verghese, Shiny
+A1  - Partlow, Adam
+A1  - Gibson, Colin
+Y1  - 2024///
+PB  - MDPI
+JF  - Sensors
+VL  - 24
+IS  - 9
+SP  - 2940
+EP  - 2940
+ER  - 
+TY  - CONF
+T1  - A new kinect approach to judge unhealthy sitting posture based on neck angle and torso angle
+A1  - Yao, Leiyue
+A1  - Min, Weidong
+A1  - Cui, Hao
+Y1  - 2017///
+PB  - Springer
+JF  - Image and Graphics: 9th International Conference, ICIG 2017, Shanghai, China, September 13-15, 2017, Revised Selected Papers, Part I 9
+SP  - 340
+EP  - 350
+SN  - 3319716069
+ER  - 
+TY  - JOUR
+T1  - FSR-based smart system for detection of wheelchair sitting postures using machine learning algorithms and Techniques
+A1  - Jaffery, Mujtaba Hussain
+A1  - Ashraf, Muhammad Adil
+A1  - Almogren, Ahmad
+A1  - Asim, Hafiza Mahnoor
+A1  - Arshad, Jehangir
+A1  - Khan, Javed
+A1  - Rehman, Ateeq Ur
+A1  - Hussen, Seada
+Y1  - 2022///
+PB  - Hindawi Limited
+JF  - Journal of Sensors
+VL  - 2022
+SP  - 1
+EP  - 10
+ER  - 
+TY  - CONF
+T1  - You work we care: Sitting posture assessment based on point cloud data
+A1  - Katayama, Hikaru
+A1  - Mizomoto, Teruhiro
+A1  - Rizk, Hamada
+A1  - Yamaguchi, Hirozumi
+Y1  - 2022///
+PB  - IEEE
+JF  - 2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+SP  - 121
+EP  - 123
+SN  - 1665416475
+ER  - 
+TY  - JOUR
+T1  - Active workstations: A literature review on workplace sitting
+A1  - Pearse, S
+A1  - Léger, M
+A1  - Albert, W J
+A1  - Cardoso, M
+Y1  - 2024///
+JF  - Journal of Bodywork and Movement Therapies
+VL  - 38
+SP  - 406
+EP  - 416
+DO  - 10.1016/j.jbmt.2024.01.001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185538275&doi=10.1016%2Fj.jbmt.2024.01.001&partnerID=40&md5=0fcbeb280ea14f2fd5a78d879fdfaf7b
+N1  - Export Date: 20 July 2024; Cited By: 1
+ER  - 
+TY  - CONF
+T1  - Research on Sitting Posture Recognition Based on Deep Fusion Neural Network
+A1  - Yang, Tao
+A1  - Tao, Qing
+A1  - Wu, Bin
+A1  - Zhao, Zirui
+Y1  - 2023///
+PB  - IEEE
+JF  - 2023 4th International Conference on Computer Engineering and Application (ICCEA)
+SP  - 639
+EP  - 645
+SN  - 9798350347548
+ER  - 
+TY  - CHAP
+T1  - Postures
+A1  - Kalra, T
+Y1  - 2017///
+JF  - Holistic Healthcare: Possibilities and Challenges
+SP  - 55
+EP  - 71
+DO  - 10.1201/9781315366241
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053744511&doi=10.1201%2F9781315366241&partnerID=40&md5=74eacf192524208ceb46d4cd59ee2e4f
+N1  - Export Date: 20 July 2024; Cited By: 0
+ER  - 
+TY  - JOUR
+T1  - Development of an inexpensive sensor network for recognition of sitting posture
+A1  - Barba, Ricardo
+A1  - de Madrid, Ángel P
+A1  - Boticario, Jesús G
+Y1  - 2015///
+PB  - SAGE Publications Sage UK: London, England
+JF  - International Journal of Distributed Sensor Networks
+VL  - 11
+IS  - 8
+SP  - 969237
+EP  - 969237
+ER  - 
+TY  - JOUR
+T1  - IoT device for sitting posture classification using artificial neural networks
+A1  - Luna-Perejón, Francisco
+A1  - Montes-Sánchez, Juan Manuel
+A1  - Durán-López, Lourdes
+A1  - Vazquez-Baeza, Alberto
+A1  - Beasley-Bohórquez, Isabel
+A1  - Sevillano-Ramos, José L
+Y1  - 2021///
+PB  - MDPI
+JF  - Electronics
+VL  - 10
+IS  - 15
+SP  - 1825
+EP  - 1825
+ER  - 
+TY  - CONF
+T1  - LMSPNet: Improved Lightweight Network for Multi-Person Sitting Posture Recognition
+A1  - Jiao, Shuyang
+A1  - Xiao, Yubin
+A1  - Wu, Xuan
+A1  - Liang, Yanchun
+A1  - Liang, Yi
+A1  - Zhou, You
+Y1  - 2023///
+PB  - IEEE
+JF  - 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI)
+SP  - 289
+EP  - 295
+SN  - 9798350335262
+ER  - 
+TY  - CONF
+T1  - Sitting posture recognition based on human body pressure and CNN
+A1  - Liu, Wenjun
+A1  - Guo, Yunfei
+A1  - Yang, Jun
+A1  - Hu, Yun
+A1  - Wei, Dapeng
+Y1  - 2019///
+PB  - AIP Publishing
+JF  - AIP Conference Proceedings
+VL  - 2073
+IS  - 1
+SN  - 0094-243X
+ER  - 
+TY  - JOUR
+T1  - Does "ideal" sitting position exist?
+A1  - Czaprowski, D
+A1  - Leszczewska, J
+A1  - Sitarski, D
+Y1  - 2014///
+JF  - Postepy Rehabilitacji
+VL  - 28
+IS  - 3
+SP  - 47
+EP  - 54
+DO  - 10.1515/rehab-2015-0006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045117442&doi=10.1515%2Frehab-2015-0006&partnerID=40&md5=ffa502aaa4f50d2ea702ab6437f6610f
+N1  - Export Date: 20 July 2024; Cited By: 7
+ER  - 
+TY  - CONF
+T1  - Teleworking arrangements during the COVID-19 crisis and beyond
+A1  - Ilo
+Y1  - 2021///
+PB  - International Labour Organization (ILO) Geneva
+JF  - 2nd Employment Working Group Meeting under the 2021 Italian Presidency of the G20, online, April 14–16
+ER  - 
+TY  - JOUR
+T1  - Easy-to-build textile pressure sensor
+A1  - Pizarro, Francisco
+A1  - Villavicencio, Piero
+A1  - Yunge, Daniel
+A1  - Rodríguez, Mauricio
+A1  - Hermosilla, Gabriel
+A1  - Leiva, Ariel
+Y1  - 2018///
+PB  - MDPI
+JF  - Sensors
+VL  - 18
+IS  - 4
+SP  - 1190
+EP  - 1190
+ER  - 
+TY  - CONF
+T1  - Unsupervised monitoring of sitting behavior
+A1  - Tessendorf, Bernd
+A1  - Arnrich, Bert
+A1  - Schumm, Johannes
+A1  - Setz, Cornelia
+A1  - Troster, Gerhard
+Y1  - 2009///
+PB  - IEEE
+JF  - 2009 Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+SP  - 6197
+EP  - 6200
+SN  - 1424432960
+ER  - 
+TY  - BOOK
+T1  - ISO 11226: 2000 (E), Ergonomics: Evaluation of Static Working Postures
+A1  - Normalización, Organización Internacional de
+Y1  - 2000///
+PB  - ISO
+ER  - 
+TY  - JOUR
+T1  - Real-time sitting posture correction system based on highly durable and washable electronic textile pressure sensors
+A1  - Kim, Minjeong
+A1  - Kim, Hyoungjun
+A1  - Park, Jinwoo
+A1  - Jee, Kwang-Koo
+A1  - Lim, Jung Ah
+A1  - Park, Min-Chul
+Y1  - 2018///
+PB  - Elsevier
+JF  - Sensors and Actuators A: Physical
+VL  - 269
+SP  - 394
+EP  - 400
+ER  - 
+TY  - CONF
+T1  - Sitting posture recognition in real-time combined with index map and BLS
+A1  - Sun, Wanting
+A1  - Zhou, Ze
+A1  - Li, Hongjun
+Y1  - 2019///
+JF  - Proceedings of the 2019 3rd International Conference on Innovation in Artificial Intelligence
+SP  - 101
+EP  - 105
+ER  - 
+TY  - JOUR
+T1  - Posture Prediction for Healthy Sitting Using a Smart Chair
+A1  - Adane Gelaw, Tariku
+A1  - Tsighe Hagos, Misgina
+Y1  - 2022///
+JF  - arXiv e-prints
+SP  - arXiv
+EP  - 2201
+ER  - 
+TY  - JOUR
+T1  - Sitting Posture Recognition based on data fusion on pressure cushion
+A1  - Bao, Junrong
+A1  - Li, Wenfeng
+A1  - Li, Jian
+A1  - Ge, Yanhong
+A1  - Bao, Chongzhi
+Y1  - 2013///
+JF  - TELKOMNIKA Indonesian Journal of Electrical Engineering
+VL  - 11
+IS  - 4
+SP  - 1769
+EP  - 1775
+ER  - 
+TY  - JOUR
+T1  - A Smart Chair to Monitor Sitting Posture by Capacitive Textile Sensors
+A1  - Martínez-Estrada, Marc
+A1  - Vuohijoki, Tiina
+A1  - Poberznik, Anja
+A1  - Shaikh, Asif
+A1  - Virkki, Johanna
+A1  - Gil, Ignacio
+A1  - Fernández-García, Raúl
+Y1  - 2023///
+PB  - MDPI
+JF  - Materials
+VL  - 16
+IS  - 13
+SP  - 4838
+EP  - 4838
+ER  - 
+TY  - CONF
+T1  - Emotion recognition modeling of sitting postures by using pressure sensors and accelerometers
+A1  - Shibata, Tatsuya
+A1  - Kijima, Yohei
+Y1  - 2012///
+PB  - IEEE
+JF  - Proceedings of the 21st International Conference on Pattern Recognition (ICPR2012)
+SP  - 1124
+EP  - 1127
+SN  - 4990644107
+ER  - 
+TY  - JOUR
+T1  - Comparison of Sitting Postures Based on Motion Capture, Pressure Distribution and Semg for Finding the Optimal Sitting Posture
+A1  - Su, N
+A1  - Reyihanguli, M
+A1  - Muyesaier, M
+A1  - Li, Z
+A1  - Tao, Q
+Y1  - 2021///
+JF  - Journal of Forestry Engineering
+VL  - 6
+IS  - 2
+SP  - 176
+EP  - 182
+DO  - 10.13360/j.issn.2096-1359.202003046
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85113674561&doi=10.13360%2Fj.issn.2096-1359.202003046&partnerID=40&md5=c2dc7a07900e96e8bfb6bc81c12d529a
+N1  - Export Date: 20 July 2024; Cited By: 2
+ER  - 
+TY  - JOUR
+T1  - Providing a cushion for wireless healthcare application development
+A1  - Hu, Yu
+A1  - Stoelting, Adam
+A1  - Wang, Yi-Tao
+A1  - Zou, Yi
+A1  - Sarrafzadeh, Majid
+Y1  - 2010///
+PB  - IEEE
+JF  - IEEE potentials
+VL  - 29
+IS  - 1
+SP  - 19
+EP  - 23
+ER  - 
+TY  - JOUR
+T1  - Assessment of a Multi-Sensor FBG-based Wearable System in Sitting Postures Recognition and Respiratory Rate Evaluation of Office Workers
+A1  - Zaltieri, Martina
+A1  - Presti, Daniela Lo
+A1  - Bravi, Marco
+A1  - Caponero, Michele Arturo
+A1  - Sterzi, Silvia
+A1  - Schena, Emiliano
+A1  - Massaroni, Carlo
+Y1  - 2022///
+PB  - IEEE
+JF  - IEEE Transactions on Biomedical Engineering
+VL  - 70
+IS  - 5
+SP  - 1673
+EP  - 1682
+ER  - 
+TY  - CONF
+T1  - A posture recognition model dedicated for differentiating between proper and improper sitting posture with kinect sensor
+A1  - Chin, L C K
+A1  - Eu, Kok Seng
+A1  - Tay, Tee Tiong
+A1  - Teoh, Choe Yung
+A1  - Yap, Kian Meng
+Y1  - 2019///
+PB  - IEEE
+JF  - 2019 IEEE international symposium on haptic, audio and visual environments and games (HAVE)
+SP  - 1
+EP  - 5
+SN  - 1728123550
+ER  - 
+TY  - JOUR
+T1  - Detection of sitting posture using hierarchical image composition and deep learning
+A1  - Kulikajevas, Audrius
+A1  - Maskeliunas, Rytis
+A1  - Damaševičius, Robertas
+Y1  - 2021///
+PB  - PeerJ Inc.
+JF  - PeerJ computer science
+VL  - 7
+SP  - e442
+EP  - e442
+ER  - 
+TY  - JOUR
+T1  - Sitting Posture Recognition and Correction using Human Sensing IoT Interfaces and Machine Learning
+A1  - KATIA, BOURAHMOUNE
+Y1  - 2023///
+ER  - 
+TY  - CONF
+T1  - Are you sitting right?-sitting posture recognition using RF signals
+A1  - Feng, Lin
+A1  - Li, Ziyi
+A1  - Liu, Chen
+Y1  - 2019///
+PB  - IEEE
+JF  - 2019 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM)
+SP  - 1
+EP  - 6
+SN  - 1728127947
+ER  - 
+TY  - JOUR
+T1  - Development and performance evaluation of a sitting posture adjustment vest for the sedentary people
+A1  - Yan, F
+A1  - He, M
+A1  - Ke, Y
+Y1  - 2023///
+JF  - Journal of Silk
+VL  - 60
+IS  - 6
+SP  - 33
+EP  - 39
+DO  - 10.3969/j.issn.1001-7003.2023.06.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165866837&doi=10.3969%2Fj.issn.1001-7003.2023.06.005&partnerID=40&md5=afb9d079b6c59ff6895253065de4d841
+N1  - Export Date: 20 July 2024; Cited By: 0
+ER  - 
+TY  - JOUR
+T1  - Analysis of sitting posture recognition using pressure sensors
+A1  - Shukor, Ahmad Zaki Hj
+A1  - Natrah, Nur Atiqa
+A1  - Afiq, Muhammad Amir
+A1  - Jamaluddin, Muhammad Herman
+A1  - Abd Ghani, Zamre
+A1  - Shah, Hairol Nizam Mohd
+A1  - Ab Rashid, Mohd Zamzuri
+Y1  - 2018///
+JF  - Journal of Telecommunication, Electronic and Computer Engineering (JTEC)
+VL  - 10
+IS  - 2-6
+SP  - 53
+EP  - 57
+ER  - 
+TY  - JOUR
+T1  - Sitting posture recognition using a spiking neural network
+A1  - Wang, Jianquan
+A1  - Hafidh, Basim
+A1  - Dong, Haiwei
+A1  - El Saddik, Abdulmotaleb
+Y1  - 2020///
+PB  - IEEE
+JF  - IEEE Sensors Journal
+VL  - 21
+IS  - 2
+SP  - 1779
+EP  - 1786
+ER  - 
+TY  - CONF
+T1  - Robust, low-cost, non-intrusive sensing and recognition of seated postures
+A1  - Mutlu, Bilge
+A1  - Krause, Andreas
+A1  - Forlizzi, Jodi
+A1  - Guestrin, Carlos
+A1  - Hodgins, Jessica
+Y1  - 2007///
+JF  - Proceedings of the 20th annual ACM symposium on User interface software and technology
+SP  - 149
+EP  - 158
+ER  - 
+TY  - JOUR
+T1  - Resistive flex sensors: a survey
+A1  - Saggio, Giovanni
+A1  - Riillo, Francesco
+A1  - Sbernini, Laura
+A1  - Quitadamo, Lucia Rita
+Y1  - 2015///
+PB  - IOP Publishing
+JF  - Smart Materials and Structures
+VL  - 25
+IS  - 1
+SP  - 013001
+EP  - 013001
+ER  - 
+TY  - JOUR
+T1  - A smart system for sitting posture detection based on force sensors and mobile application
+A1  - Matuska, Slavomir
+A1  - Paralic, Martin
+A1  - Hudec, Robert
+Y1  - 2020///
+PB  - Hindawi Limited
+JF  - Mobile Information Systems
+VL  - 2020
+SP  - 1
+EP  - 13
+ER  - 
+TY  - JOUR
+T1  - Human body posture classification by a neural fuzzy network and home care system application
+A1  - Juang, Chia-Feng
+A1  - Chang, Chia-Ming
+Y1  - 2007///
+PB  - IEEE
+JF  - IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans
+VL  - 37
+IS  - 6
+SP  - 984
+EP  - 994
+ER  - 
+TY  - JOUR
+T1  - Multimodal data-based deep learning model for sitting posture recognition toward office workers’ health promotion
+A1  - Zhang, Xiangying
+A1  - Fan, Junming
+A1  - Peng, Tao
+A1  - Zheng, Pai
+A1  - Zhang, Xujun
+A1  - Tang, Renzhong
+Y1  - 2023///
+PB  - Elsevier
+JF  - Sensors and Actuators A: Physical
+VL  - 350
+SP  - 114150
+EP  - 114150
+ER  - 
+TY  - JOUR
+T1  - Online Mode of Teaching and Learning Process in Engineering Discipline: Teacher Perspective on Challenges Faced and Recommendations
+A1  - Akhtar, S.
+A1  - Nadeem, M.
+A1  - Rashdan, M.
+A1  - Hussain, B.
+A1  - Ansari, E.A.
+A1  - Aslam, M.H.
+Y1  - 2023///
+KW  - COVID-19
+KW  - ICT devices
+KW  - engineering education
+KW  - online teaching
+KW  - perception
+KW  - teaching challenges
+JF  - Education Sciences
+VL  - 13
+IS  - 2
+DO  - 10.3390/educsci13020200
+N2  - The COVID-19 pandemic has affected people from almost every walk of life in general and academia in particular. It had a huge impact on teaching and learning resulting in a sudden shift from classroom and face-to-face teaching to distance and online teaching and learning. This sudden shift created a lot of ruckuses in the teaching of engineering disciplines. This study is pertinent to the examination of faculty perceptions of online teaching in Pakistani universities and the obstacles they face in teaching engineering students through the online mode during this pandemic. The research takes a quantitative and sample survey approach. A Google form questionnaire was used to collect the data from a sample of 91 faculty members from the engineering discipline of different universities in Pakistan during 2022. According to the study’s findings, faculty generally have a favorable opinion of virtual teaching in the context of COVID-19 for closing the achievement gap and guiding students’ futures in difficult times. However, they ran into a number of challenges when teaching online, including technological difficulties, problems with student participation, challenges with online tests and assessments, etc. The results of this study will urge educational institutions and policymakers to use the most up-to-date instructional methodologies and offer teachers ongoing professional development in order to improve the quality of online teaching, learning, and assessment in universities. Previous studies discussed a number of obstacles faced by students in virtual teaching in higher education, overlooking the perception and challenges faced by the engineering faculty. The present study replenishes this gap.
+ER  - 
+TY  - CONF
+T1  - SeatPlus: A Smart Health Chair Supporting Active Sitting Posture Correction
+A1  - Shen, Zuyu
+A1  - Wan, Xi
+A1  - Jin, Yucheng
+A1  - Gao, Ge
+A1  - Wang, Qianying
+A1  - Liu, Wei
+Y1  - 2021///
+PB  - Springer
+JF  - International Conference on Human-Computer Interaction
+SP  - 531
+EP  - 547
+ER  - 
+TY  - JOUR
+T1  - Scalable Manufacturing of Large-Area Pressure Sensor Array for Sitting Posture Recognition in Real Time
+A1  - Zheng, Lu
+A1  - Hou, Xuemin
+A1  - Xu, Manzhang
+A1  - Yang, Yabao
+A1  - Gao, Jiuwei
+A1  - Luo, Lei
+A1  - Zhu, Qixuan
+A1  - Li, Weiwei
+A1  - Wang, Xuewen
+Y1  - 2023///
+PB  - ACS Publications
+JF  - ACS Materials Au
+ER  - 
+TY  - CONF
+T1  - Sitting posture recognition for computer users using smartphones and a web camera
+A1  - Estrada, Jheanel
+A1  - Vea, Larry
+Y1  - 2017///
+PB  - IEEE
+JF  - TENCON 2017-2017 IEEE Region 10 Conference
+SP  - 1520
+EP  - 1525
+SN  - 150901134X
+ER  - 
+TY  - JOUR
+T1  - A privacy-preserving and unobtrusive sitting posture recognition system via pressure array sensor and infrared array sensor for office workers
+A1  - Zhang, Xiangying
+A1  - Fan, Junming
+A1  - Peng, Tao
+A1  - Zheng, Pai
+A1  - Lee, C K M
+A1  - Tang, Renzhong
+Y1  - 2022///
+PB  - Elsevier
+JF  - Advanced Engineering Informatics
+VL  - 53
+SP  - 101690
+EP  - 101690
+ER  - 
+TY  - JOUR
+T1  - Design and modeling of a textile pressure sensor for sitting posture classification
+A1  - Meyer, Jan
+A1  - Arnrich, Bert
+A1  - Schumm, Johannes
+A1  - Troster, Gerhard
+Y1  - 2010///
+PB  - IEEE
+JF  - IEEE Sensors Journal
+VL  - 10
+IS  - 8
+SP  - 1391
+EP  - 1398
+ER  - 
+TY  - JOUR
+T1  - Lower limb blood flow and mean arterial pressure during standing and seated work: Implications for workplace posture recommendations
+A1  - Antle, D M
+A1  - Cormier, L
+A1  - Findlay, M
+A1  - Miller, L L
+A1  - Côté, J N
+Y1  - 2018///
+JF  - Preventive Medicine Reports
+VL  - 10
+SP  - 117
+EP  - 122
+DO  - 10.1016/j.pmedr.2018.02.016
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042855375&doi=10.1016%2Fj.pmedr.2018.02.016&partnerID=40&md5=2c9547aca9c0eeb1eff8fd0436481f85
+N1  - Export Date: 20 July 2024; Cited By: 39
+ER  - 
+TY  - JOUR
+T1  - Inverse piezoresistive nanocomposite sensors for identifying human sitting posture
+A1  - Qian, Zhe
+A1  - Bowden, Anton E
+A1  - Zhang, Dong
+A1  - Wan, Jia
+A1  - Liu, Wei
+A1  - Li, Xiao
+A1  - Baradoy, Daniel
+A1  - Fullwood, David T
+Y1  - 2018///
+PB  - MDPI
+JF  - Sensors
+VL  - 18
+IS  - 6
+SP  - 1745
+EP  - 1745
+ER  - 
+TY  - JOUR
+T1  - A proposal of implementation of sitting posture monitoring system for wheelchair utilizing machine learning methods
+A1  - Ahmad, Jawad
+A1  - Sidén, Johan
+A1  - Andersson, Henrik
+Y1  - 2021///
+PB  - MDPI
+JF  - Sensors
+VL  - 21
+IS  - 19
+SP  - 6349
+EP  - 6349
+ER  - 
+TY  - JOUR
+T1  - A study on sitting posture recognition using machine learning
+A1  - Ma, Sangyong
+A1  - Hong, Sangpyo
+A1  - Shim, Hyeon Min
+A1  - Kwon, Jang Woo
+A1  - Lee, Sangmin
+Y1  - 2016///
+PB  - Korean Institute of Electrical Engineers
+JF  - Transactions of the Korean Institute of Electrical Engineers
+VL  - 65
+IS  - 9
+SP  - 1557
+EP  - 1563
+ER  - 
+TY  - JOUR
+T1  - Iot system for real-time posture asymmetry detection
+A1  - La Mura, Monica
+A1  - De Gregorio, Marco
+A1  - Lamberti, Patrizia
+A1  - Tucci, Vincenzo
+Y1  - 2023///
+PB  - MDPI
+JF  - Sensors
+VL  - 23
+IS  - 10
+SP  - 4830
+EP  - 4830
+ER  - 
+TY  - JOUR
+T1  - Machine learning and uLBP histograms for posture recognition of dependent people via Big Data Hadoop and Spark platform
+A1  - AlFayez, Fayez
+A1  - Bouhamed, Heni
+Y1  - 2023///
+JF  - INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL
+VL  - 18
+IS  - 1
+ER  - 
+TY  - BOOK
+T1  - Global action plan on physical activity 2018-2030: more active people for a healthier world
+A1  - Organization, World Health
+Y1  - 2019///
+PB  - World Health Organization
+SN  - 9241514183
+ER  - 
+TY  - JOUR
+T1  - Musculo-skeletal and pulmonary effects of sitting position – A systematic review
+A1  - Szczygieł, E
+A1  - Zielonka, K
+A1  - Mętel, S
+A1  - Golec, J
+Y1  - 2017///
+JF  - Annals of Agricultural and Environmental Medicine
+VL  - 24
+IS  - 1
+SP  - 8
+EP  - 12
+DO  - 10.5604/12321966.1227647
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016273017&doi=10.5604%2F12321966.1227647&partnerID=40&md5=ff1ea8f9afc8149bb53d4e6f0db0ef84
+N1  - Export Date: 20 July 2024; Cited By: 28
+ER  - 
+TY  - JOUR
+T1  - A portable sitting posture monitoring system based on a pressure sensor array and machine learning
+A1  - Ran, Xu
+A1  - Wang, Cong
+A1  - Xiao, Yao
+A1  - Gao, Xuliang
+A1  - Zhu, Zhiyuan
+A1  - Chen, Bin
+Y1  - 2021///
+PB  - Elsevier
+JF  - Sensors and Actuators A: Physical
+VL  - 331
+SP  - 112900
+EP  - 112900
+ER  - 
+TY  - CONF
+T1  - 3D human pose recognition for home monitoring of elderly
+A1  - Jansen, Bart
+A1  - Temmermans, Frederik
+A1  - Deklerck, Rudi
+Y1  - 2007///
+PB  - IEEE
+JF  - 2007 29th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+SP  - 4049
+EP  - 4051
+SN  - 1424407877
+ER  - 
+TY  - JOUR
+T1  - Smart-Cover: A real time sitting posture monitoring system
+A1  - Anwary, Arif Reza
+A1  - Cetinkaya, Deniz
+A1  - Vassallo, Michael
+A1  - Bouchachia, Hamid
+Y1  - 2021///
+PB  - Elsevier
+JF  - Sensors and Actuators A: Physical
+VL  - 317
+SP  - 112451
+EP  - 112451
+ER  - 
+TY  - JOUR
+T1  - A replicated field intervention study evaluating the impact of a highly adjustable chair and office ergonomics training on visual symptoms
+A1  - Menéndez, Cammie Chaumont
+A1  - Amick III, Benjamin C
+A1  - Robertson, Michelle
+A1  - Bazzani, Lianna
+A1  - DeRango, Kelly
+A1  - Rooney, Ted
+A1  - Moore, Anne
+Y1  - 2012///
+PB  - Elsevier
+JF  - Applied ergonomics
+VL  - 43
+IS  - 4
+SP  - 639
+EP  - 644
+ER  - 
+TY  - CONF
+T1  - Census: Continuous posture sensing chair for office workers
+A1  - Otoda, Yasuhiro
+A1  - Mizumoto, Teruhiro
+A1  - Arakawa, Yutaka
+A1  - Nakajima, Chihiro
+A1  - Kohana, Mitsuhiro
+A1  - Uenishi, Motohiro
+A1  - Yasumoto, Keiichi
+Y1  - 2018///
+PB  - IEEE
+JF  - 2018 IEEE International Conference on Consumer Electronics (ICCE)
+SP  - 1
+EP  - 2
+SN  - 1538630257
+ER  - 
+TY  - JOUR
+T1  - Correlation between depression and posture (A systematic review)
+A1  - Dehcheshmeh, Taleb Fadaei
+A1  - Majelan, Ali Shamsi
+A1  - Maleki, Behnaz
+Y1  - 2023///
+PB  - Springer
+JF  - Current Psychology
+SP  - 1
+EP  - 11
+ER  - 
+TY  - CONF
+T1  - Detection of poor posture using wearable sensors and unsupervised learning
+A1  - Gupta, Rinki
+A1  - Gupta, Aman
+A1  - Aswal, Rhea
+Y1  - 2021///
+PB  - IEEE
+JF  - 2021 7th International Conference on Advanced Computing and Communication Systems (ICACCS)
+VL  - 1
+SP  - 527
+EP  - 531
+SN  - 166540521X
+ER  - 
+TY  - JOUR
+T1  - Trends over 5 decades in US occupation-related physical activity and their associations with obesity
+A1  - Church, Timothy S
+A1  - Thomas, Diana M
+A1  - Tudor-Locke, Catrine
+A1  - Katzmarzyk, Peter T
+A1  - Earnest, Conrad P
+A1  - Rodarte, Ruben Q
+A1  - Martin, Corby K
+A1  - Blair, Steven N
+A1  - Bouchard, Claude
+Y1  - 2011///
+PB  - Public Library of Science
+JF  - PloS one
+VL  - 6
+IS  - 5
+SP  - e19657
+EP  - e19657
+ER  - 
+TY  - JOUR
+T1  - Human postures recognition by accelerometer sensor and ML architecture integrated in embedded platforms: Benchmarking and performance evaluation
+A1  - Leone, Alessandro
+A1  - Rescio, Gabriele
+A1  - Caroppo, Andrea
+A1  - Siciliano, Pietro
+A1  - Manni, Andrea
+Y1  - 2023///
+PB  - MDPI
+JF  - Sensors
+VL  - 23
+IS  - 2
+SP  - 1039
+EP  - 1039
+ER  - 
+TY  - JOUR
+T1  - Smartphone-based human sitting behaviors recognition using inertial sensor
+A1  - Sinha, Vikas Kumar
+A1  - Patro, Kiran Kumar
+A1  - Pławiak, Paweł
+A1  - Prakash, Allam Jaya
+Y1  - 2021///
+PB  - MDPI
+JF  - Sensors
+VL  - 21
+IS  - 19
+SP  - 6652
+EP  - 6652
+ER  - 
+TY  - CONF
+T1  - AI-powered Posture Training: Application of Machine Learning in Sitting Posture Recognition Using the LifeChair Smart Cushion.
+A1  - Bourahmoune, Katia
+A1  - Amagasa, Toshiyuki
+Y1  - 2019///
+JF  - IJCAI
+SP  - 5808
+EP  - 5814
+ER  - 
+TY  - JOUR
+T1  - The effect of smartphone usage time on posture and respiratory function
+A1  - Jung, Sang In
+A1  - Lee, Na Kyung
+A1  - Kang, Kyung Woo
+A1  - Kim, Kyoung
+A1  - Do, Youn Lee
+Y1  - 2016///
+PB  - The Society of Physical Therapy Science
+JF  - Journal of physical therapy science
+VL  - 28
+IS  - 1
+SP  - 186
+EP  - 189
+ER  - 
+TY  - JOUR
+T1  - Smart chair for monitoring of sitting behavior
+A1  - Huang, Mengjie
+A1  - Gibson, Ian
+A1  - Yang, Rui
+Y1  - 2017///
+JF  - KnE Engineering
+SP  - 274
+EP  - 280
+ER  - 
+TY  - JOUR
+T1  - Improved Self-Organizing Map-Based Unsupervised Learning Algorithm for Sitting Posture Recognition System
+A1  - Cai, Wenyu
+A1  - Zhao, Dongyang
+A1  - Zhang, Meiyan
+A1  - Xu, Yinan
+A1  - Li, Zhu
+Y1  - 2021///
+PB  - MDPI
+JF  - Sensors
+VL  - 21
+IS  - 18
+SP  - 6246
+EP  - 6246
+ER  - 
+TY  - CONF
+T1  - Design and implementation of sitting posture monitoring system
+A1  - Ye, Jian Feng
+Y1  - 2020///
+PB  - IEEE
+JF  - 2020 International Conference on Robots & Intelligent System (ICRIS)
+SP  - 261
+EP  - 263
+SN  - 1665419695
+ER  - 
+TY  - CONF
+T1  - Alarming assistive technology: an IoT enabled sitting posture monitoring system
+A1  - Ramalingam, Mritha
+A1  - Puviarasi, Ramalingam
+A1  - Chinnavan, Elanchezhian
+A1  - Shern, Quah Chia
+A1  - Zolkipli, Mohamad Fadli
+Y1  - 2021///
+PB  - IEEE
+JF  - 2021 International Conference on Software Engineering & Computer Systems and 4th International Conference on Computational Science and Information Management (ICSECS-ICOCSIM)
+SP  - 592
+EP  - 597
+SN  - 1665414073
+ER  - 
+TY  - CONF
+T1  - Template-based recognition of static sitting postures
+A1  - Zhu, Manli
+A1  - Martinez, Aleix M
+A1  - Tan, Hong Z
+Y1  - 2003///
+PB  - IEEE
+JF  - 2003 Conference on Computer Vision and Pattern Recognition Workshop
+VL  - 5
+SP  - 50
+EP  - 50
+SN  - 0769519008
+ER  - 
+TY  - CONF
+T1  - Real time visualization of asymmetrical sitting posture
+A1  - Anwary, A R
+A1  - Bouchachia, H
+A1  - Vassallo, M
+Y1  - 2019///
+JF  - Procedia Computer Science
+VL  - 155
+SP  - 153
+EP  - 160
+DO  - 10.1016/j.procs.2019.08.024
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074728049&doi=10.1016%2Fj.procs.2019.08.024&partnerID=40&md5=d9140f33d29a5150b2c25509a14cff07
+N1  - Export Date: 20 July 2024; Cited By: 5
+ER  - 
+TY  - CONF
+T1  - Know Your Posture : Real Time Posture Detection and Correction with Yoga and Exercise Recommendations.
+A1  - Arya, V
+A1  - Makattil, N
+A1  - Sasikumar, V
+A1  - Anuparvathi, V
+A1  - Khandare, S
+Y1  - 2023///
+JF  - Proceedings of 2023 International Conference on Signal Processing, Computation, Electronics, Power and Telecommunication, IConSCEPT 2023
+DO  - 10.1109/IConSCEPT57958.2023.10170654
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166366512&doi=10.1109%2FIConSCEPT57958.2023.10170654&partnerID=40&md5=e31685dee6658c4bf9eabc2af1772369
+N1  - Export Date: 20 July 2024; Cited By: 1
+ER  - 
+TY  - CONF
+T1  - Sitting posture recognition using screen printed large area pressure sensors
+A1  - Ahmad, Jawad
+A1  - Andersson, Henrik
+A1  - Sidén, Johan
+Y1  - 2017///
+PB  - IEEE
+JF  - 2017 Ieee Sensors
+SP  - 1
+EP  - 3
+SN  - 1509010122
+ER  - 
+TY  - CONF
+T1  - A sitting posture recognition system based on 3 axis accelerometer
+A1  - Ma, Sangyong
+A1  - Cho, Woo-Hyeong
+A1  - Quan, Cheng-Hao
+A1  - Lee, Sangmin
+Y1  - 2016///
+PB  - IEEE
+JF  - 2016 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)
+SP  - 1
+EP  - 3
+SN  - 1467394726
+ER  - 
+TY  - CONF
+T1  - E-jacket: Posture detection with loose-fitting garment using a novel strain sensor
+A1  - Lin, Qi
+A1  - Peng, Shuhua
+A1  - Wu, Yuezhong
+A1  - Liu, Jun
+A1  - Hu, Wen
+A1  - Hassan, Mahbub
+A1  - Seneviratne, Aruna
+A1  - Wang, Chun H
+Y1  - 2020///
+PB  - IEEE
+JF  - 2020 19th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
+SP  - 49
+EP  - 60
+SN  - 1728154979
+ER  - 
+TY  - CONF
+T1  - Accurate, fast fall detection using gyroscopes and accelerometer-derived posture information
+A1  - Li, Qiang
+A1  - Stankovic, John A
+A1  - Hanson, Mark A
+A1  - Barth, Adam T
+A1  - Lach, John
+A1  - Zhou, Gang
+Y1  - 2009///
+PB  - IEEE
+JF  - 2009 Sixth International Workshop on Wearable and Implantable Body Sensor Networks
+SP  - 138
+EP  - 143
+SN  - 0769536441
+ER  - 
+TY  - JOUR
+T1  - APC: Contactless healthy sitting posture monitoring with microphone array
+A1  - Ma, Kaiyuan
+A1  - Song, Shunan
+A1  - An, Lingling
+A1  - Mao, Shiwen
+A1  - Wang, Xuyu
+Y1  - 2024///
+PB  - Elsevier
+JF  - Smart Health
+VL  - 32
+SP  - 100463
+EP  - 100463
+ER  - 
+TY  - JOUR
+T1  - Machine Learning Algorithms Application For The Proposed Sitting Posture Monitoring System
+A1  - Tlili, Ferdews
+A1  - Haddad, Rim
+A1  - Bouallegue, Ridha
+A1  - Shubair, Raed
+Y1  - 2022///
+PB  - Elsevier
+JF  - Procedia Computer Science
+VL  - 203
+SP  - 239
+EP  - 246
+ER  - 
+TY  - JOUR
+T1  - Lifechair: A conductive fabric sensor-based smart cushion for actively shaping sitting posture
+A1  - Ishac, Karlos
+A1  - Suzuki, Kenji
+Y1  - 2018///
+PB  - MDPI
+JF  - Sensors
+VL  - 18
+IS  - 7
+SP  - 2261
+EP  - 2261
+ER  - 
+TY  - CONF
+T1  - Sitting posture recognition based on openpose
+A1  - Chen, Kehan
+Y1  - 2019///
+PB  - IOP Publishing
+JF  - IOP Conference Series: Materials Science and Engineering
+VL  - 677
+IS  - 3
+SP  - 32057
+EP  - 32057
+SN  - 1757-899X
+ER  - 
+TY  - JOUR
+T1  - Intelligent posture training: Machine-learning-powered human sitting posture recognition based on a pressure-sensing iot cushion
+A1  - Bourahmoune, Katia
+A1  - Ishac, Karlos
+A1  - Amagasa, Toshiyuki
+Y1  - 2022///
+PB  - MDPI
+JF  - Sensors
+VL  - 22
+IS  - 14
+SP  - 5337
+EP  - 5337
+ER  - 
+TY  - JOUR
+T1  - Communication skill: A prerequisite for engineers
+A1  - Sheth, Tarjani Dakshesh
+Y1  - 2015///
+JF  - International Journal on Studies in English Language and Literature
+VL  - 3
+IS  - 7
+SP  - 51
+EP  - 54
+ER  - 
+TY  - JOUR
+T1  - ecushion: A textile pressure sensor array design and calibration for sitting posture analysis
+A1  - Xu, Wenyao
+A1  - Huang, Ming-Chun
+A1  - Amini, Navid
+A1  - He, Lei
+A1  - Sarrafzadeh, Majid
+Y1  - 2013///
+PB  - IEEE
+JF  - IEEE Sensors Journal
+VL  - 13
+IS  - 10
+SP  - 3926
+EP  - 3934
+ER  - 
+TY  - CONF
+T1  - Posture Alert
+A1  - Muppavram, S.
+A1  - Patel, N.
+A1  - Nadeem, M.
+Y1  - 2018///
+KW  - Component
+KW  - Formatting
+KW  - Insert
+KW  - Style
+KW  - Styling
+JF  - 2018 IEEE Region 10 Symposium, Tensymp 2018
+SN  - 9781538669891
+DO  - 10.1109/TENCONSpring.2018.8692017
+N2  - Desk-based office workers typically spend a high amount of time sitting in the chair every day and often in prolonged unbroken bouts. They do not always sit properly as they are not aware of sitting instructions and their sitting posture. Excessive time spent in a wrong seating position is a major source of health problem and a leading cause of pathological degeneration of the vertebral disc. In this paper, we present a smart chair solution to remedy these problems by analyzing the sitting posture of the person and keeping him informed about his posture. The chair sends a real-time alert to the user whenever a wrong sitting posture is detected for a prolonged period of time, resulting in posture improvement and reducing the risk of repetitive stress injuries (RSI). We offer a solution by applying the Internet of Things techniques to create an intelligent decision-making environment. By analyzing the pressure on different positions of a chair, we recognized different sitting postures. Real-time feedback is provided through an accompanying smartphone application alerting the users to correct their body balance. The system also generates summaries of postures and the activities over a specified period of time. Finally, We conducted experiments to observe the response of the users sitting posture to the alerting feedback. The experiments demonstrated a classification accuracy of around 95% and a significant reduction in the time spent in the wrong posture.
+ER  - 
+TY  - JOUR
+T1  - Sit less and move more for cardiovascular health: emerging insights and opportunities
+A1  - Dunstan, David W
+A1  - Dogra, Shilpa
+A1  - Carter, Sophie E
+A1  - Owen, Neville
+Y1  - 2021///
+PB  - Nature Publishing Group UK London
+JF  - Nature Reviews Cardiology
+VL  - 18
+IS  - 9
+SP  - 637
+EP  - 648
+ER  - 
+TY  - CONF
+T1  - Lying and sitting posture recognition and transition detection using a pressure sensor array
+A1  - Foubert, Nicholas
+A1  - McKee, Anita M
+A1  - Goubran, Rafik A
+A1  - Knoefel, Frank
+Y1  - 2012///
+PB  - IEEE
+JF  - 2012 IEEE International Symposium on Medical Measurements and Applications Proceedings
+SP  - 1
+EP  - 6
+SN  - 146730882X
+ER  - 
+TY  - JOUR
+T1  - A deep learning based 2-dimensional hip pressure signals analysis method for sitting posture recognition
+A1  - Fan, Zhe
+A1  - Hu, Xing
+A1  - Chen, Wen-Ming
+A1  - Zhang, Da-Wei
+A1  - Ma, Xin
+Y1  - 2022///
+PB  - Elsevier
+JF  - Biomedical Signal Processing and Control
+VL  - 73
+SP  - 103432
+EP  - 103432
+ER  - 
+TY  - JOUR
+T1  - Hip positioning and sitting posture recognition based on human sitting pressure image
+A1  - Wan, Qilong
+A1  - Zhao, Haiming
+A1  - Li, Jie
+A1  - Xu, Peng
+Y1  - 2021///
+PB  - MDPI
+JF  - Sensors
+VL  - 21
+IS  - 2
+SP  - 426
+EP  - 426
+ER  - 
+TY  - JOUR
+T1  - Accurate and Efficient Sitting Posture Recognition and Human‐Machine Interaction Device Based on Fabric Pressure Sensor Array and Neural Network
+A1  - Zhong, Weibing
+A1  - Xu, Hui
+A1  - Ke, Yiming
+A1  - Ming, Xiaojuan
+A1  - Jiang, Haiqing
+A1  - Li, Mufang
+A1  - Wang, Dong
+PB  - Wiley Online Library
+JF  - Advanced Materials Technologies
+SP  - 2301579
+EP  - 2301579
+ER  - 
+TY  - JOUR
+T1  - Reliable recognition of lying, sitting, and standing with a hip‐worn accelerometer
+A1  - Vähä‐Ypyä, H
+A1  - Husu, P
+A1  - Suni, J
+A1  - Vasankari, T
+A1  - Sievänen, H
+Y1  - 2018///
+PB  - Wiley Online Library
+JF  - Scandinavian journal of medicine & science in sports
+VL  - 28
+IS  - 3
+SP  - 1092
+EP  - 1102
+ER  - 
+TY  - CONF
+T1  - Elderly Care System for Classification and Recognition of Sitting Posture
+A1  - Bhatlawande, Shripad
+A1  - Girgaonkar, Ishan
+Y1  - 2022///
+PB  - IEEE
+JF  - 2022 2nd International Conference on Intelligent Technologies (CONIT)
+SP  - 1
+EP  - 7
+SN  - 1665484071
+ER  - 
+TY  - CONF
+T1  - Posture feedback system with wearable speaker
+A1  - Niijima, Arinobu
+Y1  - 2021///
+PB  - IEEE
+JF  - 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 7007
+EP  - 7010
+SN  - 172811179X
+ER  - 
+TY  - CONF
+T1  - Industry Perspective of Engineering Competencies in Different Socio-Economic Contexts–a Comparative Study from Kuwait and Kazakhstan
+A1  - Jaeger, Martin
+A1  - Adair, Desmond
+Y1  - 2019///
+PB  - IEEE
+JF  - 2019 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 166
+EP  - 172
+SN  - 1538695065
+ER  - 
+TY  - JOUR
+T1  - Recurrent Network Solutions for Human Posture Recognition Based on Kinect Skeletal Data
+A1  - Guerra, Bruna Maria Vittoria
+A1  - Ramat, Stefano
+A1  - Beltrami, Giorgio
+A1  - Schmid, Micaela
+Y1  - 2023///
+PB  - MDPI
+JF  - Sensors
+VL  - 23
+IS  - 11
+SP  - 5260
+EP  - 5260
+ER  - 
+TY  - CONF
+T1  - Sitting posture detection and recognition using force sensor
+A1  - Huang, Yong-Ren
+A1  - Ouyang, Xu-Feng
+Y1  - 2012///
+PB  - IEEE
+JF  - 2012 5th International Conference on BioMedical Engineering and Informatics
+SP  - 1117
+EP  - 1121
+SN  - 1467311847
+ER  - 
+TY  - JOUR
+T1  - Novel IoT-based privacy-preserving yoga posture recognition system using low-resolution infrared sensors and deep learning
+A1  - Gochoo, Munkhjargal
+A1  - Tan, Tan-Hsu
+A1  - Huang, Shih-Chia
+A1  - Batjargal, Tsedevdorj
+A1  - Hsieh, Jun-Wei
+A1  - Alnajjar, Fady S
+A1  - Chen, Yung-Fu
+Y1  - 2019///
+PB  - IEEE
+JF  - IEEE Internet of Things Journal
+VL  - 6
+IS  - 4
+SP  - 7192
+EP  - 7200
+ER  - 
+TY  - JOUR
+T1  - A deep-learning based posture detection system for preventing telework-related musculoskeletal disorders
+A1  - Piñero-Fuentes, Enrique
+A1  - Canas-Moreno, Salvador
+A1  - Rios-Navarro, Antonio
+A1  - Domínguez-Morales, Manuel
+A1  - Sevillano, José Luis
+A1  - Linares-Barranco, Alejandro
+Y1  - 2021///
+PB  - MDPI
+JF  - Sensors
+VL  - 21
+IS  - 15
+SP  - 5236
+EP  - 5236
+ER  - 
+TY  - JOUR
+T1  - Development of a smart chair sensors system and classification of sitting postures with deep learning algorithms
+A1  - Aminosharieh Najafi, Taraneh
+A1  - Abramo, Antonio
+A1  - Kyamakya, Kyandoghere
+A1  - Affanni, Antonio
+Y1  - 2022///
+PB  - MDPI
+JF  - Sensors
+VL  - 22
+IS  - 15
+SP  - 5585
+EP  - 5585
+ER  - 
+TY  - JOUR
+T1  - Application of machine learning approaches for classifying sitting posture based on force and acceleration sensors
+A1  - Zemp, Roland
+A1  - Tanadini, Matteo
+A1  - Plüss, Stefan
+A1  - Schnüriger, Karin
+A1  - Singh, Navrag B
+A1  - Taylor, William R
+A1  - Lorenzetti, Silvio
+Y1  - 2016///
+PB  - Hindawi
+JF  - BioMed research international
+VL  - 2016
+ER  - 
+TY  - JOUR
+T1  - Design and implementation of sensor-embedded chair for continuous sitting posture recognition
+A1  - Mizumoto, Teruhiro
+A1  - Otoda, Yasuhiro
+A1  - Nakajima, Chihiro
+A1  - Kohana, Mitsuhiro
+A1  - Uenishi, Motohiro
+A1  - Yasumoto, Keiichi
+A1  - Arakawa, Yutaka
+Y1  - 2020///
+PB  - The Institute of Electronics, Information and Communication Engineers
+JF  - IEICE TRANSACTIONS on Information and Systems
+VL  - 103
+IS  - 5
+SP  - 1067
+EP  - 1077
+ER  - 
+TY  - CONF
+T1  - How to measure energy consumption in machine learning algorithms
+A1  - García-Martín, Eva
+A1  - Lavesson, Niklas
+A1  - Grahn, Håkan
+A1  - Casalicchio, Emiliano
+A1  - Boeva, Veselka
+Y1  - 2019///
+PB  - Springer
+JF  - ECML PKDD 2018 Workshops: Nemesis 2018, UrbReas 2018, SoGood 2018, IWAISe 2018, and Green Data Mining 2018, Dublin, Ireland, September 10-14, 2018, Proceedings 18
+SP  - 243
+EP  - 255
+SN  - 3030134520
+ER  - 
+TY  - CONF
+T1  - Sitting posture Analysis using CNN and RCNN
+A1  - Nishitha, R
+A1  - Sudhakar, T
+A1  - Janney, J Bethanney
+A1  - Krishnamoorthy, N R
+A1  - Dhanalakshmi, K
+A1  - Vigneshwaran, S
+Y1  - 2023///
+PB  - IEEE
+JF  - 2023 International Conference on Bio Signals, Images, and Instrumentation (ICBSII)
+SP  - 1
+EP  - 5
+SN  - 9798350338171
+ER  - 
+TY  - CONF
+T1  - The sitting posture monitoring method based on notch sensor
+A1  - Wang, Huaijun
+A1  - Zhao, Jing
+A1  - Li, Junhuai
+A1  - Wang, Kan
+Y1  - 2019///
+PB  - IEEE
+JF  - 2019 IEEE international conference on industrial Internet (ICII)
+SP  - 301
+EP  - 302
+SN  - 172812977X
+ER  - 
+TY  - CONF
+T1  - Smart Seat With Real-Time Asymmetrical Sitting Alert
+A1  - Lamberti, Patrizia
+A1  - La Mura, Monica
+A1  - De Gregorio, Marco
+A1  - Tucci, Vincenzo
+A1  - Egiziano, Luigi
+Y1  - 2022///
+PB  - IEEE
+JF  - 2022 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4. 0&IoT)
+SP  - 34
+EP  - 38
+SN  - 1665410930
+ER  - 
+TY  - JOUR
+T1  - An automated sitting posture recognition system utilizing pressure sensors
+A1  - Tsai, Ming-Chih
+A1  - Chu, Edward T-H
+A1  - Lee, Chia-Rong
+Y1  - 2023///
+PB  - MDPI
+JF  - Sensors
+VL  - 23
+IS  - 13
+SP  - 5894
+EP  - 5894
+ER  - 
+TY  - JOUR
+T1  - A comparative study on real-time sitting posture monitoring systems using pressure sensors
+A1  - Zhao, Liang
+A1  - Yan, Jingyu
+A1  - Wang, Aiguo
+Y1  - 2023///
+JF  - Journal of Electrical Engineering
+VL  - 74
+IS  - 6
+SP  - 474
+EP  - 484
+ER  - 
+TY  - JOUR
+T1  - Upper body posture recognition using inertial sensors and recurrent neural networks
+A1  - Tang, Hao-Yuan
+A1  - Tan, Shih-Hua
+A1  - Su, Ting-Yu
+A1  - Chiang, Chang-Jung
+A1  - Chen, Hsiang-Ho
+Y1  - 2021///
+PB  - MDPI
+JF  - Applied Sciences
+VL  - 11
+IS  - 24
+SP  - 12101
+EP  - 12101
+ER  - 
+TY  - CONF
+T1  - Smart cushion: A practical system for fine-grained sitting posture recognition
+A1  - Liang, Guanqing
+A1  - Cao, Jiannong
+A1  - Liu, Xuefeng
+Y1  - 2017///
+PB  - IEEE
+JF  - 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)
+SP  - 419
+EP  - 424
+SN  - 1509043381
+ER  - 
+TY  - CONF
+T1  - Sitting posture prediction and correction system using arduino-based chair and deep learning model
+A1  - Cho, Haeyoon
+A1  - Choi, Hee-Joe
+A1  - Lee, Chae-Eun
+A1  - Sir, Choo-Won
+Y1  - 2019///
+PB  - IEEE
+JF  - 2019 IEEE 12th Conference on Service-Oriented Computing and Applications (SOCA)
+SP  - 98
+EP  - 102
+SN  - 1728154111
+ER  - 
+TY  - JOUR
+T1  - Enhanced on the Job training internship program for bachelor of science in electrical engineering students
+A1  - Martin, Aljon G
+A1  - Magpayo, Deejay F
+A1  - Pena, Jerald Jay Dela
+A1  - Saddi, Rainer Charles M
+A1  - Tangcuangco, Alma L
+A1  - Favorito, Rhoderick
+Y1  - 2023///
+JF  - ASEAN Journal of Science and Engineering Education
+VL  - 3
+IS  - 3
+SP  - 279
+EP  - 290
+ER  - 
+TY  - CONF
+T1  - A Sitting Posture Surveillance System Based on Kinect
+A1  - He, Si
+Y1  - 2018///
+PB  - IOP Publishing
+JF  - Journal of Physics: Conference Series
+VL  - 1026
+IS  - 1
+SP  - 12022
+EP  - 12022
+SN  - 1742-6596
+ER  - 
+TY  - CONF
+T1  - Posture Prediction for Healthy Sitting Using a Smart Chair
+A1  - Gelaw, Tariku Adane
+A1  - Hagos, Misgina Tsighe
+Y1  - 2022///
+PB  - Springer
+JF  - Advances of Science and Technology: 9th EAI International Conference, ICAST 2021, Hybrid Event, Bahir Dar, Ethiopia, August 27–29, 2021, Proceedings, Part I
+SP  - 401
+EP  - 411
+SN  - 3030937089
+ER  - 
+TY  - JOUR
+T1  - Developing and evaluating a mixed sensor smart chair system for real-time posture classification: Combining pressure and distance sensors
+A1  - Jeong, Haeseok
+A1  - Park, Woojin
+Y1  - 2020///
+PB  - IEEE
+JF  - IEEE Journal of Biomedical and Health Informatics
+VL  - 25
+IS  - 5
+SP  - 1805
+EP  - 1813
+ER  - 
+TY  - CONF
+T1  - ecushion: An etextile device for sitting posture monitoring
+A1  - Xu, Wenyao
+A1  - Li, Zhinan
+A1  - Huang, Ming-Chun
+A1  - Amini, Navid
+A1  - Sarrafzadeh, Majid
+Y1  - 2011///
+PB  - IEEE
+JF  - 2011 International Conference on Body Sensor Networks
+SP  - 194
+EP  - 199
+SN  - 1457704692
+ER  - 
+TY  - JOUR
+T1  - Evaluating the biomechanics of an in-between posture to create a multi-posture office environment
+A1  - Lamsal, A
+A1  - Weidig, G
+A1  - Bellingar, T
+A1  - Bush, T R
+Y1  - 2023///
+JF  - Work
+VL  - 76
+IS  - 1
+SP  - 263
+EP  - 273
+DO  - 10.3233/WOR-220078
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171601283&doi=10.3233%2FWOR-220078&partnerID=40&md5=5e4084e1b2a09076360bef63d6b03391
+N1  - Export Date: 20 July 2024; Cited By: 0
+ER  - 
+TY  - CONF
+T1  - Sitting posture detection using adaptively fused 3D features
+A1  - Bei, Sun
+A1  - Xing, Zeng
+A1  - Taocheng, Liu
+A1  - Qin, Lu
+Y1  - 2017///
+PB  - IEEE
+JF  - 2017 IEEE 2nd Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)
+SP  - 1073
+EP  - 1077
+SN  - 1509064141
+ER  - 
+TY  - CONF
+T1  - Human gesture recognition using Kinect camera
+A1  - Patsadu, Orasa
+A1  - Nukoolkit, Chakarida
+A1  - Watanapa, Bunthit
+Y1  - 2012///
+PB  - IEEE
+JF  - 2012 ninth international conference on computer science and software engineering (JCSSE)
+SP  - 28
+EP  - 32
+SN  - 146731921X
+ER  - 
+TY  - JOUR
+T1  - Intelligent Active Correction Seat Based on Neural Network Sitting Posture Recognition
+A1  - Liang, Yan
+A1  - Li, Yunsheng
+A1  - Yin, Hao
+A1  - Yin, Liju
+Y1  - 2022///
+PB  - Clausius Scientific Press
+JF  - Journal of Artificial Intelligence Practice
+VL  - 5
+IS  - 2
+SP  - 34
+EP  - 41
+ER  - 
+TY  - JOUR
+T1  - Asymmetrical change in the pelvis and the spine during cross-legged sitting postures
+A1  - Ahn, S
+A1  - Kim, S
+A1  - Kang, S
+A1  - Jeon, H
+A1  - Kim, Y
+Y1  - 2013///
+JF  - Journal of Mechanical Science and Technology
+VL  - 27
+IS  - 11
+SP  - 3427
+EP  - 3432
+DO  - 10.1007/s12206-013-0865-5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84888260612&doi=10.1007%2Fs12206-013-0865-5&partnerID=40&md5=d09501997e715b520ca37ca61d42a5a4
+N1  - Export Date: 20 July 2024; Cited By: 9
+ER  - 
+TY  - JOUR
+T1  - A scene recognition and semantic analysis approach to unhealthy sitting posture detection during screen-reading
+A1  - Min, Weidong
+A1  - Cui, Hao
+A1  - Han, Qing
+A1  - Zou, Fangyuan
+Y1  - 2018///
+PB  - MDPI
+JF  - Sensors
+VL  - 18
+IS  - 9
+SP  - 3119
+EP  - 3119
+ER  - 
+TY  - CONF
+T1  - Human activity recognition for video surveillance using sequences of postures
+A1  - Htike, Kyaw Kyaw
+A1  - Khalifa, Othman O
+A1  - Ramli, Huda Adibah Mohd
+A1  - Abushariah, Mohammad A M
+Y1  - 2014///
+PB  - IEEE
+JF  - The third international conference on e-technologies and networks for development (ICeND2014)
+SP  - 79
+EP  - 82
+SN  - 1479931667
+ER  - 
+TY  - JOUR
+T1  - The effects of an office ergonomics training and chair intervention on worker knowledge, behavior and musculoskeletal risk
+A1  - Robertson, Michelle
+A1  - Amick III, Benjamin C
+A1  - DeRango, Kelly
+A1  - Rooney, Ted
+A1  - Bazzani, Lianna
+A1  - Harrist, Ron
+A1  - Moore, Anne
+Y1  - 2009///
+PB  - Elsevier
+JF  - Applied ergonomics
+VL  - 40
+IS  - 1
+SP  - 124
+EP  - 135
+ER  - 
+TY  - JOUR
+T1  - Sitting time and risk of cardiovascular disease and diabetes: a systematic review and meta-analysis
+A1  - Bailey, Daniel P
+A1  - Hewson, David J
+A1  - Champion, Rachael B
+A1  - Sayegh, Suzan M
+Y1  - 2019///
+PB  - Elsevier
+JF  - American journal of preventive medicine
+VL  - 57
+IS  - 3
+SP  - 408
+EP  - 416
+ER  - 
+TY  - JOUR
+T1  - Effects of sitting posture and jaw clenching on neck and trunk muscle activities during typing
+A1  - Tomita, Yosuke
+A1  - Suzuki, Yoshitaka
+A1  - Tanaka, Yuto
+A1  - Hasegawa, Yoko
+A1  - Yoshihara, Yasutomo
+A1  - Okura, Kazuo
+A1  - Matsuka, Yoshizo
+Y1  - 2021///
+PB  - Wiley Online Library
+JF  - Journal of Oral Rehabilitation
+VL  - 48
+IS  - 5
+SP  - 568
+EP  - 574
+ER  - 
+TY  - JOUR
+T1  - Prevalence of chronic pain and high-impact chronic pain among adults—United States, 2016
+A1  - Dahlhamer, James
+A1  - Lucas, Jacqueline
+A1  - Zelaya, Carla
+A1  - Nahin, Richard
+A1  - Mackey, Sean
+A1  - DeBar, Lynn
+A1  - Kerns, Robert
+A1  - Von Korff, Michael
+A1  - Porter, Linda
+A1  - Helmick, Charles
+Y1  - 2018///
+PB  - Centers for Disease Control and Prevention
+JF  - Morbidity and Mortality Weekly Report
+VL  - 67
+IS  - 36
+SP  - 1001
+EP  - 1001
+ER  - 
+TY  - CONF
+T1  - Human posture recognition using human skeleton provided by Kinect
+A1  - Le, Thi-Lan
+A1  - Nguyen, Minh-Quoc
+Y1  - 2013///
+PB  - IEEE
+JF  - 2013 international conference on computing, management and telecommunications (ComManTel)
+SP  - 340
+EP  - 345
+SN  - 1467320889
+ER  - 
+TY  - JOUR
+T1  - Posture detection based on smart cushion for wheelchair users
+A1  - Ma, Congcong
+A1  - Li, Wenfeng
+A1  - Gravina, Raffaele
+A1  - Fortino, Giancarlo
+Y1  - 2017///
+PB  - MDPI
+JF  - Sensors
+VL  - 17
+IS  - 4
+SP  - 719
+EP  - 719
+ER  - 
+TY  - CHAP
+T1  - Cushionware: a practical sitting posture-based interaction system
+A1  - Liang, Guanqing
+A1  - Cao, Jiannong
+A1  - Liu, Xuefeng
+A1  - Han, Xu
+Y1  - 2014///
+JF  - CHI'14 Extended Abstracts on Human Factors in Computing Systems
+SP  - 591
+EP  - 594
+ER  - 
+TY  - CHAP
+T1  - Skills and Values: Designing and Implementing the Core Curriculum at Flagler College
+A1  - Riggs, Wayne M
+Y1  - 2024///
+PB  - IGI Global
+JF  - Restructuring General Education and Core Curricula Requirements
+SP  - 111
+EP  - 141
+ER  - 
+TY  - JOUR
+T1  - The impact of ergonomics intervention on psychosocial factors and musculoskeletal symptoms among office workers
+A1  - Choobineh, Alireza
+A1  - Motamedzade, Majid
+A1  - Kazemi, Maryam
+A1  - Moghimbeigi, Abbas
+A1  - Pahlavian, Ahmad Heidari
+Y1  - 2011///
+PB  - Elsevier
+JF  - International Journal of Industrial Ergonomics
+VL  - 41
+IS  - 6
+SP  - 671
+EP  - 676
+ER  - 
+TY  - JOUR
+T1  - A novel smart chair system for posture classification and invisible ECG monitoring
+A1  - Pereira, Leonor
+A1  - Plácido da Silva, Hugo
+Y1  - 2023///
+PB  - MDPI
+JF  - Sensors
+VL  - 23
+IS  - 2
+SP  - 719
+EP  - 719
+ER  - 
+TY  - JOUR
+T1  - Association between physical activity and body posture: a systematic review and meta-analysis
+A1  - Salsali, Mohammad
+A1  - Sheikhhoseini, Rahman
+A1  - Sayyadi, Parisa
+A1  - Hides, Julie A
+A1  - Dadfar, Mahdis
+A1  - Piri, Hashem
+Y1  - 2023///
+PB  - Springer
+JF  - BMC Public Health
+VL  - 23
+IS  - 1
+SP  - 1670
+EP  - 1670
+ER  - 
+TY  - JOUR
+T1  - Designing of smart chair for monitoring of sitting posture using convolutional neural networks
+A1  - Kim, Wonjoon
+A1  - Jin, Byungki
+A1  - Choo, Sanghyun
+A1  - Nam, Chang S
+A1  - Yun, Myung Hwan
+Y1  - 2019///
+PB  - Emerald Publishing Limited
+JF  - Data Technologies and Applications
+VL  - 53
+IS  - 2
+SP  - 142
+EP  - 155
+ER  - 
+TY  - JOUR
+T1  - Engineering graduates’ skill sets in the MENA region: a gap analysis of industry expectations and satisfaction
+A1  - Ramadi, Eric
+A1  - Ramadi, Serge
+A1  - Nasr, Karim
+Y1  - 2016///
+PB  - Taylor & Francis
+JF  - European Journal of Engineering Education
+VL  - 41
+IS  - 1
+SP  - 34
+EP  - 52
+ER  - 
+TY  - BOOK
+T1  - Psychology of physical activity: Determinants, well-being and interventions
+A1  - Biddle, Stuart
+A1  - Mutrie, Nanette
+Y1  - 2007///
+PB  - Routledge
+SN  - 0203019326
+ER  - 
+TY  - JOUR
+T1  - Knowledge, Attitude, and Practice of Pediculus Capitis Prevention and Control and Their Predictors among Schoolchildren in Woreta Town, Northwest Ethiopia, 2018: A School-Based Cross-Sectional Study
+A1  - Dagne, Henok
+A1  - Biya, Awel Aba
+A1  - Tirfie, Amanuel
+A1  - Yallew, Walelegn Worku
+A1  - Andualem, Zewudu
+A1  - Dagnew, Baye
+ED  - Kaskel, Frederick J
+Y1  - 2020///
+PB  - Hindawi
+JF  - International Journal of Pediatrics
+VL  - 2020
+SP  - 3619494
+EP  - 3619494
+DO  - 10.1155/2020/3619494
+UR  - https://doi.org/10.1155/2020/3619494
+N2  - <i>Background</i>. <i>Pediculus capitis</i> is a human head lice infestation, a major public health issue that is most prevalent in resource-limited countries globally. The current study aimed to assess the knowledge, attitude, and practice of pediculus capitis prevention and control and their predictors among schoolchildren in North West Ethiopia. <i>Methods</i>. About 402 randomly selected schoolchildren from three schools in Woreta town participated in the study from April to June 2018. The outcomes of this study were knowledge, attitude, and self-reported practice of schoolchildren about <i>pediculus capitis</i> prevention and control. We used EPI Info 7.1 and SPSS 21 software for data entry and analysis, respectively. Binary logistic regression was employed to test the association of covariates with the outcome/response variables. Variables with a <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="vertical-align:-3.42943pt" id="M1" height="10.2124pt" version="1.1" viewBox="-0.0498162 -6.78297 7.83752 10.2124" width="7.83752pt"><g transform="matrix(.013,0,0,-0.013,0,0)"><path id="g113-113" d="M570 304C570 398 525 448 414 448C385 448 343 445 312 434L329 511L321 518C297 504 262 482 244 460L233 411C195 397 159 381 128 358L135 332C160 347 189 360 224 373L111 -147C97 -210 84 -218 17 -231L13 -257L254 -247L259 -218L233 -216C183 -212 177 -202 189 -142L218 -1C238 -10 266 -12 283 -12C351 3 429 48 483 105C543 168 570 242 570 304ZM482 289C482 161 380 33 304 33C278 33 248 51 233 69L303 396C326 400 352 403 369 403C428 403 482 380 482 289Z"/></g></svg> value &lt;0.2 during the bivariable binary logistic regression analysis were included in the multivariable binary logistic regression analysis. Variables with <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" style="vertical-align:-3.42943pt" id="M2" height="10.2124pt" version="1.1" viewBox="-0.0498162 -6.78297 7.83752 10.2124" width="7.83752pt"><g transform="matrix(.013,0,0,-0.013,0,0)"><use xlink:href="#g113-113"/></g></svg> value &lt;0.05 were declared as significantly associated with outcomes. <i>Results</i>. The mean age of the study participants was 10.19 (±1.62) years. About 58.8%, 45.8%, and 78.6% of the schoolchildren had better self-reported <i>pediculus capitis</i> prevention knowledge, attitude, and practice, respectively. Age of children [9 to 11 years (<span class="inline_break"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="37.647pt" style="vertical-align:-0.2324905pt" id="M3" height="8.98583pt" version="1.1" viewBox="-0.0498162 -8.75334 37.647 8.98583"><g transform="matrix(.013,0,0,-0.013,0,0)"><path id="g190-66" d="M673 0V28C608 34 594 43 563 129C499 303 432 494 370 665L339 656L132 132C98 43 84 37 20 28V0H238V28C162 35 154 45 175 108C188 150 203 192 219 237H432C454 176 474 122 487 83S491 36 428 28V0H673ZM418 280H234C265 362 296 450 328 535H330L418 280Z"/></g><g transform="matrix(.013,0,0,-0.013,8.618,0)"><path id="g190-80" d="M381 665C170 665 44 498 44 318C44 125 188 -15 369 -15C552 -15 703 117 703 333C703 534 550 665 381 665ZM359 629C491 629 601 517 601 306C601 114 502 21 390 21C249 21 146 158 146 346S248 629 359 629Z"/></g><g transform="matrix(.013,0,0,-0.013,18.211,0)"><path id="g190-83" d="M631 18C609 24 585 35 559 65C534 91 514 117 478 169C448 214 406 281 389 313C462 346 516 399 516 485C516 545 490 590 449 616C412 641 363 650 290 650H42V622C120 615 128 612 128 527V125C128 40 120 34 38 28V0H300V28C221 34 212 40 212 125V284H244C295 284 312 272 329 244C359 195 395 133 430 84C475 19 516 -3 592 -7C603 -8 615 -8 627 -8L631 18ZM212 316V563C212 591 215 602 223 607C231 613 248 617 277 617C352 617 423 577 423 469C423 415 407 375 368 345C343 324 310 316 260 316H212Z"/></g><g transform="matrix(.013,0,0,-0.013,30.016,0)"><path id="g117-34" d="M535 323V373H52V323H535ZM535 138V188H52V138H535Z"/></g></svg><span class="irelop"></span><span class="nowrap"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="21.894pt" style="vertical-align:-0.2324905pt" height="8.98583pt" version="1.1" viewBox="41.2291838 -8.75334 21.894 8.98583"><g transform="matrix(.013,0,0,-0.013,41.279,0)"><path id="g113-51" d="M412 140C382 77 369 73 315 73H129L270 222C362 320 402 379 402 466C402 571 322 635 234 635C177 635 130 609 99 576L42 495L64 475C90 514 133 568 201 568C274 568 318 519 318 435C318 349 255 267 193 193C144 135 87 78 32 23V0H405C417 45 427 89 440 131L412 140Z"/></g><g transform="matrix(.013,0,0,-0.013,47.519,0)"><path id="g113-47" d="M113 -12C146 -12 170 11 170 46C170 78 146 103 114 103S58 78 58 46C58 11 82 -12 113 -12Z"/></g><g transform="matrix(.013,0,0,-0.013,50.483,0)"><use xlink:href="#g113-51"/></g><g transform="matrix(.013,0,0,-0.013,56.723,0)"><path id="g113-53" d="M456 178V225H360V632H320C217 496 115 347 20 206V178H280V106C280 40 276 34 189 27V0H445V27C364 34 360 39 360 106V178H456ZM280 225H82C149 335 214 431 278 520H280V225Z"/></g></svg>,</span></span> 95% C.I (1.10, 4.55)) and&gt;12 years (<span class="inline_break"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="37.647pt" style="vertical-align:-0.2324905pt" id="M4" height="8.98583pt" version="1.1" viewBox="-0.0498162 -8.75334 37.647 8.98583"><g transform="matrix(.013,0,0,-0.013,0,0)"><use xlink:href="#g190-66"/></g><g transform="matrix(.013,0,0,-0.013,8.618,0)"><use xlink:href="#g190-80"/></g><g transform="matrix(.013,0,0,-0.013,18.211,0)"><use xlink:href="#g190-83"/></g><g transform="matrix(.013,0,0,-0.013,30.016,0)"><use xlink:href="#g117-34"/></g></svg><span class="irelop"></span><span class="nowrap"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="21.894pt" style="vertical-align:-0.2324905pt" height="8.98583pt" version="1.1" viewBox="41.2291838 -8.75334 21.894 8.98583"><g transform="matrix(.013,0,0,-0.013,41.279,0)"><path id="g113-52" d="M285 378C315 398 338 416 353 432C373 451 384 474 384 503C384 579 325 635 236 635H235C182 635 136 610 108 579L65 516L85 496C110 533 150 575 205 575C258 575 300 543 300 481C300 407 232 369 141 339L147 310C163 315 188 321 211 321C268 321 338 284 338 192C338 94 288 40 217 40C160 40 119 68 93 91C85 98 77 97 69 91C60 84 47 71 46 58C44 46 48 35 62 22C75 10 116 -12 162 -12C234 -12 424 62 424 224C424 297 373 359 285 376V378Z"/></g><g transform="matrix(.013,0,0,-0.013,47.52,0)"><use xlink:href="#g113-47"/></g><g transform="matrix(.013,0,0,-0.013,50.484,0)"><path id="g113-57" d="M249 635C141 635 70 555 70 471C70 401 114 353 179 316C143 294 106 267 90 252C68 231 45 202 45 157C45 50 130 -12 237 -12C322 -12 435 52 435 169C435 256 372 304 303 343C349 374 375 398 383 407C401 429 411 458 411 487C411 569 344 635 249 635ZM238 603C285 603 337 567 337 482C337 422 310 385 276 358C205 393 145 426 145 500C145 552 179 603 238 603ZM248 20C183 20 125 70 125 163C125 218 158 268 206 300C284 261 355 217 355 143C355 66 308 20 248 20Z"/></g><g transform="matrix(.013,0,0,-0.013,56.724,0)"><use xlink:href="#g113-53"/></g></svg>,</span></span> 95% C.I (1.56, 9.46))], better practice (<span class="inline_break"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="37.647pt" style="vertical-align:-0.2324905pt" id="M5" height="8.98583pt" version="1.1" viewBox="-0.0498162 -8.75334 37.647 8.98583"><g transform="matrix(.013,0,0,-0.013,0,0)"><use xlink:href="#g190-66"/></g><g transform="matrix(.013,0,0,-0.013,8.618,0)"><use xlink:href="#g190-80"/></g><g transform="matrix(.013,0,0,-0.013,18.211,0)"><use xlink:href="#g190-83"/></g><g transform="matrix(.013,0,0,-0.013,30.016,0)"><use xlink:href="#g117-34"/></g></svg><span class="irelop"></span><span class="nowrap"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="21.894pt" style="vertical-align:-0.2324905pt" height="8.98583pt" version="1.1" viewBox="41.2291838 -8.75334 21.894 8.98583"><g transform="matrix(.013,0,0,-0.013,41.279,0)"><use xlink:href="#g113-51"/></g><g transform="matrix(.013,0,0,-0.013,47.519,0)"><use xlink:href="#g113-47"/></g><g transform="matrix(.013,0,0,-0.013,50.483,0)"><path id="g113-58" d="M244 635C114 635 38 519 38 422C38 317 111 240 217 240C236 240 255 244 277 256L345 292C311 140 203 39 59 15L64 -15C89 -15 150 -5 204 17C339 72 440 202 440 386C440 521 368 635 244 635ZM228 602C326 602 352 479 352 390C352 370 351 347 348 324C327 308 293 296 258 296C174 296 124 369 124 458C124 517 152 602 228 602Z"/></g><g transform="matrix(.013,0,0,-0.013,56.724,0)"><use xlink:href="#g113-52"/></g></svg>,</span></span> 95% C.I (1.39, 6.18)), and those who were not infested (<span class="inline_break"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="37.647pt" style="vertical-align:-0.2324905pt" id="M6" height="8.98583pt" version="1.1" viewBox="-0.0498162 -8.75334 37.647 8.98583"><g transform="matrix(.013,0,0,-0.013,0,0)"><use xlink:href="#g190-66"/></g><g transform="matrix(.013,0,0,-0.013,8.618,0)"><use xlink:href="#g190-80"/></g><g transform="matrix(.013,0,0,-0.013,18.211,0)"><use xlink:href="#g190-83"/></g><g transform="matrix(.013,0,0,-0.013,30.016,0)"><use xlink:href="#g117-34"/></g></svg><span class="irelop"></span><span class="nowrap"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="21.894pt" style="vertical-align:-0.2324905pt" height="8.98583pt" version="1.1" viewBox="41.2291838 -8.75334 21.894 8.98583"><g transform="matrix(.013,0,0,-0.013,41.279,0)"><use xlink:href="#g113-51"/></g><g transform="matrix(.013,0,0,-0.013,47.519,0)"><use xlink:href="#g113-47"/></g><g transform="matrix(.013,0,0,-0.013,50.483,0)"><use xlink:href="#g113-51"/></g><g transform="matrix(.013,0,0,-0.013,56.723,0)"><path id="g113-54" d="M153 550H386L412 615L406 623H120L82 318C104 327 142 338 184 338C294 338 347 275 347 187C347 112 305 39 221 39C160 39 119 71 97 89C88 97 80 96 71 90C59 80 50 67 49 57C48 45 52 3
+ER  - 
+TY  - JOUR
+T1  - Sitting posture monitoring system based on a low-cost load cell using machine learning
+A1  - Roh, Jongryun
+A1  - Park, Hyeong-jun
+A1  - Lee, Kwang Jin
+A1  - Hyeong, Joonho
+A1  - Kim, Sayup
+A1  - Lee, Boreom
+Y1  - 2018///
+PB  - MDPI
+JF  - Sensors
+VL  - 18
+IS  - 1
+SP  - 208
+EP  - 208
+ER  - 
+TY  - JOUR
+T1  - Abnormal sitting posture recognition based on multi-scale spatiotemporal features of skeleton graph
+A1  - Li, Linhan
+A1  - Yang, Guanci
+A1  - Li, Yang
+A1  - Zhu, Dongying
+A1  - He, Ling
+Y1  - 2023///
+PB  - Elsevier
+JF  - Engineering Applications of Artificial Intelligence
+VL  - 123
+SP  - 106374
+EP  - 106374
+ER  - 
+TY  - JOUR
+T1  - Driver activity recognition from sitting postures
+A1  - Riener, Andreas
+A1  - Ferscha, Alois
+Y1  - 2007///
+PB  - Verlag der Bauhaus-Universität Weimar
+JF  - Mensch & Computer 2007 Workshopband
+ER  - 
+TY  - JOUR
+T1  - Monitoring of posture allocations and activities by a shoe-based wearable sensor
+A1  - Sazonov, Edward S
+A1  - Fulk, George
+A1  - Hill, James
+A1  - Schutz, Yves
+A1  - Browning, Raymond
+Y1  - 2010///
+PB  - IEEE
+JF  - IEEE Transactions on Biomedical Engineering
+VL  - 58
+IS  - 4
+SP  - 983
+EP  - 990
+ER  - 
+TY  - JOUR
+T1  - Prevalence and associated factors related to arm, neck and shoulder complaints in a selected sample of computer office workers
+A1  - Elshaer, Noha
+Y1  - 2017///
+KW  - Complaints
+KW  - Workers
+KW  - factors
+KW  - neck
+KW  - prevalence
+JF  - Journal of Egyptian Public Health Association
+VL  - 92
+LA  - en
+IS  - 4
+SP  - 203
+EP  - 211
+CY  - Community Medicine Department, Faculty of Medicine, Alexandria University, Alexandria, Egypt
+DO  - 10.21608/EPX.2018.22041
+UR  - https://epx.journals.ekb.eg/article_22466.html
+UR  - https://epx.journals.ekb.eg/article_22466_9f58f99a68f2a1fd51b9af73fca423d2.pdf
+N2  - Background: Globally, there is an expansion in computer-related work, which may have contributed to an increased burden of complaints of the arm, neck and/or shoulder (CANS). The study was conducted to determine the prevalence and factors associated with CANS among computer office workers (OWs) in Alexandria.Participants and Methods: Computer OWs at four banks and two telecommunication companies (n=211) were included in a cross-sectional study in 2016. Data were collected using the self-administered Musculoskeletal Upper Extremity Questionnaire-Arabic version. Potentially related factors were examined using bivariate and multivariate analyses.Results: The sample comprised 95 (45.02%) males and 116 (54.97%) females. Overall, 72% aged 25–35 years. Prevalence with 95% confidence interval (CI) for CANS was 0.73 (95% CI: 0.66–0.79), 0.69 (95% CI: 0.62–0.75) and 0.70 (95% CI: 0.64–0.76), respectively. The majority of the complaints were minor (86%). Factors significantly associated with neck complaints were female sex (P=0.03), inappropriate office equipment (P=0.02), task complexity (P<0.01), break autonomy (P=0.02) and low decision authority (P=0.05). Factors significantly associated with arm/hand complaints were female sex (P=0.01), awkward body posture (P=0.05), break autonomy (P<0.01) and low break quality (P=0.04)Conclusion: The study revealed high prevalence of CANS and highlighted associated factors, namely, task complexity, inappropriate office equipment, low decision authority, low break quality and female sex. Improving ergonomic conditions, reducing job demands, and increasing job control are crucial to reduce CANS among computer OWs.
+ER  - 
+TY  - CONF
+T1  - Design and development of a sitting posture recognition system
+A1  - Fragkiadakis, Emmanouil
+A1  - Dalakleidi, Kalliopi V
+A1  - Nikita, Konstantina S
+Y1  - 2019///
+PB  - IEEE
+JF  - 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+SP  - 3364
+EP  - 3367
+SN  - 1538613115
+ER  - 
+TY  - JOUR
+T1  - A smart chair sitting posture recognition system using flex sensors and FPGA implemented artificial neural network
+A1  - Hu, Qisong
+A1  - Tang, Xiaochen
+A1  - Tang, Wei
+Y1  - 2020///
+PB  - IEEE
+JF  - IEEE Sensors Journal
+VL  - 20
+IS  - 14
+SP  - 8007
+EP  - 8016
+ER  - 
+TY  - CONF
+T1  - Unobtrusive posture recognition via online learning of multi-dimensional RFID received signal strength
+A1  - Yao, Lina
+A1  - Sheng, Quan Z
+A1  - Ruan, Wenjie
+A1  - Li, Xue
+A1  - Wang, Sen
+A1  - Yang, Zhi
+Y1  - 2015///
+PB  - IEEE
+JF  - 2015 IEEE 21st International Conference on Parallel and Distributed Systems (ICPADS)
+SP  - 116
+EP  - 123
+SN  - 0769557856
+ER  - 
+TY  - JOUR
+T1  - Analysis of Available Solutions for the Improvement of Body Posture in Chairs
+A1  - Ordean, Mircea-Nicolae
+A1  - Oarcea, Alexandru
+A1  - Stan, Sergiu-Dan
+A1  - Dumitru, Diana-Mirela
+A1  - Cobîlean, Victor
+A1  - Bîrză, Marius-Constantin
+Y1  - 2022///
+PB  - MDPI
+JF  - Applied Sciences
+VL  - 12
+IS  - 13
+SP  - 6489
+EP  - 6489
+ER  - 
+TY  - CONF
+T1  - Real-time human sitting position recognition using wireless sensors
+A1  - Estrada, Jheanel E
+A1  - Vea, Larry A
+Y1  - 2020///
+JF  - Proceedings of the 2020 2nd International Conference on Image, Video and Signal Processing
+SP  - 133
+EP  - 137
+ER  - 
+TY  - JOUR
+T1  - Modelling Proper and Improper Sitting Posture of Computer Users Using Machine Vision for a Human–Computer Intelligent Interactive System during COVID-19
+A1  - Estrada, Jheanel E
+A1  - Vea, Larry A
+A1  - Devaraj, Madhavi
+Y1  - 2023///
+PB  - MDPI
+JF  - Applied Sciences
+VL  - 13
+IS  - 9
+SP  - 5402
+EP  - 5402
+ER  - 
+TY  - JOUR
+T1  - The effectiveness of a training method using self-modeling webcam photos for reducing musculoskeletal risk among office workers using computers
+A1  - Taieb-Maimon, Meirav
+A1  - Cwikel, Julie
+A1  - Shapira, Bracha
+A1  - Orenstein, Ido
+Y1  - 2012///
+PB  - Elsevier
+JF  - Applied ergonomics
+VL  - 43
+IS  - 2
+SP  - 376
+EP  - 385
+ER  - 
+TY  - JOUR
+T1  - Efficient Sitting Posture Recognition for Wheelchair Users: An Unsupervised Data-Driven Framework
+A1  - Kini, K Ramakrishna
+A1  - Harrou, Fouzi
+A1  - Madakyaru, Muddu
+A1  - Kadri, Farid
+A1  - Sun, Ying
+Y1  - 2023///
+PB  - IEEE
+JF  - IEEE Instrumentation & Measurement Magazine
+VL  - 26
+IS  - 4
+SP  - 37
+EP  - 43
+ER  - 
+TY  - JOUR
+T1  - A Low-Cost Inertial Measurement Unit Motion Capture System for Operation Posture Collection and Recognition
+A1  - Yin, Mingyue
+A1  - Li, Jianguang
+A1  - Wang, Tiancong
+Y1  - 2024///
+PB  - MDPI
+JF  - Sensors
+VL  - 24
+IS  - 2
+ER  - 
+TY  - JOUR
+T1  - Breaking up sitting time after stroke (BUST-stroke)
+A1  - English, Coralie
+A1  - Janssen, Heidi
+A1  - Crowfoot, Gary
+A1  - Callister, Robin
+A1  - Dunn, Ashlee
+A1  - Mackie, Paul
+A1  - Oldmeadow, Christopher
+A1  - Ong, Lin K
+A1  - Palazzi, Kerrin
+A1  - Patterson, Amanda J
+Y1  - 2018///
+PB  - SAGE Publications Sage UK: London, England
+JF  - International journal of stroke
+VL  - 13
+IS  - 9
+SP  - 921
+EP  - 931
+ER  - 
+TY  - CONF
+T1  - Kinect-based intelligent monitoring and warning of students' sitting posture
+A1  - Sun, Heng
+A1  - Zhu, Guo-an
+A1  - Cui, Xu
+A1  - Wang, Jin-Xiang
+Y1  - 2021///
+PB  - IEEE
+JF  - 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE)
+SP  - 338
+EP  - 342
+SN  - 1665435763
+ER  - 
+TY  - JOUR
+T1  - Posture recognition based on fuzzy logic for home monitoring of the elderly
+A1  - Brulin, Damien
+A1  - Benezeth, Yannick
+A1  - Courtial, Estelle
+Y1  - 2012///
+PB  - IEEE
+JF  - IEEE transactions on information technology in biomedicine
+VL  - 16
+IS  - 5
+SP  - 974
+EP  - 982
+ER  - 
+TY  - CHAP
+T1  - Similarity index retrieval for school kids' sitting posture identification
+A1  - Gupta, M
+A1  - Sharma, S
+A1  - Bhatia, M
+A1  - Gupta, N
+Y1  - 2024///
+JF  - Predictive Data Modelling for Biomedical Data and Imaging
+SP  - 231
+EP  - 247
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196243451&partnerID=40&md5=499534c1074bd7d1213537eeb592de76
+N1  - Export Date: 20 July 2024; Cited By: 0
+ER  - 
+TY  - CONF
+T1  - SPRNet: Sitting Posture Recognition Using improved Vision Transformer
+A1  - Fang, Yi
+A1  - Shi, Shoudong
+A1  - Fang, Jingsen
+A1  - Yin, Wenting
+Y1  - 2022///
+PB  - IEEE
+JF  - 2022 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 6
+SN  - 1728186714
+ER  - 
+TY  - JOUR
+T1  - Video based exercise recognition and correct pose detection
+A1  - Rangari, Tushar
+A1  - Kumar, Sudhanshu
+A1  - Roy, Partha Pratim
+A1  - Dogra, Debi Prosad
+A1  - Kim, Byung-Gyu
+Y1  - 2022///
+PB  - Springer
+JF  - Multimedia Tools and Applications
+VL  - 81
+IS  - 21
+SP  - 30267
+EP  - 30282
+ER  - 
+TY  - CONF
+T1  - Sitting Posture Recognition Based on the Computer's Camera
+A1  - Zhao, Songyin
+A1  - Su, Yang
+Y1  - 2024///
+JF  - Proceedings of the 2024 2nd Asia Conference on Computer Vision, Image Processing and Pattern Recognition
+SP  - 1
+EP  - 5
+ER  - 
+TY  - JOUR
+T1  - Sitting posture recognition by body pressure distribution and airbag regulation strategy based on seat comfort evaluation
+A1  - Yongxiang, Jiang
+A1  - Jingle, Duan
+A1  - Sanpeng, Deng
+A1  - Yuming, Qi
+A1  - Peng, Wang
+A1  - Zijing, Wang
+A1  - Tianjiang, Zhang
+Y1  - 2019///
+PB  - Wiley Online Library
+JF  - The Journal of Engineering
+VL  - 2019
+IS  - 23
+SP  - 8910
+EP  - 8914
+ER  - 
+TY  - CONF
+T1  - Sitting posture analysis by pressure sensors
+A1  - Kamiya, Kazuhiro
+A1  - Kudo, Mineichi
+A1  - Nonaka, Hidetoshi
+A1  - Toyama, Jun
+Y1  - 2008///
+PB  - IEEE
+JF  - 2008 19th International Conference on Pattern Recognition
+SP  - 1
+EP  - 4
+SN  - 1424421748
+ER  - 
+TY  - JOUR
+T1  - Sitsen: Passive sitting posture sensing based on wireless devices
+A1  - Li, Miaoyu
+A1  - Jiang, Zhuohan
+A1  - Liu, Yutong
+A1  - Chen, Shuheng
+A1  - Wozniak, Marcin
+A1  - Scherer, Rafal
+A1  - Damasevicius, Robertas
+A1  - Wei, Wei
+A1  - Li, Ziyi
+A1  - Li, Zuxin
+Y1  - 2021///
+PB  - SAGE Publications Sage UK: London, England
+JF  - International Journal of Distributed Sensor Networks
+VL  - 17
+IS  - 7
+SP  - 15501477211024846
+EP  - 15501477211024846
+ER  - 
+TY  - JOUR
+T1  - Low back symptoms among hospital nurses, associations to individual factors and pain in multiple body regions
+A1  - Daraiseh, N M
+A1  - Cronin, S N
+A1  - Davis, L S
+A1  - Shell, R L
+A1  - Karwowski, W
+Y1  - 2010///
+PB  - Elsevier
+JF  - International Journal of Industrial Ergonomics
+VL  - 40
+IS  - 1
+SP  - 19
+EP  - 24
+ER  - 
+TY  - JOUR
+T1  - SitR: Sitting posture recognition using RF signals
+A1  - Feng, Lin
+A1  - Li, Ziyi
+A1  - Liu, Chen
+A1  - Chen, Xiaojiang
+A1  - Yin, Xiao
+A1  - Fang, Dingyi
+Y1  - 2020///
+PB  - IEEE
+JF  - IEEE Internet of Things Journal
+VL  - 7
+IS  - 12
+SP  - 11492
+EP  - 11504
+ER  - 
+TY  - JOUR
+T1  - Effects of Different Sitting Postures on Back Shape and Hip Pressure
+A1  - Liu, Y
+A1  - Han, Z
+A1  - Chen, X
+A1  - Ru, S
+A1  - Yan, B
+Y1  - 2023///
+JF  - Yiyong Shengwu Lixue/Journal of Medical Biomechanics
+VL  - 38
+IS  - 4
+SP  - 756
+EP  - 762
+DO  - 10.16156/j.1004-7220.2023.04.018
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171999125&doi=10.16156%2Fj.1004-7220.2023.04.018&partnerID=40&md5=66655411b3eeeba8e6425e6f30358982
+N1  - Export Date: 20 July 2024; Cited By: 1
+ER  - 
+TY  - JOUR
+T1  - A smart chair sitting posture recognition system using flex sensors and FPGA implemented artificial neural network
+A1  - Hu, Qisong
+A1  - Tang, Xiaochen
+A1  - Tang, Wei
+Y1  - 2020///
+PB  - IEEE
+JF  - IEEE Sensors Journal
+VL  - 20
+IS  - 14
+SP  - 8007
+EP  - 8016
+ER  - 
+TY  - JOUR
+T1  - Intellichair: A non-intrusive sitting posture and sitting activity recognition system
+A1  - Fu, Teng
+Y1  - 2015///
+PB  - Abertay University
+ER  - 
+TY  - CONF
+T1  - Research and Application of Sitting Posture Correction Design Based on Artificial Intelligence
+A1  - Wang, Yi
+Y1  - 2022///
+PB  - IEEE
+JF  - 2022 4th International Conference on Artificial Intelligence and Advanced Manufacturing (AIAM)
+SP  - 884
+EP  - 888
+SN  - 1665463996
+ER  - 
+TY  - JOUR
+T1  - SitPAA: Sitting Posture and Action Recognition Using Acoustic Sensing
+A1  - Qu, Yanxu
+A1  - Gao, Wei
+A1  - Liu, Chao
+Y1  - 2023///
+PB  - MDPI
+JF  - Electronics
+VL  - 13
+IS  - 1
+SP  - 40
+EP  - 40
+ER  - 
+TY  - CONF
+T1  - Force Sensing Resistor (FSR): a brief overview and the low-cost sensor for active compliance control
+A1  - Sadun, A S
+A1  - Jalani, J
+A1  - Sukor, J A
+Y1  - 2016///
+PB  - SPIE
+JF  - First international workshop on pattern recognition
+VL  - 10011
+SP  - 222
+EP  - 226
+ER  - 
+TY  - JOUR
+T1  - Physical activity guidelines for Americans
+A1  - Olson, Richard D
+A1  - Vaux-Bjerke, Alison
+A1  - Quam, Julia B
+A1  - Piercy, Katrina L
+A1  - Troiano, Richard P
+A1  - George, Stephanie M
+A1  - Sprow, Kyle
+A1  - Ballard, Rachel M
+A1  - Fulton, Janet E
+A1  - Galuska, Deborah A
+Y1  - 2023///
+JF  - NADAR! SWIMMING MAGAZINE-Periódico científico em esportes e fitness aquático-natação, pólo aquático, nado sincronizado, saltos ornamentais, travessias aquáticas
+ER  - 
+TY  - JOUR
+T1  - Trends in sedentary behavior among the US population, 2001-2016
+A1  - Yang, Lin
+A1  - Cao, Chao
+A1  - Kantor, Elizabeth D
+A1  - Nguyen, Long H
+A1  - Zheng, Xiaobin
+A1  - Park, Yikyung
+A1  - Giovannucci, Edward L
+A1  - Matthews, Charles E
+A1  - Colditz, Graham A
+A1  - Cao, Yin
+Y1  - 2019///
+PB  - American Medical Association
+JF  - Jama
+VL  - 321
+IS  - 16
+SP  - 1587
+EP  - 1597
+ER  - 
+TY  - CONF
+T1  - Integration of a Smart Bed Infrastructure with Hospital Information Systems using Fast Health Interoperability Resources:* A case study of the Wireless biOmonitoring stickers and smart bed architecture: toWards Untethered Patients (WoW) R&D Project
+A1  - Portugal, David
+A1  - Faria, José N
+A1  - Domingues, Marco
+A1  - Gaspar, Luís
+Y1  - 2023///
+PB  - IEEE
+JF  - 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)
+SP  - 1
+EP  - 6
+SN  - 1665497343
+ER  - 
+TY  - CONF
+T1  - A Method of Learner's Sitting Posture Recognition Based on Depth Image
+A1  - Zeng, Xing
+A1  - Sun, Bei
+A1  - Wang, Enlong
+A1  - Luo, Wusheng
+A1  - Liu, Taocheng
+Y1  - 2017///
+PB  - Atlantis Press
+JF  - 2017 2nd International Conference on Control, Automation and Artificial Intelligence (CAAI 2017)
+SP  - 558
+EP  - 563
+SN  - 9462523606
+ER  - 
+TY  - JOUR
+T1  - Knitted self-powered sensing textiles for machine learning-assisted sitting posture monitoring and correction
+A1  - Jiang, Yang
+A1  - An, Jie
+A1  - Liang, Fei
+A1  - Zuo, Guoyu
+A1  - Yi, Jia
+A1  - Ning, Chuan
+A1  - Zhang, Hong
+A1  - Dong, Kai
+A1  - Wang, Zhong Lin
+Y1  - 2022///
+PB  - Springer
+JF  - Nano Research
+VL  - 15
+IS  - 9
+SP  - 8389
+EP  - 8397
+ER  - 
+TY  - JOUR
+T1  - Sitsen: Passive sitting posture sensing based on wireless devices
+A1  - Li, Miaoyu
+A1  - Jiang, Zhuohan
+A1  - Liu, Yutong
+A1  - Chen, Shuheng
+A1  - Wozniak, Marcin
+A1  - Scherer, Rafal
+A1  - Damasevicius, Robertas
+A1  - Wei, Wei
+A1  - Li, Ziyi
+A1  - Li, Zuxin
+Y1  - 2021///
+PB  - SAGE Publications Sage UK: London, England
+JF  - International Journal of Distributed Sensor Networks
+VL  - 17
+IS  - 7
+SP  - 15501477211024846
+EP  - 15501477211024846
+ER  - 
